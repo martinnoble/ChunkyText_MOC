@@ -25,7 +25,7 @@ OL,20,G``````````````````````````````````1/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
+OL,24,AMates  BEco-Scene  CAbout  FDigitiser  
 PN,14601
 SC,0001
 PS,8000
@@ -51,7 +51,7 @@ OL,20,G``````````````````````````````````1/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
+OL,24,AMates  BEco-Scene  CAbout  FDigitiser  
 PN,14602
 SC,0002
 PS,C008
@@ -77,7 +77,7 @@ OL,20,G``````````````````````````````````2/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
+OL,24,AMates  BEco-Scene  CAbout  FDigitiser  
 PN,14602
 SC,0002
 PS,8000
@@ -103,4 +103,4 @@ OL,20,G``````````````````````````````````2/2``
 OL,21, B60 words max. Letters may be amended. 
 OL,22,A]GWRITE TO: NICK FISHER, PO BOX 297,   
 OL,23,A]         GLONDON, SW6 1XT.            
-OL,24,AMates  BEco-Scene  FAbout  FDigitiser  
+OL,24,AMates  BEco-Scene  CAbout  FDigitiser  
