@@ -1,16 +1,15 @@
 DE,Chunky Fringe Index
 CT,8,T
-PS,C000
 PN,10100
 SC,0000
-FL,102,103,150,170,1ff,100
+PS,c000
 OL,1,D]S    #j=|h4|h<|ju<h4|($|l4|x4n=     
 OL,2,D]S    pj5juj5j5bs  s1~o4j5     
 OL,3,A```````````````````````````````````````
 OL,4,C              F.   C              F.   
 OL,5,CTEENS MAGAZINEF.140C              F.   
 OL,6,CGAMESF..........150C              F.   
-OL,7,C              F.   C              F.   
+OL,7,CENVIRONMENTF....160C              F.   
 OL,8,CCOMPUTER GAMESF.170C              F.   
 OL,9,CKIDS MAGAZINEF..190C              F.   
 OL,10,C              F.   C              F.   
@@ -24,6 +23,7 @@ OL,17,C              F.   C              F.
 OL,18,C              F.   C              F.   
 OL,19,C              F.   C              F.   
 OL,20,C              F.   C              F.   
-OL,21,ACUSER GUIDEF.....103CAboutF.... 102A 
-OL,22,D]MG    FUN AND GAMES INDEX p150        
+OL,21,ACUSER GUIDEF.....103CABOUTF.... 102A 
+OL,22,D]MGADD YOUR OWN PAGES TO THE INDEX p103
 OL,24,AAboutBUser GuideCFun & GamesFDigitiser 
+FL,102,103,150,170,1ff,100
