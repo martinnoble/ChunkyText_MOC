@@ -1,18 +1,23 @@
-DE,Artist showcase
+DE,
 CT,8,T
 PS,C008
 PN,10401
 SC,0001
-FL,110,140,150,101,8ff,8ff
+FL,110,111,150,101,8ff,8ff
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
 OL,4,                              S #///'!  
 OL,5,C]DNIKKI  \                             
-OL,6,GA relative newcomer to teletext Art,   
-OL,7,GNikki has been producing some excellent
-OL,8,Gportraits.CSee p110.    F@NikkiAndBunty
+OL,6,GA newcomer to teletext Art, Nikki has  
+OL,7,Gbeen producing some excellent portraits
+OL,8,CSee p110.  F@NikkiAndBunty             
+OL,10,C]DJELLICA  \                           
+OL,11,GJellica went to Block Party in 2017 and
+OL,12,Ghasn't stopped making teletext art     
+OL,13,Gsince. He also makes Commodore 64 Music
+OL,14,CSee p111.  F@JellicaJake               
 OL,20,G``````````````````````````````````1/1``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ANikki BTeens  CFun & Games  FMain Index
+OL,24,ANikki BJellicaCFun & Games  FMain Index
