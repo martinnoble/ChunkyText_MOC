@@ -1,8 +1,33 @@
 DE,
 CT,8,T
-PS,C008
 PN,10401
 SC,0001
+PS,C000
+FL,110,111,112,101,8ff,100
+OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
+OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
+OL,3,G`````````````````````````````Sj]Q|T/G\`
+OL,4,C]DNIKKI  \                   S #///'!  
+OL,5,GA newcomer to teletext Art, Nikki has  
+OL,6,Gbeen producing some excellent portraits
+OL,7,CSee p110.  F@NikkiAndBunty             
+OL,9,C]DJELLICA  \                           
+OL,10,GJellica went to Block Party in 2017 and
+OL,11,Ghasn't stopped making teletext art     
+OL,12,Gsince. He also makes Commodore 64 Music
+OL,13,CSee p111.  F@JellicaJake               
+OL,15,C]DDAN FARRIMOND  \                     
+OL,16,GThe current 'scene' surely owes a lot  
+OL,17,Gto Dan's enthusiasm for teletext. His  
+OL,18,Gpages feature many familiar Digi faces.
+OL,19,CSee p112.  F@illarterate               
+OL,20,G``````````````````````````````````1/3``
+OL,21,     CChunkytext editing guideF103      
+OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
+OL,24,ANikki BJellicaCDan FarrimondFMain Index
+PN,10401
+SC,0001
+PS,8000
 FL,110,111,112,101,8ff,100
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
@@ -27,80 +52,59 @@ OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170
 OL,24,ANikki BJellicaCDan FarrimondFMain Index
 PN,10402
 SC,0002
-FL,110,111,112,101,8ff,100
+PS,C000
+FL,113,114,115,101,8ff,100
+OL,26,@pDIRpoXpo
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DNIKKI  \                   S #///'!  
-OL,5,GA newcomer to teletext Art, Nikki has  
-OL,6,Gbeen producing some excellent portraits
-OL,7,CSee p110.  F@NikkiAndBunty             
-OL,9,C]DJELLICA  \                           
-OL,10,GJellica went to Block Party in 2017 and
-OL,11,Ghasn't stopped making teletext art     
-OL,12,Gsince. He also makes Commodore 64 Music
-OL,13,CSee p111.  F@JellicaJake               
-OL,15,C]DDAN FARRIMOND  \                     
-OL,16,GThe current 'scene' surely owes a lot  
-OL,17,Gto Dan's enthusiasm for teletext. His  
-OL,18,Gpages feature many familiar Digi faces.
-OL,19,CSee p112.  F@illarterate               
-OL,20,G``````````````````````````````````1/3``
+OL,4,C]DCARLOS  \                  S #///'!  
+OL,5,GSelf described agent provocateur, Carl 
+OL,6,Gcreated the Teletext Facebook group and
+OL,7,Gis one half of the teletextr podcast.  
+OL,8,CSee p113.  F@that other Carl           
+OL,10,C]DZXGUESSER  \                         
+OL,11,GCreator of the zxnet teletext editor.  
+OL,12,GLevel 2.5 nerd who just traces stuff.  
+OL,13,CSee p114.  F@ZXGuesser                 
+OL,15,C]DHORSENBURGER  \                      
+OL,16,GSteve "Horsenburger" Horsley worked on 
+OL,17,Gteletext creating graphics for adverts.
+OL,18,GNow without a doubt the UK's foremost  
+OL,19,Gteletext artist.CSee p115F@Horsenburger
+OL,20,G``````````````````````````````````2/3``
 OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ANikki BJellicaCDan FarrimondFMain Index
+OL,22,A]CMRETRO WORKSHOP YOUTUBE SHOW  p120   
+OL,24,ACarlosBZXGuesserCHorsenburgerFMainIndex
+PN,10402
+SC,0002
+PS,8000
+FL,113,114,115,101,8ff,100
+OL,26,@pDIRpoXpo
+OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
+OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
+OL,3,G`````````````````````````````Sj]Q|T/G\`
+OL,4,C]DCARLOS  \                  S #///'!  
+OL,5,GSelf described agent provocateur, Carl 
+OL,6,Gcreated the Teletext Facebook group and
+OL,7,Gis one half of the teletextr podcast.  
+OL,8,CSee p113.  F@that other Carl           
+OL,10,C]DZXGUESSER  \                         
+OL,11,GCreator of the zxnet teletext editor.  
+OL,12,GLevel 2.5 nerd who just traces stuff.  
+OL,13,CSee p114.  F@ZXGuesser                 
+OL,15,C]DHORSENBURGER  \                      
+OL,16,GSteve "Horsenburger" Horsley worked on 
+OL,17,Gteletext creating graphics for adverts.
+OL,18,GNow without a doubt the UK's foremost  
+OL,19,Gteletext artist.CSee p115F@Horsenburger
+OL,20,G``````````````````````````````````2/3``
+OL,21,     CChunkytext editing guideF103      
+OL,22,A]CMRETRO WORKSHOP YOUTUBE SHOW  p120   
+OL,24,ACarlosBZXGuesserCHorsenburgerFMainIndex
 PN,10403
 SC,0003
-FL,113,114,115,101,8ff,100
-OL,26,@pDIRpoXpo
-OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
-OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
-OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DCARLOS  \                  S #///'!  
-OL,5,GSelf described agent provocateur, Carl 
-OL,6,Gcreated the Teletext Facebook group and
-OL,7,Gis one half of the teletextr podcast.  
-OL,8,CSee p113.  F@that other Carl           
-OL,10,C]DZXGUESSER  \                         
-OL,11,GCreator of the zxnet teletext editor.  
-OL,12,GLevel 2.5 nerd who just traces stuff.  
-OL,13,CSee p114.  F@ZXGuesser                 
-OL,15,C]DHORSENBURGER  \                      
-OL,16,GSteve "Horsenburger" Horsley worked on 
-OL,17,Gteletext creating graphics for adverts.
-OL,18,GNow without a doubt the UK's foremost  
-OL,19,Gteletext artist.CSee p115F@Horsenburger
-OL,20,G``````````````````````````````````2/3``
-OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ACarlosBZXGuesserCHorsenburgerFMainIndex
-PN,10404
-SC,0004
-FL,113,114,115,101,8ff,100
-OL,26,@pDIRpoXpo
-OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
-OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
-OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DCARLOS  \                  S #///'!  
-OL,5,GSelf described agent provocateur, Carl 
-OL,6,Gcreated the Teletext Facebook group and
-OL,7,Gis one half of the teletextr podcast.  
-OL,8,CSee p113.  F@that other Carl           
-OL,10,C]DZXGUESSER  \                         
-OL,11,GCreator of the zxnet teletext editor.  
-OL,12,GLevel 2.5 nerd who just traces stuff.  
-OL,13,CSee p114.  F@ZXGuesser                 
-OL,15,C]DHORSENBURGER  \                      
-OL,16,GSteve "Horsenburger" Horsley worked on 
-OL,17,Gteletext creating graphics for adverts.
-OL,18,GNow without a doubt the UK's foremost  
-OL,19,Gteletext artist.CSee p115F@Horsenburger
-OL,20,G``````````````````````````````````2/3``
-OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ACarlosBZXGuesserCHorsenburgerFMainIndex
-PN,10405
-SC,0005
+PS,C000
 FL,116,117,118,101,8ff,100
 OL,26,@xdCGrbydBErrhdM[rr
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
@@ -122,10 +126,11 @@ OL,18,Gsadly, means they've only heard of
 OL,19,Gteletext recently.CSee p118  F@Vesme   
 OL,20,G``````````````````````````````````3/3``
 OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
+OL,22,A]CM     MICROBRITS BOOK  p105          
 OL,24,AMordenBAndy JenkinsonCVesme FMain Index
-PN,10406
-SC,0006
+PN,10403
+SC,0003
+PS,8000
 FL,116,117,118,101,8ff,100
 OL,26,@xdCGrbydBErrhdM[rr
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
@@ -147,5 +152,5 @@ OL,18,Gsadly, means they've only heard of
 OL,19,Gteletext recently.CSee p118  F@Vesme   
 OL,20,G``````````````````````````````````3/3``
 OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
+OL,22,A]CM     MICROBRITS BOOK  p105          
 OL,24,AMordenBAndy JenkinsonCVesme FMain Index

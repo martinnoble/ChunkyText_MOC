@@ -1,0 +1,164 @@
+DE,Retroworkshop - Spectrum
+CT,8,T
+PN,12201
+SC,0001
+PS,C000
+FL,123,121,124,101,8ff,120
+OL,1,Wj#######3###################5          
+OL,2,Wj <,$||4=,$<,$<,4           5A         
+OL,3,Wj %  -,$-,$%  -,%           5A         
+OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5A         
+OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5AAA    A  
+OL,6,W"###########################!A         
+OL,7,MSinclair Spectrum Double RestorationM  
+OL,9,BI owned a Spectrum +2 many years agoBB 
+OL,10,Bbut never the original Spectrum. I'd   
+OL,11,Bseen a load of pictures on Twitter     
+OL,12,Bby ZXWife and thought I'd get a couple 
+OL,13,Bof machines to investigate - the       
+OL,14,Boriginal rubber keyed Spectrum, and the
+OL,15,Blater Spectrum Plus.B                  
+OL,16,FI like repairing machines as well as   
+OL,17,Fplaying with them, so took a gamble on 
+OL,18,Ftwo sold as "untested" on eBay. The    
+OL,19,Foriginal Spectrum cost #30 and I paid  
+OL,20,F#33 for the Spectrum Plus.    MM       
+OL,22,Q]MGvisit me onlineCretroworkshop.uk    
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
+PN,12201
+SC,0001
+PS,8000
+FL,123,121,124,101,8ff,120
+OL,1,Wj#######3###################5          
+OL,2,Wj <,$||4=,$<,$<,4           5A         
+OL,3,Wj %  -,$-,$%  -,%           5A         
+OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5A         
+OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5AAA    A  
+OL,6,W"###########################!A         
+OL,7,MSinclair Spectrum Double RestorationM  
+OL,9,BI owned a Spectrum +2 many years agoBB 
+OL,10,Bbut never the original Spectrum. I'd   
+OL,11,Bseen a load of pictures on Twitter     
+OL,12,Bby ZXWife and thought I'd get a couple 
+OL,13,Bof machines to investigate - the       
+OL,14,Boriginal rubber keyed Spectrum, and the
+OL,15,Blater Spectrum Plus.B                  
+OL,16,FI like repairing machines as well as   
+OL,17,Fplaying with them, so took a gamble on 
+OL,18,Ftwo sold as "untested" on eBay. The    
+OL,19,Foriginal Spectrum cost #30 and I paid  
+OL,20,F#33 for the Spectrum Plus.    MM       
+OL,22,Q]MGvisit me onlineCretroworkshop.uk    
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
+PN,12202
+SC,0002
+PS,C000
+FL,123,121,124,101,8ff,120
+OL,1,BThe original Spectrum was missing its  
+OL,2,Bcase screws and smelled of loft.       
+OL,3,BNeither machine came with a powersupply
+OL,4,Bso I bought one from tfw8bit.com.      
+OL,5,FBefore powering up an old Spectrum it  
+OL,6,Fis advisable to perform some checks    
+OL,7,Fusing a multi-meter. Detecting failed  
+OL,8,Fcomponents can prevent further failures
+OL,9,Fas the RAM is susceptable to damage. My
+OL,10,Fmachines passed all pre-flight checks. 
+OL,11,EI replaced all the capacitors as the   
+OL,12,ESpectrum doesn't have good ventilation 
+OL,13,Eand these are prone to failure. I also 
+OL,14,Eadded a simple modification to bypass  
+OL,15,Ethe RF modulator, and pass the         
+OL,16,Ehigher quality composite video to the  
+OL,17,Erear video connector. This involved    
+OL,18,Eadding a single capacitor.             
+OL,19,AI used a diagnostic cartridge from     
+OL,20,ARetroleum that performed checks on the 
+OL,21,ARAM, ROM, keyboard and other parts.This
+OL,22,Ahighlighted a faulty speaker on the    
+OL,23,ASpectrum Plus which was then replaced. 
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
+PN,12202
+SC,0002
+PS,8000
+FL,123,121,124,101,8ff,120
+OL,1,BThe original Spectrum was missing its  
+OL,2,Bcase screws and smelled of loft.       
+OL,3,BNeither machine came with a powersupply
+OL,4,Bso I bought one from tfw8bit.com.      
+OL,5,FBefore powering up an old Spectrum it  
+OL,6,Fis advisable to perform some checks    
+OL,7,Fusing a multi-meter. Detecting failed  
+OL,8,Fcomponents can prevent further failures
+OL,9,Fas the RAM is susceptable to damage. My
+OL,10,Fmachines passed all pre-flight checks. 
+OL,11,EI replaced all the capacitors as the   
+OL,12,ESpectrum doesn't have good ventilation 
+OL,13,Eand these are prone to failure. I also 
+OL,14,Eadded a simple modification to bypass  
+OL,15,Ethe RF modulator, and pass the         
+OL,16,Ehigher quality composite video to the  
+OL,17,Erear video connector. This involved    
+OL,18,Eadding a single capacitor.             
+OL,19,AI used a diagnostic cartridge from     
+OL,20,ARetroleum that performed checks on the 
+OL,21,ARAM, ROM, keyboard and other parts.This
+OL,22,Ahighlighted a faulty speaker on the    
+OL,23,ASpectrum Plus which was then replaced. 
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
+PN,12203
+SC,0003
+PS,C000
+FL,123,121,124,101,8ff,120
+OL,1,BThe keyboard membrane on the original  
+OL,2,BSpectrum was brittle and cracked.The   
+OL,3,Bmembrane on the Plus had also suffered 
+OL,4,Band was blackened and sticky at the    
+OL,5,Bconnector. So both were replaced. The  
+OL,6,BPlus then had an issue with certain    
+OL,7,Bkeys appearing to be stuck, this was   
+OL,8,Bresolved by carefully adjusting the    
+OL,9,Bmembrane position.                     
+OL,10,FFinally both machines were disassembled
+OL,11,Fand given a good scrub with detergent. 
+OL,12,FOnce re-assembled the original Spectrum
+OL,13,Fwas treated to a brand new faceplate   
+OL,14,Fand it looks nearly as good as new.    
+OL,15,EI gave both machines a good workout    
+OL,16,Eincuding loading games from cassette   
+OL,17,Eand SD card, using a DiVMMC Future.    
+OL,18,AThe Spectrum is often remembered for   
+OL,19,Aits terrible keyboard. I typed in      
+OL,20,Athe same BASIC program listing on both 
+OL,21,Amachines. The Plus definately has an   
+OL,22,Aimproved keyboard, although the        
+OL,23,Arubber model was quite useable.        
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
+PN,12203
+SC,0003
+PS,8000
+FL,123,121,124,101,8ff,120
+OL,1,BThe keyboard membrane on the original  
+OL,2,BSpectrum was brittle and cracked.The   
+OL,3,Bmembrane on the Plus had also suffered 
+OL,4,Band was blackened and sticky at the    
+OL,5,Bconnector. So both were replaced. The  
+OL,6,BPlus then had an issue with certain    
+OL,7,Bkeys appearing to be stuck, this was   
+OL,8,Bresolved by carefully adjusting the    
+OL,9,Bmembrane position.                     
+OL,10,FFinally both machines were disassembled
+OL,11,Fand given a good scrub with detergent. 
+OL,12,FOnce re-assembled the original Spectrum
+OL,13,Fwas treated to a brand new faceplate   
+OL,14,Fand it looks nearly as good as new.    
+OL,15,EI gave both machines a good workout    
+OL,16,Eincuding loading games from cassette   
+OL,17,Eand SD card, using a DiVMMC Future.    
+OL,18,AThe Spectrum is often remembered for   
+OL,19,Aits terrible keyboard. I typed in      
+OL,20,Athe same BASIC program listing on both 
+OL,21,Amachines. The Plus definately has an   
+OL,22,Aimproved keyboard, although the        
+OL,23,Arubber model was quite useable.        
+OL,24,ARadioMic BSinclair C5 CNews FMain Index
