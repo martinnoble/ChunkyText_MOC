@@ -1,29 +1,8 @@
 DE,Chunky Fringe User Guide
-CT,8,T
+CT,16,T
 PN,10301
 SC,0001
 PS,C008
-FL,102,105,170,101,4ff,100
-OL,1,Uj/%p0pbs`pz5ppp                Qx?y
-OL,2,Ujh45jjk5w   CGet       S tQg~?!
-OL,3,Uj~5}jj~5}|   CInvolved  SjtQo'  
-OL,4,E``````````````````````````````Su;/!E```
-OL,5,BUsing the edit server                  
-OL,7,BChunkytext uses theEBlock Party editing
-OL,8,EserverBcreated by ZXGuesser.           
-OL,10,BIt enables anyone to create and edit   
-OL,11,Bgenuine teletext pages for display on  
-OL,12,Beither the zxnet.co.ukEonline viewerBor
-OL,13,BaEreal teletext TV.C                   
-OL,15,BTo get started, point your web browser 
-OL,16,BatEblockparty.zxnet.co.uk              
-OL,20,E``````````````````````````````````1/5``
-OL,21,    BCan you beat Bamber's quiz?E152    
-OL,22,D]MG    VINTAGE BIFFO ON 170 p170       
-OL,24,AAbout BMicroBrits BookCDigitiser FIndex
-PN,10301
-SC,0001
-PS,8000
 FL,102,105,170,101,4ff,100
 OL,1,Uj/%p0pbs`pz5ppp                Qx?y
 OL,2,Ujh45jjk5w   CGet       S tQg~?!
@@ -65,56 +44,9 @@ OL,20,E``````````````````````````````````2/5``
 OL,21,  BFun & GamesE150   BAll The GossE143  
 OL,22,D]MGTEENAGE KICKS! - CLUB 140 p140      
 OL,24,AAbout BMicroBrits BookCDigitiser FIndex
-PN,10302
-SC,0002
-PS,8000
-FL,102,105,170,101,4ff,100
-OL,1,Uj/%p0pbs`pz5ppp                Qx?y
-OL,2,Ujh45jjk5w   CMake your S tQg~?!
-OL,3,Uj~5}jj~5}|   Cown pages!SjtQo'  
-OL,4,E``````````````````````````````Su;/!E```
-OL,5,BSelecting a teletext editor            
-OL,7,BThe edit server contains specially     
-OL,8,Bmodified versions of the two popular   
-OL,9,Bonline teletext editors,Eedit.tfBand   
-OL,10,BtheEzxnet editor.                      
-OL,12,BThe rest of this guide is written for  
-OL,13,Bthe latter, but the same principles    
-OL,14,Bapply to both.                         
-OL,16,BSelect zxnet from the main page, which 
-OL,17,Bwill start load the editor with aEblank
-OL,18,Epage.B                                 
-OL,20,E``````````````````````````````````2/5``
-OL,21,  BFun & GamesE150   BAll The GossE143  
-OL,22,D]MGTEENAGE KICKS! - CLUB 140 p140      
-OL,24,AAbout BMicroBrits BookCDigitiser FIndex
 PN,10303
 SC,0003
 PS,C008
-FL,102,105,170,101,4ff,100
-OL,1,Uj/%p0pbs`pz5ppp                Qx?y
-OL,2,Ujh45jjk5w   CMake your S tQg~?!
-OL,3,Uj~5}jj~5}|   Cown pages!SjtQo'  
-OL,4,E``````````````````````````````Su;/!E```
-OL,5,BUsing the teletext editor              
-OL,7,BThe zxnet editor has a built in help   
-OL,8,Bfacility which can be accessed via the 
-OL,9,EHelpBlink in the top right-hand corner.
-OL,11,BThe built-in help describes the process
-OL,12,Bof entering teletextEcontrol codesBto  
-OL,13,Echange colourBetc. along with the more 
-OL,14,Badvanced editing features.             
-OL,16,BTeletext art is created by the addition
-OL,17,BofEmosaic colourBcontrol codes, which  
-OL,18,Bturn the character cells following it  
-OL,19,Binto mosaicE"sixels"Blike this:W123456 
-OL,20,E``````````````````````````````````3/5``
-OL,21,        BWhat's Turner up to?E196       
-OL,22,D]MG     MICROBRITS BOOK  p105          
-OL,24,AAbout BMicroBrits BookCDigitiser FIndex
-PN,10303
-SC,0003
-PS,8000
 FL,102,105,170,101,4ff,100
 OL,1,Uj/%p0pbs`pz5ppp                Qx?y
 OL,2,Ujh45jjk5w   CMake your S tQg~?!
@@ -160,56 +92,9 @@ OL,20,E``````````````````````````````````4/5``
 OL,21,       BThe ghost of Digi pastE170      
 OL,22,D]MGTRY BRIAN'S VINTAGE SPORT QUIZ p151 
 OL,24,AAbout BMicroBrits BookCDigitiser FIndex
-PN,10304
-SC,0004
-PS,8000
-FL,102,105,170,101,4ff,100
-OL,1,Uj/%p0pbs`pz5ppp                Qx?y
-OL,2,Ujh45jjk5w   CSaving    S tQg~?!
-OL,3,Uj~5}jj~5}|   Cyour work SjtQo'  
-OL,4,E``````````````````````````````Su;/!E```
-OL,5,BUploading your page to Chunkytext      
-OL,7,BOnce you've mastered teletext editing, 
-OL,8,Bclick theEsave this pageBbutton in the 
-OL,9,Bpage server interface box. This stores 
-OL,10,Byour page in the system and adds it to 
-OL,11,Bthe Chunkytext service.                
-OL,13,BThe server automatically assigns aEnew 
-OL,14,Epage number.BIf you decide you want to 
-OL,15,Bchange something on your page you can  
-OL,16,Benter the number and clickEload a page.
-OL,18,BSaving again willEoverwriteBthe page   
-OL,19,Bunless the save as new box is checked  
-OL,20,E``````````````````````````````````4/5``
-OL,21,       BThe ghost of Digi pastE170      
-OL,22,D]MGTRY BRIAN'S VINTAGE SPORT QUIZ p151 
-OL,24,AAbout BMicroBrits BookCDigitiser FIndex
 PN,10305
 SC,0005
 PS,C008
-FL,102,105,170,101,4ff,100
-OL,1,Uj/%p0pbs`pz5ppp                Qx?y
-OL,2,Ujh45jjk5w   CMake your S tQg~?!
-OL,3,Uj~5}jj~5}|   Cown pages!SjtQo'  
-OL,4,E``````````````````````````````Su;/!E```
-OL,5,BUploading your page to Chunkytext      
-OL,7,BYou can load most of the pages on this 
-OL,8,Bservice into the editor to see how they
-OL,9,Bare constructed, or use as a template  
-OL,10,Bfor your own creations.                
-OL,12,BThe editor is unable to load or save   
-OL,13,Ecarousel pagesBlike this one, so will  
-OL,14,Bshow the first subpage only.           
-OL,16,BPlease don't edit other people's pages 
-OL,17,Bwithout permission. AnyEvandalismBcan  
-OL,18,Bbe reverted, just tweet @ZXGuesser.    
-OL,20,E``````````````````````````````````5/5``
-OL,21,  BThese kids are in their 30s nowE147  
-OL,22,D]MGSPECCY AND SINCLAIR C5 OH MY! p120  
-OL,24,AAbout BMicroBrits BookCDigitiser FIndex
-PN,10305
-SC,0005
-PS,8000
 FL,102,105,170,101,4ff,100
 OL,1,Uj/%p0pbs`pz5ppp                Qx?y
 OL,2,Ujh45jjk5w   CMake your S tQg~?!

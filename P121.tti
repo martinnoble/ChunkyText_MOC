@@ -1,34 +1,8 @@
 DE,Retroworkshop - Sinclair C5
-CT,8,T
+CT,16,T
 PN,12101
 SC,0001
 PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MSinclair C5 Restoration                
-OL,9,BI was looking around for a project with
-OL,10,Ba mechanical element, as I usually     
-OL,11,Brepair old electronics. Walking through
-OL,12,BLondon I came across a beautifully     
-OL,13,Brestored DeLorean - complete with all  
-OL,14,Bthe 'Back to the Future' conversions.  
-OL,15,FA project like this has great appeal   
-OL,16,Fbut at around #30,000 and without any  
-OL,17,Fknowledge about cars I decided I needed
-OL,18,Fa more manageable project, so I decided
-OL,19,Fa Sinclair C5 would fit the bill.      
-OL,20,EAlso, like 'Back to the Future' the C5 
-OL,21,Ecame out in the summer of 1985!        
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
-PN,12101
-SC,0001
-PS,8000
 FL,123,122,124,101,8ff,120
 OL,1,Wj#######3###################5          
 OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
@@ -78,59 +52,9 @@ OL,20,Econtains a microchip that is hard to
 OL,21,Ereplace if it is faulty.               
 OL,22,Q]MGvisit me onlineCretroworkshop.uk    
 OL,24,ARadioMicBSpectrum 48K CNews FMain Index
-PN,12102
-SC,0002
-PS,8000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 1 - Vehicle Check Over            
-OL,9,BIn this video I investigate how to go  
-OL,10,Babout buying a C5, check over the      
-OL,11,Bvehicle, and then take it out for a    
-OL,12,Bquick test ride.                       
-OL,13,FI bought my C5 from eBay for #420 plus 
-OL,14,Fvan hire as it wouldn't fit in my car. 
-OL,15,FYou should also check out Gumtree and  
-OL,16,FThe "Sinclair C5 Owners Group" on      
-OL,17,FFacebook as you may get a better deal. 
-OL,18,EIf you want a working machine you      
-OL,19,Eshould check the "pod" works as this   
-OL,20,Econtains a microchip that is hard to   
-OL,21,Ereplace if it is faulty.               
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
 PN,12103
 SC,0003
 PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 2 - Vehicle Strip down            
-OL,9,BIn the second video I undertake a      
-OL,10,Bcomplete strip down to the bare        
-OL,11,Bchassis.                               
-OL,12,FOne of the reasons I wanted to film    
-OL,13,Fthe tear down was to help the C5 novice
-OL,14,Fsuch as myself.                        
-OL,15,EI took over 100 screenshots and        
-OL,16,Eproduced a step-by-steo guide that can 
-OL,17,Ebe printed and taken to the workshop   
-OL,18,Eor garage. This is available on my     
-OL,19,Ewebsite at www.retroworkshop.uk        
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
-PN,12103
-SC,0003
-PS,8000
 FL,123,122,124,101,8ff,120
 OL,1,Wj#######3###################5          
 OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
@@ -178,61 +102,9 @@ OL,20,Ebearings. A new set of tires and tubes,
 OL,21,Eand new decals completed the job.      
 OL,22,Q]MGvisit me onlineCretroworkshop.uk    
 OL,24,ARadioMicBSpectrum 48K CNews FMain Index
-PN,12104
-SC,0004
-PS,8000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 3 - Rebuild                       
-OL,9,BThe Lotus designed chassis was sent to 
-OL,10,Ba local firm where it was bead blasted 
-OL,11,Band powder coated, and looks as good   
-OL,12,Bas new.                                
-OL,13,FThe vehicle body was scrubbed with Cif 
-OL,14,Fand a scouring pad to remove dirt and  
-OL,15,Fstains.                                
-OL,16,EI sanded and spray painted the other   
-OL,17,Emetal parts such as forks and steering 
-OL,18,Ebar.Then the C5 was re-assembled and   
-OL,19,Efresh grease applied to all the        
-OL,20,Ebearings. A new set of tires and tubes,
-OL,21,Eand new decals completed the job.      
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
 PN,12105
 SC,0005
 PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 4 - Electrics                     
-OL,9,BThe C5 was marketed as an "electric    
-OL,10,Bvehicle" so it was fitting to dedicate 
-OL,11,Ba video to the electricals.            
-OL,12,FI take you on a tour of the vehicle    
-OL,13,Felectrics using my "C5 Simulator".     
-OL,14,EI then strip and service the motor,    
-OL,15,Efit a safety wiring loom to make it    
-OL,16,Eeasier to remove the battery. I fit a  
-OL,17,Enew leisure battery and undertake some 
-OL,18,Emodifications to the "pod" to make it  
-OL,19,Eless prone to damage.                  
-OL,20,AThe finished C5 goes for a ride around 
-OL,21,AMK with some fancy aerial filming.     
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
-PN,12105
-SC,0005
-PS,8000
 FL,123,122,124,101,8ff,120
 OL,1,Wj#######3###################5          
 OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   

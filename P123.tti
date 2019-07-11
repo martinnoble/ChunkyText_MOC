@@ -1,34 +1,8 @@
 DE,Retroworkshop - Micron TX503
-CT,8,T
+CT,16,T
 PN,12301
 SC,0001
 PS,C000
-FL,121,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5A         
-OL,3,Wj %  -,$-,$%  -,%           5A         
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5A         
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5AAA    A  
-OL,6,W"###########################!A         
-OL,7,MRetro Radio Mic - Micron TX503         
-OL,9,BI'm not much of a sound geek, but there
-OL,10,Bis a distinctive looking radio mic that
-OL,11,Bwas often seen on TV in the 80's, 90's 
-OL,12,Band early 2000's that I'd always wanted
-OL,13,Bto own - the Micron TX503. I finally   
-OL,14,Bpicked one up from specialist TV       
-OL,15,Bequipment auction site "Techbid" for   
-OL,16,B#35, along with the matching receiver. 
-OL,17,FThe mic needed little in the way of    
-OL,18,Frestoration - I just dismantled it,    
-OL,19,Fcleaned it up and applied a thin layer 
-OL,20,Fof spray paint to the mic mesh as this 
-OL,21,Fwas chipped.                           
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
-PN,12301
-SC,0001
-PS,8000
 FL,121,122,124,101,8ff,120
 OL,1,Wj#######3###################5          
 OL,2,Wj <,$||4=,$<,$<,4           5A         
@@ -80,65 +54,9 @@ OL,21,CI also explain the radio channels used
 OL,22,Cfor radio mics, and discuss the        
 OL,23,CUK licensing requirements.             
 OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
-PN,12302
-SC,0002
-PS,8000
-FL,121,122,124,101,8ff,120
-OL,1,BThe receiver rack contains 8 receiver  
-OL,2,Bmodules, and module no.8 had a damaged 
-OL,3,Bhandle. I obtained a new part from     
-OL,4,BDigikey, but this didnt fit correctly. 
-OL,5,BWith a little modification using a     
-OL,6,BDremmel and some fibre washers, it was 
-OL,7,Btweaked into place.                    
-OL,8,FA new engraved plate was prepared      
-OL,9,Fby a local high street cobbler, and    
-OL,10,Fthis was fixed to the module.          
-OL,11,EI tested the microphone and found it to
-OL,12,Ebe in fully working order. There is    
-OL,13,Emore background noise than when using  
-OL,14,Ea wired mic, but the fact that it      
-OL,15,Ewas all working is testament to the    
-OL,16,Eexcellent build quality.               
-OL,17,AIn the video I take a look at audio    
-OL,18,Acompanding, which is used by radiomics 
-OL,19,Ato overcome the limited dynamic range  
-OL,20,Ainherent in radio transmission.        
-OL,21,CI also explain the radio channels used 
-OL,22,Cfor radio mics, and discuss the        
-OL,23,CUK licensing requirements.             
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
 PN,12303
 SC,0003
 PS,C000
-FL,121,122,124,101,8ff,120
-OL,1,BThe mic will mainly be used as a       
-OL,2,Bdisplay piece as it has unique design  
-OL,3,Bappeal with its angular lines and      
-OL,4,Bstainless steel finish. I think it is  
-OL,5,Ba classic on par with the original     
-OL,6,BiMac and Technics 1210.                
-OL,7,FI'm not the only one to think so - the 
-OL,8,Fproduction designer on the original    
-OL,9,FMamma Mia film also liked its looks -  
-OL,10,Fas there are three Micron handhelds    
-OL,11,Fused in the end credits sequence.      
-OL,12,EI'd posted a picture on a Facebook     
-OL,13,Eforum for TV studio enthusiasts and it 
-OL,14,Egenerated a number of comments and     
-OL,15,Efond memories. Micron was thought to be
-OL,16,Erobust and reliable and was the        
-OL,17,Emainstay of UK TV radiomic kit until   
-OL,18,Ethe early 2000's.                      
-OL,19,ASince making the video a statue was    
-OL,20,Aunveiled in Bury, Lancashire, of the   
-OL,21,Alate comedienne Victoria Wood, cast in 
-OL,22,Abronze, complete with a Micron TX      
-OL,23,Aseries handheld.                       
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
-PN,12303
-SC,0003
-PS,8000
 FL,121,122,124,101,8ff,120
 OL,1,BThe mic will mainly be used as a       
 OL,2,Bdisplay piece as it has unique design  
