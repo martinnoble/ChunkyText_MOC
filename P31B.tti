@@ -16,4 +16,4 @@ OL,21,Q]G You can go North, South and East or
 OL,22,Q]G can exit the cave.                  
 OL,23,Q]G                                     
 OL,24,AGo NorthBGo SouthCGo EastF Leave Cave  
-FL,101,221,206,200,8ff,101
+FL,31c,31d,31e,30f,8ff,101
