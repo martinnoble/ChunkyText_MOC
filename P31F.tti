@@ -5,15 +5,15 @@ SC,0000
 PS,c000
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
-OL,14,Q]G The rabbit looks at you and says    
-OL,15,Q]G                                     
-OL,16,Q]G "From here: North, East,South,      
-OL,17,Q]G  South, South, South, East, Enter,  
-OL,18,Q]G  Cavalier, East, South, South,      
-OL,19,Q]G  South".                            
+OL,14,Q]G You go further into the cave, you   
+OL,15,Q]G see a toilet with a sign on it.     
+OL,16,Q]G                                     
+OL,17,Q]G The sign reads "We were going to    
+OL,18,Q]G use a running joke but it looks     
+OL,19,Q]G like it's already been used."       
 OL,20,Q]G                                     
-OL,21,Q]G  The rabbit returns to his bath.    
+OL,21,Q]G You can go North, South or West.    
 OL,22,Q]G                                     
 OL,23,Q]G                                     
-OL,24,AClose   BClose   CClose  FClose        
-FL,31d,31d,31d,31d,8ff,101
+OL,24,AMain IndexBGo NorthCGo SouthFGo West   
+FL,101,31e,32b,31b,8ff,101
