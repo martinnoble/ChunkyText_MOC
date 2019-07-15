@@ -1,6 +1,19 @@
-DE,
+DE,No description
 CT,8,T
-PN,33E00
+PN,33e00
 SC,0000
 PS,c000
-OL,1,   this page reserved for reenthused    
+OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
+OL,13,Q]G                                     
+OL,14,Q]G You enter a room with what appears  
+OL,15,Q]G to be an infinite number of         
+OL,16,Q]G paintings on the wall. Or 3.        
+OL,17,Q]G                                     
+OL,18,Q]G You can see, The Laughing Cavalier, 
+OL,19,Q]G Dogs playing Poker and Mona Lisa.   
+OL,20,Q]G                                     
+OL,21,Q]G You can Exit the Metacave, Move     
+OL,22,Q]G Cavalier, Move Dogs or Move Mona.   
+OL,23,Q]G                                     
+OL,24,AExit    BCavalierCDogs   FMona Lisa    
+FL,32f,33f,34c,34d,8ff,101
