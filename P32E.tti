@@ -1,6 +1,19 @@
-DE,
+DE,No description
 CT,8,T
-PN,32E00
+PN,32e00
 SC,0000
 PS,c000
-OL,1,   this page reserved for reenthused    
+OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
+OL,13,Q]G                                     
+OL,14,Q]G "Ridiculous, it's bad enough that   
+OL,15,Q]G  the rabbit keeps blabbing.         
+OL,16,Q]G  --- Reggie"                        
+OL,17,Q]G                                     
+OL,18,Q]G                                     
+OL,19,Q]G                                     
+OL,20,Q]G                                     
+OL,21,Q]G  You can go North, East, South and  
+OL,22,Q]G  West.                              
+OL,23,Q]G                                     
+OL,24,AGo NorthBGo EastCGo SouthF  Go West    
+FL,32d,32f,33a,33b,8ff,101
