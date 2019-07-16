@@ -3,6 +3,17 @@ CT,8,T
 PN,32c00
 SC,0000
 PS,c000
+OL,1,W            j Q,(,(,(,(Wj              
+OL,2,W            j Q,$,$,$,(Wj              
+OL,3,W            j Q        Wj              
+OL,4,W             5Q        Wj              
+OL,5,W             5Q        Wj              
+OL,6,W             5Q        Wj              
+OL,7,W             5Q        Wj              
+OL,8,W             5Q ,($,   Wj              
+OL,9,W            `%          j              
+OL,10,W            *pp          5             
+OL,11,W               ##########              
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
 OL,14,Q]G Another sign reads "Jeremy, why did 
@@ -15,5 +26,5 @@ OL,20,Q]G
 OL,21,Q]G You can go North or South           
 OL,22,Q]G                                     
 OL,23,Q]G                                     
-OL,24,AMain IndexBGo NorthCGo SouthFReEnthused
+OL,24,AMain IndexBGo NorthCGo SwsxhFReEnthused
 FL,101,32b,32d,206,8ff,101
