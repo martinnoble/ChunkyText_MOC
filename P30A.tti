@@ -3,6 +3,17 @@ CT,8,T
 PN,30a00
 SC,0000
 PS,c000
+OL,1,V]                                      
+OL,2,V]                                      
+OL,3,V]                                      
+OL,4,V]                                      
+OL,5,V]                                      
+OL,6,V]                                      
+OL,7,R]            \          ]              
+OL,8,R]           \            ]             
+OL,9,R]          \              ]            
+OL,10,R]         \                ]           
+OL,11,R]        \                  ]          
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
 OL,14,Q]GWelcome to the Awful Adventure       
