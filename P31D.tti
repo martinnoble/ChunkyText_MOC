@@ -26,5 +26,5 @@ OL,20,Q]G
 OL,21,Q]G You can Go North or Talk to the     
 OL,22,Q]G Rabbit.                             
 OL,23,Q]G                                     
-OL,24,AMain IndexBGo NorthCTalk   FRe-enthused
-FL,101,31b,32a,206,8ff,101
+OL,24,AGo NorthBTalkC Main Index F Re-enthused
+FL,31b,32a,101,206,8ff,101
