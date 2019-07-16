@@ -3,6 +3,16 @@ CT,8,T
 PN,33d00
 SC,0000
 PS,c000
+OL,1,W         pp0                           
+OL,2,W        ~4                          
+OL,3,W        o%j5                          
+OL,4,W         h?!                          
+OL,5,W                                      
+OL,6,W                                      
+OL,7,W          #                            
+OL,8,W         ($                           
+OL,9,W                                       
+OL,10,W                                       
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
 OL,14,Q]G Didn't you mother tell you to not   
