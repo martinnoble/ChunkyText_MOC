@@ -3,6 +3,17 @@ CT,8,T
 PN,34f00
 SC,0000
 PS,c000
+OL,1,W                 `p0pp                 
+OL,2,W                 */%//                 
+OL,3,W               j5   j5               
+OL,4,W              h|4     h|4              
+OL,5,W             pr#!     "#qp             
+OL,6,W             //         //             
+OL,7,W       j5j5         j5j5       
+OL,8,W       h|4||h|4         h|4||h|4       
+OL,9,W       bs1ssbs1         bs1ssbs1       
+OL,10,W       */%//*/%         */%//*/%       
+OL,11,W       j5j5         j5j5       
 OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
 OL,13,Q]G                                     
 OL,14,Q]G The tunnels seem to go on for hours 
