@@ -3,7 +3,18 @@ CT,8,T
 PN,33f00
 SC,0000
 PS,c000
-OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
+OL,1,W              w##########{             
+OL,2,W              5)p      p&j             
+OL,3,W              5  #,,,,#  j             
+OL,4,W              5          j             
+OL,5,W              5          j             
+OL,6,W              5          j             
+OL,7,W              5          j             
+OL,8,W              5          j             
+OL,9,W              5          j             
+OL,10,W              5          j             
+OL,11,W              ############             
+OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sg9sf9sf9sf9sf9s
 OL,13,Q]G                                     
 OL,14,Q]G You enter a small cavern inside the 
 OL,15,Q]G painting.                           
