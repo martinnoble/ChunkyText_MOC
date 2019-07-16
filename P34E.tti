@@ -26,5 +26,5 @@ OL,20,Q]G
 OL,21,Q]G You can go North, South and West.   
 OL,22,Q]G                                     
 OL,23,Q]G                                     
-OL,24,AMain IndexBGo NorthCGo SouthF Go West  
-FL,101,34d,34f,33f,8ff,101
+OL,24,AGo NorthBGo SouthCGo West F Main Index 
+FL,34d,34f,33f,101,8ff,101
