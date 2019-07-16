@@ -3,17 +3,28 @@ CT,8,T
 PN,35a00
 SC,0000
 PS,c000
-OL,1,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
-OL,2,Q]G                                     
-OL,3,Q]G You suddenly step out into bright   
-OL,4,Q]G sunshine.  You've made it through   
-OL,5,Q]G the cave and out of another         
-OL,6,Q]G exit.                               
-OL,7,Q]G                                     
-OL,8,Q]G You see a chest in front of you.    
-OL,9,Q]G Opening it you read a note "the     
-OL,10,Q]G real treasure was the friendships   
-OL,11,Q]G you made along the way"  You cry.   
-OL,12,Q]G                                     
-OL,13,AMain IndexBRe-enthusedCContributersFGo 
+OL,1,V
+OL,2,V
+OL,3,V
+OL,4,V
+OL,5,V
+OL,6,V
+OL,7,V
+OL,8,V
+OL,9,V
+OL,10,V
+OL,11,V
+OL,12,Sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9sf9s
+OL,13,Q]G                                     
+OL,14,Q]G You suddenly step out into bright   
+OL,15,Q]G sunshine.  You've made it through   
+OL,16,Q]G the cave and out of another         
+OL,17,Q]G exit.                               
+OL,18,Q]G                                     
+OL,19,Q]G You see a chest in front of you.    
+OL,20,Q]G Opening it you read a note "the     
+OL,21,Q]G real treasure was the friendships   
+OL,22,Q]G you made along the way"  You cry.   
+OL,23,Q]G                                     
+OL,24,AMain IndexBRe-enthusedCContributersFGo 
 FL,101,206,200,221,8ff,101
