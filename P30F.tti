@@ -26,5 +26,5 @@ OL,20,Q]G the cave.
 OL,21,Q]G                                     
 OL,22,Q]G                                     
 OL,23,Q]G                                     
-OL,24,AMain IndexBGo NorthCGo SouthFEnter Cave
-FL,101,30c,31a,31b,8ff,101
+OL,24,AGo NorthBMain IndexCGo SouthFEnter Cave
+FL,30c,101,31a,31b,8ff,101
