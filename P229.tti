@@ -1,0 +1,30 @@
+DE,no description
+CT,8,T
+PN,22900
+SC,0000
+PS,8000
+OL,1,              R                8d      
+OL,2,               R8d             bak      
+OL,3,              R"(%            `fp'      
+OL,4,             S:R{             :Sx1      
+OL,5,            Sh$Rd0           h!S>       
+OL,6,            S>1R)%          <!S84       
+OL,7,            S9R(c'$       h)(dS>&     `<
+OL,8,           Sj3R 8#lS)80Rp>9  Szt      >!
+OL,9,           Sj$`l$R"! 00&!!S` (y%     ~3 
+OL,10, S`$      Sh/aqR*(         Sbf'     >1  
+OL,11, S>"0    R06S6'$    R(  S ("h!     |3!  
+OL,12, Su     Rx(S|$R(   ``d$  (S8      |5    
+OL,13, S=R 91Rh0x:l !  0 $<-6  fS(0    j/     
+OL,14, S=!R"`R4`<t $(1$v~&! ! 9&S9 0  h      
+OL,15, Sy1R !=Sp0`     Q p<R 0ff. S-  o% :h0  
+OL,16, Sj1R 2S;}*R0(1Qp|? R (yyfSh!R#$a hg$  
+OL,17, S"6 R"Sfg|p  Q"+/  R fn79Se~$ {e(?1   
+OL,18, S k$ R (9?{>)        $ygS`>9!bw%j" `  
+OL,19, S "}24R!"bf&"     )`hf~=)Sn7$:({y %`%  
+OL,20, S  *<(R  !)"   ` `199{>32x43*c nw(j"h$ 
+OL,21, S   =8 R   0  a&8))kzg  *v"$ =;9 5   
+OL,22, S    {n R  />( !2&f~{>1 `6n}02$jf (   
+OL,23, S   ~+ R0(` `  $(091{&S`|8R{vd(0*i) !l 
+OL,24, S   kfbR8)9myysd$ff~;!S>98 *{y9 e!q$+0!
+FL,8ff,8ff,8ff,8ff,8ff,100
