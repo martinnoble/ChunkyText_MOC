@@ -1,0 +1,99 @@
+DE,
+CT,16,T
+PS,C000
+PN,46101
+SC,0001
+FL,101,460,206,130,4ff,101
+OL,1,B```````````````````````````````````````
+OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
+OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
+OL,4,R           jj5  5 j j55   j5      
+OL,5,R           jjup0upjpz5upjpz5      
+OL,6,B```````````````````````````````````````
+OL,7,BThe Volex TTX2000S is a peripheral for 
+OL,8,Bthe ZX Spectrum. It adds the ability to
+OL,9,Breceive teletext from up to four UHF TV
+OL,10,Bchannels.                              
+OL,12,BWhen I got the adapter it wouldn't tune
+OL,13,Breliably and needed constant fiddling. 
+OL,15,BIn the process of reverse engineering a
+OL,16,Bschematic I traced the issue to one of 
+OL,17,Bthe ceramic capacitors. I replaced that
+OL,18,Bwhich solved the drifting issue but the
+OL,19,Bjoy was short lived...                 
+OL,20,B``````````````````````````````````1/4``
+OL,21,      FTelesoftware downloadsBp460      
+OL,22,B]MD MORE RETRO COMPUTER STUFF p206     
+OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter 
+PN,46102
+SC,0002
+FL,101,460,206,130,4ff,101
+OL,1,B```````````````````````````````````````
+OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
+OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
+OL,4,R           jj5  5 j j55   j5      
+OL,5,R           jjup0upjpz5upjpz5      
+OL,6,B```````````````````````````````````````
+OL,7,BI'd just got the adapter tuning signals
+OL,8,Breliably when it suddenly stopped being
+OL,9,Bable to decode anything at all.        
+OL,11,BSomething had killed the data separator
+OL,12,BIC which is an obsolete Plessey chip.  
+OL,13,BI was able to buy an entire tube off   
+OL,14,Bebay for less than others were selling 
+OL,15,Bsingle chips!                          
+OL,17,BReplacing the chip once again restored 
+OL,18,Bthe adapter to working condition so the
+OL,19,Breverse engineering could be completed.
+OL,20,B``````````````````````````````````2/4``
+OL,21,      FTelesoftware downloadsBp460      
+OL,22,B]MDRETROWORKSHOP RESTORES THINGS p120  
+OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter 
+PN,46103
+SC,0003
+FL,101,460,206,130,4ff,101
+OL,1,B```````````````````````````````````````
+OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
+OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
+OL,4,R           jj5  5 j j55   j5      
+OL,5,R           jjup0upjpz5upjpz5      
+OL,6,B```````````````````````````````````````
+OL,7,BWith the hardware traced out to a full 
+OL,8,Bschematic I was able to figure out the 
+OL,9,Bprinciple of operation.                
+OL,11,BAlas the logic is all implemented in a 
+OL,12,Bsemi-custom NEC gate array so can only 
+OL,13,Bbe analysed as a black box.            
+OL,15,BDespite this setback I've been able to 
+OL,16,Binfer plenty from the signals placed on
+OL,17,Bthe buses though, along with the firm- 
+OL,18,Bware which I am steadily creating a    
+OL,19,Bcommented disassembly of.              
+OL,20,B``````````````````````````````````3/4``
+OL,21,      FTelesoftware downloadsBp460      
+OL,22,B]MD MORE RETRO COMPUTER STUFF p206     
+OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter 
+PN,46104
+SC,0004
+FL,101,460,206,130,4ff,101
+OL,1,B```````````````````````````````````````
+OL,2,R      #7!#7!5 jj##57#kj##57#kj##5      
+OL,3,R       u  u ep:`pp55 zj `55 zjpp0      
+OL,4,R           jj5  5 j j55   j5      
+OL,5,R           jjup0upjpz5upjpz5      
+OL,6,B```````````````````````````````````````
+OL,7,BOne important discovery made during the
+OL,8,Breverse engineering effort, is that the
+OL,9,Blogic ignores the last four available  
+OL,10,BVBI lines.                             
+OL,12,BThis is mentioned in the manual for the
+OL,13,Bearlier OEL TTX2000 but was omitted in 
+OL,14,Bthe Volex version.                     
+OL,16,BThis unfortunately means that it is not
+OL,17,Bcompatible with any service using those
+OL,18,Blines, and can't be modded because the 
+OL,19,Blogic is contained in the gate array.  
+OL,20,B``````````````````````````````````4/4``
+OL,21,             BBy @ZXGuesser             
+OL,22,B]MD MORE COMING SOON AT ZXNET.CO.UK    
+OL,24,AIndexBTelesoftwareCRe-EnthusedFTwitter 
