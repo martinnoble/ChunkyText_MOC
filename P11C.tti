@@ -1,30 +1,30 @@
-DE,
-CT,8,T
+DE,1997-12-22 recovery
+CT,16,T
 PS,8010
 PN,11C00
 SC,0000
-FL,11f,11f,11d,11f,1ff,150
+FL,11f,11f,11f,11d,1ff,150
 OL,1,V###########################Qh}d~}Vk
 OL,2,G]DQuestion 8.             \ Qssssscc1Vk
-OL,3,G]DWhich Premiership goalie\Q,,,,,,,,,, 
-OL,4,G]Dis nicknamedALurch?     \ Sk77$xd 
-OL,5,G]   sociate the nameA     \ S?s?7`?' 
+OL,3,G]DTrevor Francis is the   \Q,,,,,,,,,, 
+OL,4,G]Dmanager of which First  \ Sk77$xd 
+OL,5,G]DDivision outfit?        \ S?s?7`?' 
 OL,6,ZQh$,$x|$,,`|<(,`|| ,,$x|$, YSmsy}$k>uWm
 OL,7,ZQ~7z?a~a?a~?YWh5Ssx~za'Wz
 OL,8,T,,,,S,,,,W,,,,,S,,,,U,,,,$Wo}S+o'Wp~?
 OL,9,RQ~Wo|p0pp~?'!
-OL,10,R7s Q  Qx|p G                        Rsk
-OL,11,R5 Q  Qo;u  GDavid James           Rj
-OL,12,R5/ Q  Q"/~?                         R/j
-OL,13,R5 R  R`||0G                        Rj
-OL,14,R5 R  R}6o  GTim Flowers           Rj
-OL,15,R5 R  R+|'                         Rj
-OL,16,R5 S  S`||0G                        Rj
-OL,17,R5 S  Suo  GDave Beasant          Rj
-OL,18,R5/ S  S+}s'                         R/j
-OL,19,R5 V  V`||0G                        Rj
-OL,20,R5 V  V=?  GMark Bosnich          Rj
-OL,21,Rus V  V+{{'                         Rsz
+OL,10,R7s    Qx|p                          Rsk
+OL,11,R5    Qo;u  GSwindon Town          Rj
+OL,12,R5/    Q"/~?                         R/j
+OL,13,R5    R`||0                         Rj
+OL,14,R5    R}6o  GBury                  Rj
+OL,15,R5    R+|'                         Rj
+OL,16,R5    S`||0                         Rj
+OL,17,R5    Suo  GNorwich City          Rj
+OL,18,R5/    S+}s'                         R/j
+OL,19,R5    V`||0                         Rj
+OL,20,R5    V=?  GBirmingham City       Rj
+OL,21,Rus    V+{{'                         Rsz
 OL,22,R?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,o
 OL,23,  D]GPress the colour of your choice  \ 
 OL,24,A      B      C      F      

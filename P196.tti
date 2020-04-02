@@ -1,142 +1,191 @@
-DE,
+DE,1997-12-22 recovery
 CT,16,T
+PS,C008
 PN,19601
 SC,0001
-PS,C008
-FL,197,198,140,102,1ff,190
-OL,1,U//p`0p0pp0pp0p0        h4`pp`pG     
+FL,197,198,140,110,1ff,190
+OL,1,U//p`0p0pp0pp0p0        `0`pp`p`G    
 OL,2,U  j5!k5{5!Wk!u5w!Uj5j7j7j7k5 
 OL,3,U  ~5 j5|4 Wj 75w0U~}j}j5j5j5 
 OL,4,R|h0|T||||||||||||||||||||||||||||||||||
 OL,5,Rj7oT
-OL,6,T,,,l/o///?/////?//o?///?/////?//////
-OL,7,S  j j5x}00 5x}0x}0T
-OL,8,S  uj5o5} 5?+5o5T
-OL,9,S jj55 555  j55 5T
-OL,10,S 55 55     5 5T
-OL,11,S 55 55 55 5T
-OL,12,S ?55 575  j55 5T
-OL,13,S !k5~55*5}x5~5Rx
-OL,14,S 7 "5+?!5 k5+?!+?!R
-OL,15,R    x0   0     0   t   0     x0      x
-OL,16,Rz%%|"'(?b4/?'z}4k2/a/'
-OL,17,R/'"'+"+/-T||}R+/%(//!T|||}||||R+//%T||
+OL,6,T||||~?/////o////o?/////o
+OL,7,W 0    `  Rj5o4~o4  %%?/W`    `     
+OL,8,W         Rj5j5*%  pj}0W  ` !   !  
+OL,9,W 0 ! "  0Rj5j5h4  # +W  0   !  ! 
+OL,10,W      W` Ro~%j5o~%|4|h|?W  `  ! 0 ` 
+OL,11,W   !  !                    W!          
+OL,12,Q~o4j5o4h?/*o?%t~5~o4~/% 7!?4?4>4?4 
+OL,13,Q"!z5z%j}0 j5 kk5z5t  } }%}%55}% 
+OL,14,Q`0j5k5 + j5 jj5k5"o5 7 75755575 
+OL,15,Qo~%j5j5h|? j5 jj5j5|~% u05555m%55 
+OL,16,W|||||||||||||||}|||||||||~}||||||||||
+OL,17,T|||||||||||||||||||||||||||||||||||||||
 OL,18,D]C   G      Cby PAUL ROSEG             
-OL,19,D]F      CHAPTER 1: TAKE MAP            
-OL,20,D]                                      
-OL,21,D]GTurner and Goldblum have travelled to
-OL,22,D]Gthe jungle in search of treasure...  
-OL,23,D]G                                     
-OL,24,AWrite It   BJokes   CClub 140   FAbout 
+OL,19,D]F            CHAPTER 2                
+OL,20,D]G   Turner and Glug are spending      
+OL,21,D]G   Christmas at home with Glug's     
+OL,22,D]G   "eccentric" uncle, who thinks     
+OL,23,D]  G he's caught himself a burglar.    
+OL,24,AWrite It   BJokes   CClub 140   FTV    
 PN,19602
 SC,0002
-PS,C008
-FL,197,198,140,102,1ff,190
-OL,1,C]DWhat are we doing on a plane?G\      
-OL,2,CSTppppppppppppppppp              #####
-OL,3, ST#################C]DI've told you.  
-OL,4,C]DWhat's that then?T\|||||tp0,|ppppSTp
-OL,5, STpp           T    ########!"####ST#
-OL,6, STC]DWe're going to the jungle to   
-OL,7, STC]Dsearch for treasure. That bloke
-OL,8, STC]Dgave us a map to say sorry for 
-OL,9, STC]Dgetting our house smashed up.  
-OL,10, ST##                    0 ppppppp`STp
-OL,11,C]DThat was kind of him.T\}24ST
-OL,12, S7Tpp                    ##!"######ST#
-OL,13,T0  +'C]DNow shush! We're going to land.
-OL,14,TTdy|~1 `ppppppp0     `ppUppT p0    S?Tp
-OL,15,T*o?cs;%"####oV~4TU~}TV~tTn
-OL,16,T |;""" ####! ##V"####T#WooUToVk?o/o4T
-OL,17,Tx* ~vo7U~omT/#"#+WU5T}W>-.).T/
-OL,18,T5jjU*///Tx|w9 7Uow+5T# ~vo
-OL,19,T ///://%~?o'  ./U~};/gtTj
-OL,20,T/ o*j?`ps x4UjuoT*//:///
-OL,21,T}u*5o | ?U`7~uTj*
-OL,22,Tlfo ":-,l27 #+U`/ "'3o4T5o
-OL,23,T""xtj5+/-,tk`s;$Uo}}no43uTj"
-OL,24,AWrite It   BJokes   CClub 140   FAbout 
+FL,197,198,140,110,1ff,190
+OL,1,RppT`ppppC]DUncle, you can't sit on him.
+OL,2,RuT#oC]DThat's Father Christmas!    
+OL,3,RuT#   QppppT pppppppppppppp00  S+t 
+OL,4,R7Q~o|~="/?T?!!  ~tpz
+OL,5,RQ~u`7}TUz}tT
+OL,6,Rt3Qo?jWpppppTxWooUTo'#
+OL,7,RQ`xWo{TW Q| h4
+OL,8,RQ~WTUo7Qj j 
+OL,9,R7Qqpx~|4T#?##oU)gQz0
+OL,10,R7Q`+3////-&TW~}TUhWooQ
+OL,11,R7Qh~/t~'$T+W+'Tk7U~jWQ
+OL,12,R'Qh?g~4To'Q}~0To7Uz5~Qo7?
+OL,13,Q hto|t  h?T kUx? uQ)/y
+OL,14,Qx ~~}U #  ##" Q##
+OL,15,Q? /#-C]DH-help! 
+OL,16,Q!z/#W|~|0Sx/#  Q pp
+OL,17,Qro ?Wx/cs//  UnQ 
+OL,18,Q'#+}~s/'##Wx?/'>a>o=htU#+Q +
+OL,19,QWx?Q#/?/## `|tW(/r'x|<3ltr}T|||
+OL,20,QW?ht Qpp|&o}|Wno},///!T
+OL,21,Q#W##!#Q ###Sz0Q#########Q ppppT||||
+OL,22,C]DDon't be daft - FatherQ\/#Tx
+OL,23,C]DChristmas isn't real. T\p|~
+OL,24,AWrite It   BJokes   CClub 140   FTV    
 PN,19603
 SC,0003
-PS,C008
-FL,197,198,140,102,1ff,190
-OL,1,V/////////////////////////////G      
-OL,2,S]DLook, Turner - a pyramid!V\
-OL,3,V||||||||||||,,,,,,,,,,,,,,,,,//////////
-OL,4,V##+/C]DThat's a mountain, fool!
-OL,5,W|tV#/o|||||||||||||||||||||||||||
-OL,6,W}|tV+
-OL,7,W//o/-$V/wsbs
-OL,8,Ux~|4h~2o|pV#o?////'*////
-OL,9,U7z*2o}tpVk}~up~|
-OL,10,U7h//o5?#####uV"#+o
-OL,11,U%Rx|t0`~-$U#k~}tV+o#####o?//
-OL,12,Rh/,`UktVo'R(.}0`x|tV+
-OL,13,Rx~2c/2/*/U'+-R,/4R
-OL,14,RzkuQ| htSR*}RhxtR*/a/3a}tu
-OL,15,Rk57Qu`x= Rk*uRR*RQh4 |Rz
-OL,16,R5%Qh?'    RkRq~R%7Q nt0rRk
-OL,17,SQp07R0x!   |p  j   Q +o4R*o
-OL,18,R0QRzp|~5 b uQk` hS
-OL,19,R`Q*5R?/"/'/o,/'x2+o/#puQQ*
-OL,20,RQjRh(0}4`*`|R~?!i0/! +Qj*h
-OL,21,RQR*.#o!/ukRz7xRm0~}0+?'!0Q*
-OL,22,R%QR|||~}}||?oxu k|(xQ'j*
-OL,23,SQzR|rs} ~Qq~uk
-OL,24,AWrite It   BJokes   CClub 140   FAbout 
+FL,197,198,140,110,1ff,190
+OL,2,    C]DIf he isn't real then who is it  
+OL,3,    C]Dthat delivers Christmas presents?
+OL,4,                            S          
+OL,5,C]DThe Tooth Fairy. \       S          
+OL,6,  S                        S          
+OL,7,  S C]DYou have to let him go, Uncle!  
+OL,8,  S C]DIt's Christmas Eve. He's got    
+OL,9,S   C]Dmillions of gifts to deliver.   
+OL,10,  S                        S+t         
+OL,11,C]DHe's a burglar. He tried \Q ~} ~}    
+OL,12,C]Dto steal my slippers.    \Q o ?    
+OL,13,  S+tQ`pp          p Tpppp   Q        
+OL,14,Q    x'}k}r+//}T} Q pp0    
+OL,15,Q   ~!~= o?TuQ~4   
+OL,16,Q   o?`'W       T|pxWQ0  
+OL,17,Q     j~WoTW??Q}  
+OL,18,Q    `W~TWQ  
+OL,19,Q    jWT?WQ?  
+OL,20,Q   `WQ0TQo5  
+OL,21,Q   jpppp|w!T##+Q ot#}0 
+OL,22,Q   ############# !T#####Sx'  Q #/-/!//,
+OL,23,QC]DUncle, you don't have any slippers! 
+OL,24,AWrite It   BJokes   CClub 140   FTV    
 PN,19604
 SC,0004
-PS,C008
-FL,197,198,140,102,1ff,190
-OL,1,D]GSHORTLY...V\G      
-OL,2,            W V##################
-OL,3,C]DThis place is hot! Where areV\
-OL,4,C]Dwe supposed to find treasureV\|y~'
-OL,5,C]Dround here?   V\p       `ppppp'Wx
-OL,6,QpppppppSx/#  R `  U`||0V%Ux
-OL,7,Qppx~R//ouU#o/c}V#+?'#+#Ux/#
-OL,8,Q5$,,,,,,,,,,,,,,RW|~UR|0~|t0  x
-OL,9,Q`j        `x jR W{{UR?//'x
-OL,10,Q#**U`x|tltQ+ *R#!WUR||row}~g
-OL,11,TtUx{{uT p|{i UR#######+o|
-OL,12,TU+//T~;> Uot#5Q#/|0Ro
-OL,13,T7x~}||||||/#Rp>U"o}~%7 pppQ+Rj
-OL,14,Th?##o?'QjR?U`<`tsq~7`}0Q/5R
-OL,15,Two7   xrqQ.QjR!U#!"####!"###+}Qi4R
-OL,16,T?j7m|QorWotz~=//U*4Q5R
-OL,17,T?a5R|$W##oaaka2?sUn= 0R 
-OL,18,Ta7?} U(=W5~jjh45|Ux||t"0R
-OL,19,T#x% U`||tWoU"cs1('+Ro
-OL,20,Tm2a~?'s+### U ##!W########!U###S+}pR"#
-OL,21,T$$q|?'5C]DThe treasure is supposed to
-OL,22,Trq~'q|}|C]Dbe somewhere called Wongo. 
-OL,23,T"#x~C]DWe really need a guide...  
-OL,24,AWrite It   BJokes   CClub 140   FAbout 
+FL,197,198,140,110,1ff,190
+OL,1,Q}0T##########################
+OL,2,Q?g|s{uC]DAre you alright, Santa? 
+OL,3,Qs|~// T ppppppS+t   T `ppppppppp
+OL,4,Q?o|||tT+U`x}tTk
+OL,5,Qa~5ToU~4T
+OL,6,QTjWUT!      "
+OL,7,Q?##o5TWU`|t
+OL,8,QW~}QTkWwwU
+OL,9,QWo?Q#+o5TWU
+OL,10,Qt p~|0#+TU
+OL,11,Q4jtp"#+/TU*}2okot;
+OL,12,Qu |t2T"uU"o|? k}k
+OL,13,Q /#######T+}pU##TxU/o2o
+OL,14,Qv/0k7Wx~?///|Tkh<|l4|p U+t
+OL,15,Qo3/'# 7Wz?a,l}t;%Tj{{~5tU"
+OL,16,Qt#!p|0kWz'xa~g}vjT,,,,,,,,,,,,,,U"
+OL,17,Q'`u*W2/'q~2o?hpT#+uU"
+OL,18,QhtW"*/<,.?'T||||||l|||||tU"
+OL,19,QW}sssy~ ||<T"+~~~~}~=0
+OL,20,QW~##+|?T?}o~}?}o~o~o
+OL,21,Q    W       S+|pW T  ##"##"#######"
+OL,22,QC]DPlease... please make him get   
+OL,23,QC]Doff me. He's breaking my back!  
+OL,24,AWrite It   BJokes   CClub 140   FTV    
 PN,19605
 SC,0005
-PS,C008
-FL,197,198,140,102,1ff,190
-OL,1,V###############################G       
-OL,2,S]DI will be your guide - but it isn't  
-OL,3,S]Da place you are looking for. Wongo   
-OL,4,C]Dis a giant snake!V\pppS+mpVpppppppppp
-OL,5,Vppppppppppppppppppppp!  `p/+
-OL,6,V##'##+##+'#+Qi0Vo'QxV
-OL,7,Sd|>{|f$|;V//?///uQot0  `>1V/#
-OL,8,Q  0`0p0p0pR./m$x}tV+?'!Q?+7o' +4Rxh
-OL,9,Q555555wn=R'xth~Wx}0`~tR~
-OL,10,Q!U`pp0Q+%Rpp~|~Ww{R"+/
-OL,11,U ~}0QR7W+'Q|t 
-OL,12,Uz}QR/s3/o'Qxtpx|ppp~u
-OL,13,UWQR|~'Qz/
-OL,14,UW{{QR|t3o/oQo?'q +}j/o
-OL,15,UWQRt{s|t0Q||}|?'z4
-OL,16,UWQRtQ#### l5}
-OL,17,U?/QR'!p#/#+/##Qp0R##o}Q"}*
-OL,18,U'`~7QRx/!x~}tQ#+otR+o=Q/uk
-OL,19,U! 7Q0Rtp0 Qot ` z|4o
-OL,20,U2o'Qj5R##+/?/!p|tQ+u>j?a
-OL,21,U|r!Q!#!# S+|pR##|||uQk0a%
-OL,22,UC]DAhhhhhhh!R\#######!Q#!####!"#"
-OL,23,Up0 p  RpppppppD]GMORE NEXT WEEK! 
-OL,24,AWrite It   BJokes   CClub 140   FAbout 
+FL,197,198,140,110,1ff,190
+OL,1,C]DHo-ho-hold it! That Santa is a fake. 
+OL,2,C]DI'm the real Father Christmas!S\+uW l
+OL,3,TppppppppUx|tTpppppppppppppppp0Q`px}pp~<
+OL,4,T W??TQx?///?! 
+OL,5,T'## WT?###+W`<,,l0Tx
+OL,6,T#   Qp?Uk7?TQj%oTW'v/?y+T
+OL,7,Q~o|~= U*/!TQ~|~T%Wx|2'|tTo
+OL,8,Qu`7}UTo4W??T' W///;//T"o
+OL,9,Q?jWpppppUx5T5WTQ`~Wows~Q}0
+OL,10,QxWo{U5TQ7?T5QW*?Qu
+OL,11,QWUQ~sTQhuW+?Qz
+OL,12,Qqpx~|4U#Qj?T#oQz7tp`p~
+OL,13,Q//-&U5QW~}TQ5ojj
+OL,14,Q~/7x'$U+QW+'T(,,,,,Qejtk
+OL,15,Q?g~4TQ'Q}~0T%5555Qj?/*/j
+OL,16,Q|t  h?T !555Q4 S ws5  Q~
+OL,17,Q ~~}T!!!Q##"##! h|j
+OL,18,Q? /#-C]DUh-oh!Q\*////j
+OL,19,Q!z/#W|~|0Sx/#Q`pp0p?5 
+OL,20,Q ?Wx/cs// T nQj4 ~5 
+OL,21,Q~s/'##Wx?/'~w?o=htTQ"o5 5 
+OL,22,Q/?/## `|tW(/r'x|<3ltr}  h  h    
+OL,23,Qt Qpp|&o}|Wno},///!  *  j    
+OL,24,AWrite It   BJokes   CClub 140   FTV    
+PN,19606
+SC,0006
+FL,197,198,140,110,1ff,190
+OL,1,QC]DHe's right. This bogus Santa 
+OL,2,Q?gC]Dis really Terry Turkey!      
+OL,3,Qs|~ppppp T ppppppS+t   T `ppppppppp
+OL,4,Q?o|||tT+U`x}tTk
+OL,5,Qa~5ToU~4T
+OL,6,QTjWUT!      "
+OL,7,Q?##o5TWU`|t
+OL,8,QW~}QTkWwwU
+OL,9,QWo?Q#+o5TWU
+OL,10,Qt p~|0#+TU
+OL,11,Q4jtp"#+/TU*}2okot;
+OL,12,Qu |t2T"uU"o|? k}k
+OL,13,Q /#######T+}pU##TxU/o2o
+OL,14,Qv/0k7Wx~?///|Tkh<|l4|p U+t
+OL,15,Qo3/'# 7Wz?VW|o=t+%Tj{{~5tU"
+OL,16,Qt#!p|0kWz'VzW?// T,,,,,,,,,,,,,,U"
+OL,17,Q'`u*WVx},Ux?/$ T#+uU"
+OL,18,QhtWV*##Ux7S~|pT||||||l|||||tU"
+OL,19,Q7Ux~Sx|||<T"+~~~~}~=0
+OL,20,QU~?S#+U||4T?}o~}?}o~o~o
+OL,21,Q    W       S+|pU#T  ##"##"#######"
+OL,22,QC]DPlease... I was cold and needed 
+OL,23,QC]Dsomewhere to stay the night.    
+OL,24,AWrite It   BJokes   CClub 140   FTV    
+PN,19607
+SC,0007
+FL,197,198,140,110,1ff,190
+OL,1,D]GSOME HOURS LATER... \        R     
+OL,2,                                R    
+OL,3,C]DMunch... I'm glad Terry couldR\~4 
+OL,4,C]Dstay for Christmas dinner.   R\o? 
+OL,5,        Sx/#                R   ppt
+OL,6, Q}x}x~                     R    ~?####
+OL,7, Q    T T p|}t   R   zQj5 
+OL,8, U|W|||   T T zu R   ~7Qzpz0
+OL,9, UW~~  T T z5R  .ooQ~
+OL,10,Ux~W S Sxt `To}  R  WQ
+OL,11,U?? S >/|%T   R~W~~Q
+OL,12,Uo~t?at  VhzxTx R ~WQo
+OL,13,U|wsxT`=VjT(uRz?Qwcv
+OL,14,U?k   ?5sT###//oR |}Q"/g
+OL,15,U~*5 h}(,Wx'! lp``T?#!R~}< Q|
+OL,16,U2o `%W`>!x!  *tee  nRz7Qx~|{
+OL,17,Uot+'# +z7W >`>!8T}W*"&$(7R`~~Qh
+OL,18,U$!Sn?-U+? Wh%>`>!T!Sx{}=Rz'##Q
+OL,19,Q(o,R.g+$  W* %* -))S/./.%R#Sx7!  Q/////
+OL,20,W+?'VW+C]DMe too. Pass another 
+OL,21,V}||||||}||||C]Ddrumstick, Turner.   
+OL,22,V|||}|||#   ##                        
+OL,23,VD]GMERRY CHRISTMAS, EVERYONE! 
+OL,24,AWrite It   BJokes   CClub 140   FTV    
