@@ -1,0 +1,29 @@
+DE,no description
+CT,8,T
+PN,27600
+SC,0000
+PS,8000
+OL,2,   B 1UP    A HIGH  SCORE     D2UP      
+OL,3,       00         30000           00    
+OL,4,U9yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy99
+OL,5,Ufn                                   wf
+OL,6,Ufn  ABASIC SKILL ...    U          U wf
+OL,7,U9{                        ?;;;;90    =9
+OL,8,Ufn                                   wf
+OL,9,U9{GTRAP ENEMIES INSIDE             U =9
+OL,10,UfnGBUBBLES.                        U wf
+OL,11,U9{                                   =9
+OL,12,Ufn                                   wf
+OL,13,U9{                                   =9
+OL,14,Ufn       W ({n!      TW r4      U   wf
+OL,15,U9{       R `sGO  O  OThy{%      U   =9
+OL,16,Ufn      wgggggggggggggggggggggd      wf
+OL,17,U9{                                   =9
+OL,18,Ufn                                   wf
+OL,19,U9{     j;;;90            G ]PINSERT\U=9
+OL,20,Ufn                       G ]@COIN !\Uwf
+OL,21,U9{                          W  8>0U  =9
+OL,22,Ufn                           Vzfsn0U wf
+OL,23,U99;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;99
+OL,24,G                                       
+FL,8ff,8ff,8ff,8ff,8ff,100
