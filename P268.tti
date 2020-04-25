@@ -3,7 +3,7 @@ CT,8,T
 PN,26800
 SC,0000
 PS,8000
-OL,2,  Press Reveal for some Gyroid action!  
+OL,3, Press "Reveal" for some Gyroid action! 
 OL,6,             S |||                      
 OL,7,             S                     
 OL,8,            S                    
@@ -19,8 +19,8 @@ OL,17,           Sxt    Q o5j?
 OL,18,           Q/////////      "+'  +/!     
 OL,19,R~?ws/?//ow??u|w|.o?owoop
 OL,20,R?ono//|}}~s{no7~~m|,t~n~<l7
-OL,21,R //b|u=w>}o|no?~ooonofo)/&kqz?'/   
-OL,22,R}ow/no?lnw?ooso ~y0"~goo/+};/o?d)
+OL,21,R //b|u=w>}o|no?~ooonofo)/&kqz?'/`~ 
+OL,22,R}ow/no?lnw?ooso ~y0"~goo/+};/o?g)
 OL,23,Ra?z:~m.}?.nmxnn/o/>}z}z{|~|}|=
 OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
