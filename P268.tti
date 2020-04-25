@@ -3,7 +3,7 @@ CT,8,T
 PN,26800
 SC,0000
 PS,8000
-OL,3, Press "Reveal" for some Gyroid action! 
+OL,3,Press "?" to reveal some Gyroid action! 
 OL,6,             S |||                      
 OL,7,             S                     
 OL,8,            S                    
