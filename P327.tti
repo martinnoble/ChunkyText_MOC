@@ -3,8 +3,9 @@ CT,8,T
 PN,32700
 SC,0000
 PS,8000
-OL,1,Never in the field of human conflict has
-OL,2, so much been owed by so many to so few 
+OL,1,E Never in the field of human conflict  
+OL,2,F has so much been owed by so many to   
+OL,3,G               so few                  
 OL,5,W        T4                     R`x,#9  
 OL,6,W        T}                   Rx,#  z!  
 OL,7,W        To                Rx.#    8!   
@@ -18,10 +19,10 @@ OL,14,W       Rp,'!       `<nspp     6!
 OL,15,W   R`x,#   ",& pp,,#    fs/##,!        
 OL,16,R  p,#    `pp,.#!                       
 OL,17,R fqp8,,,#!                             
-OL,18,W                                      `
-OL,19,W                                   4$  
+OL,18,W                                       
+OL,19,W                                       
 OL,21,C     At the going down of the sun      
 OL,22,C          and in the morning           
 OL,23,A        we will  remember them         
-OL,24,G                                       
+OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
