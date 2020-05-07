@@ -25,6 +25,6 @@ OL,19,W
 OL,20,W                                       
 OL,21,W                                       
 OL,22,W                                       
-OL,23,GLoad New Commander?                    
-OL,24,G                                       
+OL,23,G     Load New Commander   (Y / N) ?    
+OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
