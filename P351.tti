@@ -3,26 +3,26 @@ CT,8,T
 PN,35100
 SC,0000
 PS,8000
-OL,1,G   - - - - -  E L I T E  - - - - -     
-OL,2,W                                       
-OL,3,W               ppppppx|||p             
-OL,4,W    `x,,,ssss;/,##### `&  #,8#         
-OL,5,W  pvql<,/,,,,,,,,&##c?k##),dr3l0       
-OL,6,W "e   3(d0        `<'  e     "#"|      
-OL,7,W   +d:z  #)t0   `<'    j       h!5     
-OL,8,W     -v    p#-tx'       e     `5 e     
-OL,9,W      "mp *2)d +l0      j0    :  j     
-OL,10,W        "-t)0 5 p#-t     5   h%  "4    
-OL,11,W          "m3d5 5#d")t0  *4  7    u    
-OL,12,W            +d1 5  i  +t  5 z!    *0   
-OL,13,W              #-2)p 5  "-t:p5      u   
-OL,14,W                "-t#      +gp0     j   
-OL,15,W                  ")d0    t m#+,tp0"4  
-OL,16,W                     #,p  u%"m0   "c5  
-OL,17,W                        #)d0  )0   >   
-OL,18,W                           #)dp*p >!   
-OL,19,W                               )zz!    
-OL,20,W                                       
+OL,1,G                                       
+OL,2,G   - - - - -  E L I T E  - - - - -     
+OL,3,W                                       
+OL,4,W               ppppppx|||p             
+OL,5,W    `x,,,ssss;/,##### `&  #,8#         
+OL,6,W  pvql<,/,,,,,,,,&##c?k##),dr3l0       
+OL,7,W "e   3(d0        `<'  e     "#"|      
+OL,8,W   +d:z  #)t0   `<'    j       h!5     
+OL,9,W     -v    p#-tx'       e     `5 e     
+OL,10,W      "mp *2)d +l0      j0    :  j     
+OL,11,W        "-t)0 5 p#-t     5   h%  "4    
+OL,12,W          "m3d5 5#d")t0  *4  7    u    
+OL,13,W            +d1 5  i  +t  5 z!    *0   
+OL,14,W              #-2)p 5  "-t:p5      u   
+OL,15,W                "-t#      +gp0     j   
+OL,16,W                  ")d0    t m#+,tp0"4  
+OL,17,W                     #,p  u%"m0   "c5  
+OL,18,W                        #)d0  )0   >   
+OL,19,W                           #)dp*p >!   
+OL,20,W                               )zz!    
 OL,21,W                                       
 OL,22,W                                       
 OL,23,G Load New Commander (Y/N)? QA szeliga  
