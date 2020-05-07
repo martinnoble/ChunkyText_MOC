@@ -3,7 +3,7 @@ CT,8,T
 PN,35100
 SC,0000
 PS,8000
-OL,1,W                                       
+OL,1,G     - - - -  E L I T E  - - - -       
 OL,2,W                                       
 OL,3,W               ppppppx|||p             
 OL,4,W    `x,,,ssss;/,##### `&  #,8#         
@@ -25,6 +25,6 @@ OL,19,W                               )zz!
 OL,20,W                                       
 OL,21,W                                       
 OL,22,W                                       
-OL,23,G Load New Commander (Y/N)? QAszeliga   
+OL,23,G Load New Commander (Y/N)? QA szeliga  
 OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
