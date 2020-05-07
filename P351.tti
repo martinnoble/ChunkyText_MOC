@@ -4,27 +4,27 @@ PN,35100
 SC,0000
 PS,8000
 OL,1,G                                       
-OL,2,G   - - - - -  BE L I T E  G- - - - -   
+OL,2,G   - - - - -   E L I T E  G- - - - -   
 OL,3,W                                       
-OL,4,W               ppppppppppp             
-OL,5,W    `p,,,ssss;/,####! `&  #,8#         
-OL,6,W  pvql<,/,,,,,,,,&##c?k##),dr3l0       
-OL,7,W "e   3(d0        `<'  e     "#"t      
-OL,8,W   )d*z  #)t0   `<'    j       h!5     
-OL,9,W     )2    p#-tx'       e     `5 i     
-OL,10,W      "d0 *2)d +l0      j0    :  j     
-OL,11,W        ",0)0 5 p#-t     5   h%   5    
-OL,12,W          "d#d5 5#d")t0  *4  7    e    
-OL,13,W            )d! 5  i  +t  5 z!    *0   
-OL,14,W              #d2)p 5  "-t:p5      5   
-OL,15,W                "d0#      +gp0     j   
-OL,16,W                  ")d0    t m#+,tp0"4  
-OL,17,W                     #,p  u%"m0   "#5  
-OL,18,W                        #)d0  )0   :   
-OL,19,W                           #)dp*p x!   
-OL,20,W                               )z8!    
+OL,4,WZ              ppppppppppp             
+OL,5,WZ   `p,,,ssss;/,####! `&  #,8#         
+OL,6,WZ pvq|<,/,,,,,,,,&##c?k##),dr3l0       
+OL,7,WZ"e   3,d0        `<'  e     "#"t      
+OL,8,WZ  )d*z  #)t0   `<'    j       h!5     
+OL,9,WZ    )2    p#-tx'       e     `5 i     
+OL,10,WZ     "d0 *2)d +l0      j0    :  j     
+OL,11,WZ       ",0)0 5 p#-t     5   h%   5    
+OL,12,WZ         "d#d5 5#d")t0  *0  7    e    
+OL,13,WZ           )d! 5  i  +t  e z!    *0   
+OL,14,WZ             #d2)p 5  "-t245      5   
+OL,15,WZ               "d0#      +gp0     j   
+OL,16,WZ                 ")d0    t m#+,tp0"4  
+OL,17,WZ                    #,p  u%"m0   "#5  
+OL,18,WZ                       #)d0  )0   :   
+OL,19,WZ                          #)d0"4 x!   
+OL,20,WZ                             ",z8!    
 OL,21,W                                       
 OL,22,W                                       
-OL,23,G Load New Commander (Y/N)?  Aszeliga   
+OL,23,G Load New Commander (Y/N)?   Aszeliga  
 OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
