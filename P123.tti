@@ -1,84 +1,110 @@
-DE,Retroworkshop - Micron TX503
-CT,16,T
-PN,12301
+CT,10,T
+PS,C000
+PN,12201
 SC,0001
-PS,C000
-FL,121,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5A         
-OL,3,Wj %  -,$-,$%  -,%           5A         
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5A         
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5AAA    A  
-OL,6,W"###########################!A         
-OL,7,MRetro Radio Mic - Micron TX503         
-OL,9,BI'm not much of a sound geek, but there
-OL,10,Bis a distinctive looking radio mic that
-OL,11,Bwas often seen on TV in the 80's, 90's 
-OL,12,Band early 2000's that I'd always wanted
-OL,13,Bto own - the Micron TX503. I finally   
-OL,14,Bpicked one up from specialist TV       
-OL,15,Bequipment auction site "Techbid" for   
-OL,16,B#35, along with the matching receiver. 
-OL,17,FThe mic needed little in the way of    
-OL,18,Frestoration - I just dismantled it,    
-OL,19,Fcleaned it up and applied a thin layer 
-OL,20,Fof spray paint to the mic mesh as this 
-OL,21,Fwas chipped.                           
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
-PN,12302
+FL,104,150,170,101,8ff,100
+OL,1,W`&###################################)0
+OL,2,W5                                    pj
+OL,3,W5                                  h1j
+OL,4,W5                                 x~?!j
+OL,5,W5  `pppppp0             x'#,0   `~'  j
+OL,6,W5 xqpppp8qrt           >!   "4 x?!   j
+OL,7,W%vpppp8! pppy        x'"d  `~g~'     j
+OL,8,W6  `  "44   5     `& #d )0>y'      j
+OL,9,W5d j `$u/!###i  `>##,dj  a~?1       j
+OL,10,W5 ):8! ei,,,,.0 z    )o`e|g~5       j
+OL,11,W5#cdf#!:rdpppp5z! (cs9"4"o?y5       j
+OL,12,W58!j )05}t  `% +,${w+j6#! }       j
+OL,13,W5  *   5?"#k   j}k~%>!   "       j
+OL,14,Wf,,,,,f$ 4,,,5   j5 z%     +       j
+OL,15,W6<s98,)p:ppph!   "}`7       4      j
+OL,16,W~:6<,,.d``%     o:        *}      j
+OL,17,Wv/9y||8,-!    `8!}        h#!5     j
+OL,18,W?9y       6 :*}0      *0 j     j
+OL,19,Wg~%o7      : 8! "ot      5 "4    j
+OL,20,W)s|'       yp%    +t     j  e    j
+OL,21,W5?y5       o%      "ou    "d|v    j
+OL,22,Wj/og~%G>RM  W         "'5    "gy    j
+OL,23,Wyey?apppppppppppppppppppppppppppppp8!
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12202
 SC,0002
-PS,C000
-FL,121,122,124,101,8ff,120
-OL,1,BThe receiver rack contains 8 receiver  
-OL,2,Bmodules, and module no.8 had a damaged 
-OL,3,Bhandle. I obtained a new part from     
-OL,4,BDigikey, but this didnt fit correctly. 
-OL,5,BWith a little modification using a     
-OL,6,BDremmel and some fibre washers, it was 
-OL,7,Btweaked into place.                    
-OL,8,FA new engraved plate was prepared      
-OL,9,Fby a local high street cobbler, and    
-OL,10,Fthis was fixed to the module.          
-OL,11,EI tested the microphone and found it to
-OL,12,Ebe in fully working order. There is    
-OL,13,Emore background noise than when using  
-OL,14,Ea wired mic, but the fact that it      
-OL,15,Ewas all working is testament to the    
-OL,16,Eexcellent build quality.               
-OL,17,AIn the video I take a look at audio    
-OL,18,Acompanding, which is used by radiomics 
-OL,19,Ato overcome the limited dynamic range  
-OL,20,Ainherent in radio transmission.        
-OL,21,CI also explain the radio channels used 
-OL,22,Cfor radio mics, and discuss the        
-OL,23,CUK licensing requirements.             
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
-PN,12303
+FL,104,150,170,101,8ff,100
+OL,1,W 8,,,,,,,,,(0 m0$,ax'p );o0     *0
+OL,2,W6          hvd +l|.!0'< jjv;o}      i
+OL,3,W5          }90 ( `p + 6~|~0     j
+OL,4,W5          vd x% hi|5     j
+OL,5,W5          +}?' 8i5     j
+OL,6,W5           +o',,svs/5     j
+OL,7,W5             ###  "5    `%
+OL,8,W5                   +i    jj
+OL,9,W5                    +7~   h!j
+OL,10,W5                     +?s~  8! j
+OL,11,W5 fd            8,,,,,pp#///' "o'4:   j
+OL,12,W5` )90         6        )d0      "    j
+OL,13,W5)90"fd      `&           "d          j
+OL,14,W5 "fd )90   h!             "4         j
+OL,15,W5   )90"vtp 6     `ppp0     i         j
+OL,16,W5    "f~t 8,fsqp  "d    j         j
+OL,17,W5    x?/!&owh//}$ )p  *0        j
+OL,18,W5   `t+gf!`p8,,,,pp e  j        j
+OL,19,W5   =ssso=`9s9,&####,,s9p j        j
+OL,20,W5  `=89&    `ppp   ",92        j
+OL,21,W%p6ws|v99! `,,0    #),0 "5        j
+OL,22,W~o/ue h!p,&  `p   " h! G>RMW j 
+OL,23,W?! .&j  #p,f h! #4   j`ppppppp8!
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12203
 SC,0003
-PS,C000
-FL,121,122,124,101,8ff,120
-OL,1,BThe mic will mainly be used as a       
-OL,2,Bdisplay piece as it has unique design  
-OL,3,Bappeal with its angular lines and      
-OL,4,Bstainless steel finish. I think it is  
-OL,5,Ba classic on par with the original     
-OL,6,BiMac and Technics 1210.                
-OL,7,FI'm not the only one to think so - the 
-OL,8,Fproduction designer on the original    
-OL,9,FMamma Mia film also liked its looks -  
-OL,10,Fas there are three Micron handhelds    
-OL,11,Fused in the end credits sequence.      
-OL,12,EI'd posted a picture on a Facebook     
-OL,13,Eforum for TV studio enthusiasts and it 
-OL,14,Egenerated a number of comments and     
-OL,15,Efond memories. Micron was thought to be
-OL,16,Erobust and reliable and was the        
-OL,17,Emainstay of UK TV radiomic kit until   
-OL,18,Ethe early 2000's.                      
-OL,19,ASince making the video a statue was    
-OL,20,Aunveiled in Bury, Lancashire, of the   
-OL,21,Alate comedienne Victoria Wood, cast in 
-OL,22,Abronze, complete with a Micron TX      
-OL,23,Aseries handheld.                       
-OL,24,ASinclair C5BSpectrum 48KCNewsFMainIndex
+FL,104,150,170,101,8ff,100
+OL,1,W`&#############(0 :ju*aa5j"#####)0
+OL,2,W5               ij jt1"x       j
+OL,3,Wuppppppppppppp0  % *       j
+OL,4,W5           `&      0      j
+OL,5,W5           5      `      j
+OL,6,W5    0 8!8! =,,,l$ j5     j
+OL,7,W5    "&"&   5  8!  5     j
+OL,8,W=,,,,,,<,,,&   5  "/0    j
+OL,9,W5      epppppp8!     #o}    j
+OL,10,W5                     */g4   j
+OL,11,W5   86######4          "!/5   j
+OL,12,W5   i*0  #  *0            *?ye   j
+OL,13,W5    ei&####!i             "o'nj   j
+OL,14,W5    "4e      e              #! "?:   j
+OL,15,W5     *24     "4              8#######k
+OL,16,W5      i*0     *0             5       j
+OL,17,W5      pei      i       (<,,,,-,,,,,,,n
+OL,18,W5     jv$e      e       "d           j
+OL,19,W5     "}24     b.m0     j           j
+OL,20,W5      "ot`|}4~}t0    *0          j
+OL,21,W5      ~vo};'j/g0    "##########k
+OL,22,W5      vov   o5         G>RM Wj
+OL,23,W"dpppppo}'j0 j ppppppppppppp8!
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12204
+SC,0004
+FL,104,150,170,101,8ff,100
+OL,1,W`&###################################)0
+OL,2,W5G>RMW                                j
+OL,3,W5       `pppppppppppppppppppppp       j
+OL,4,W5   p,##!     `,,,,,,,,l<,,,,d ##)d0  j
+OL,5,W5 8#,p`,##,0  j  `xl'/dj5 j{ j h,,l")0j
+OL,6,W5 5   5    bd j xc>!   i!`znlj hgsm  5j
+OL,7,W5 5   j`,s96 #,x!d%`~t ebw{{j j5   5j
+OL,8,W5 i    5o|24 "4& /?/ j(=nnj **:* h!j
+OL,9,W5 j    5 +}1  ; vp6tr4j"#ss: *,,. j j
+OL,10,W5 *0   5 `"ot i y{5:##p`~})p   : j
+OL,11,W5  5   5h} "o}05k/o!5`~5j5  5 j
+OL,12,W5  5  h)fss,,0/t ;-)1"6#j#5j/5  5 j
+OL,13,W5  i  j "/'  5*6f n$"hi ",!e:",! h! j
+OL,14,W5  j  jyyyyy918ye?z ;1 j 5       e j  j
+OL,15,W5  *0 j p j  57)'"i u% 5 j       j :  j
+OL,16,W5   5 j`| 6  5=dp8n v% 5 bll,|,|lf 5  j
+OL,17,W5   5 55| 5  550p`j v% j 6,-/,/,-6 5  j
+OL,18,W5   i 55j  j 5&,'j v%  )qpppppp8!h!  j
+OL,19,W5   j eesj  j g),&; v%  j         j   j
+OL,20,W5   j j,,6  *0 ###  v%  6         j   j
+OL,21,W5    5*pp5  8&###)d &% j      pp0 5   j
+OL,22,W5    e&  "#ssssssss#####+/o?  "d%   j
+OL,23,W"dpppps,,f~}ppppx||ssqp,,fqppp8!
+OL,24,AArtists BFun & Games CDigitiser  FIndex

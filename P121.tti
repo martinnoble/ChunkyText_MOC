@@ -1,174 +1,362 @@
-DE,Retroworkshop - Sinclair C5
-CT,16,T
+CT,10,T
+PS,C000
 PN,12101
 SC,0001
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MSinclair C5 Restoration                
-OL,9,BI was looking around for a project with
-OL,10,Ba mechanical element, as I usually     
-OL,11,Brepair old electronics. Walking through
-OL,12,BLondon I came across a beautifully     
-OL,13,Brestored DeLorean - complete with all  
-OL,14,Bthe 'Back to the Future' conversions.  
-OL,15,FA project like this has great appeal   
-OL,16,Fbut at around #30,000 and without any  
-OL,17,Fknowledge about cars I decided I needed
-OL,18,Fa more manageable project, so I decided
-OL,19,Fa Sinclair C5 would fit the bill.      
-OL,20,EAlso, like 'Back to the Future' the C5 
-OL,21,Ecame out in the summer of 1985!        
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,V |Rkmgff}=vy{fwcm0
+OL,2,Vz?/W`V+ovRmw<=?--5
+OL,3,Vo7Wx>/tV|1Qkn 
+OL,4,V?/#"!""k?W:!  "o4V}Q)o= 
+OL,5,V.W`~||<V?WzHS%*IW5VQa7= 
+OL,6,Vw%Wx'0x?a>V+W~?t    `uVo=Qm< 
+OL,7,Vo'W`~'"x?i?QtW!~$  x?V Qo~= 
+OL,8,V'Wx?a?Q4W~5   ""ojVQ{ju 
+OL,9,Vw7W~aQw0W!    `~jVjQ>j5 
+OL,10,V?wWz5~Qvv0 W  p~5V~Qc7= 
+OL,11,V?Wh?huQ)y{o0 Wx VQ9~{=$
+OL,12,V}7W%uQ(1ww}0Wk V?Qf~}u 
+OL,13,V}%Wj7~tQ")a>v?tW*%xVQ8?7uk0
+OL,14,R|pW### +o|||||tpx|/R|||s.5$
+OL,15,R% W   W+' pR"ovf
+OL,16,R7 Wx?!0  Wo%`~}0R}
+OL,17,R Wh7`>!      W"##//' ~uRos?
+OL,18,R5 W*'Rh|||pp0    `p W j?>Rmw
+OL,19,R}      ~}   `}|W*{Rwg}};
+OL,20,Rt    z}tx4Wo7R}
+OL,21,R|px~?'#!      ##/W"?R~~
+OL,22,R?C   Szeliga   R}W"'R~}
+OL,23,R*1 {t  U"#######!  R`}|%
+OL,24,R "o||tpppppppp|||'! 
 PN,12102
 SC,0002
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 1 - Vehicle Check Over            
-OL,9,BIn this video I investigate how to go  
-OL,10,Babout buying a C5, check over the      
-OL,11,Bvehicle, and then take it out for a    
-OL,12,Bquick test ride.                       
-OL,13,FI bought my C5 from eBay for #420 plus 
-OL,14,Fvan hire as it wouldn't fit in my car. 
-OL,15,FYou should also check out Gumtree and  
-OL,16,FThe "Sinclair C5 Owners Group" on      
-OL,17,FFacebook as you may get a better deal. 
-OL,18,EIf you want a working machine you      
-OL,19,Eshould check the "pod" works as this   
-OL,20,Econtains a microchip that is hard to   
-OL,21,Ereplace if it is faulty.               
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,W/##+///'###+//
+OL,2,W7R8p~}}}xW+7Rxxy}}~~=W
+OL,3,WRb?W*R~?g{wW
+OL,4,WR(|3o j?gx=W
+OL,5,WR.}6/? "/'xW~
+OL,6,W}R+$    n/Wz
+OL,7,WR"///#      #//#W~
+OL,8,W'Qx|< x~}t(||pWo
+OL,9,WQh?!*? +}Wk
+OL,10,WQ' `p"+//'p|p"o5W
+OL,11,W%Q' `~t `~}0#W"o
+OL,12,W?!Q~4` j }Wk
+OL,13,W5Q5j *%5W
+OL,14,W5Q5*'  +? W
+OL,15,W5Qo  +o?'x||t"//'  kWh
+OL,16,W0Q!xt0  `~}  `~tW`
+OL,17,W} Qt j5xW~
+OL,18,W4Qu*a?W
+OL,19,W}Q+ "//!j?Wz
+OL,20,AMalinaW}Q"+' px||tp"o'WxCszeliga
+OL,21,APiW|0 Q*%W`xF.zapto
+OL,22,W|0Q"//'Wp~E.org
+OL,23,W||pppx~
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12103
 SC,0003
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 2 - Vehicle Strip down            
-OL,9,BIn the second video I undertake a      
-OL,10,Bcomplete strip down to the bare        
-OL,11,Bchassis.                               
-OL,12,FOne of the reasons I wanted to film    
-OL,13,Fthe tear down was to help the C5 novice
-OL,14,Fsuch as myself.                        
-OL,15,EI took over 100 screenshots and        
-OL,16,Eproduced a step-by-steo guide that can 
-OL,17,Ebe printed and taken to the workshop   
-OL,18,Eor garage. This is available on my     
-OL,19,Ewebsite at www.retroworkshop.uk        
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,T]S///////////////////////////////////\ 
+OL,2,T]S//////////////'####################\ 
+OL,3,T]S,,,,,,,,,,,,,,,,,,,,,,/////////////\ 
+OL,4,T]S////////////////-,,,,,,,,,,,,,,,,,,\ 
+OL,5,T]S\                               T]S\ 
+OL,6,T]S\                               T]S\ 
+OL,7,T]S\                               T]S\ 
+OL,8,T]S\ Q      R               T]S\ 
+OL,9,T]S\ Q   S   R         U    T]S\ 
+OL,10,T]S\ Q S   R   V  U    T]S\ 
+OL,11,T]S\ Q   S   R   V   U   T]S\ 
+OL,12,T]S\ Q   S   R   V    U    T]S\ 
+OL,13,T]S\ Q S   R  V    U    T]S\ 
+OL,14,T]S\       S      V   U    T]S\ 
+OL,15,T]S\                  V         T]S\ 
+OL,16,T]S\                               T]S\ 
+OL,17,T]S\                               T]S\ 
+OL,18,T]S\                               T]S\ 
+OL,19,T]S\                    D  szeliga T]S\ 
+OL,20,T]S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\ 
+OL,21,T]S///////////////////################\ 
+OL,22,T]S,,,,,,,,,,,,,,,,,,,,,,/////////////\ 
+OL,23,T]S,,,,,,,,,,,,,,.////////////////////\ 
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12104
 SC,0004
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 3 - Rebuild                       
-OL,9,BThe Lotus designed chassis was sent to 
-OL,10,Ba local firm where it was bead blasted 
-OL,11,Band powder coated, and looks as good   
-OL,12,Bas new.                                
-OL,13,FThe vehicle body was scrubbed with Cif 
-OL,14,Fand a scouring pad to remove dirt and  
-OL,15,Fstains.                                
-OL,16,EI sanded and spray painted the other   
-OL,17,Emetal parts such as forks and steering 
-OL,18,Ebar.Then the C5 was re-assembled and   
-OL,19,Efresh grease applied to all the        
-OL,20,Ebearings. A new set of tires and tubes,
-OL,21,Eand new decals completed the job.      
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,ENever in the field  of human conflict  
+OL,2,F has so much been owed by so many to   
+OL,3,G               so few                  
+OL,4,W        T4                     R`p,#9  
+OL,5,W        T}                   Rp,#  8!  
+OL,6,W        To                Rp,#    8!   
+OL,7,W        TjRpp          R`8'     `&     
+OL,8,W       Th}pR)dp    R`8&!      8!      
+OL,9,W       T`'T#-tR )l/t,'       8&        
+OL,10,W      Th'R)0R    x,!  `t   p&          
+OL,11,W     Tx'  R"dp R*!  `0"! `>!>d `p0     
+OL,12,W    T(!   R`,&(o|0   "!x.#,d/#a8&     
+OL,13,W       Rp,'!        p>spp     6!       
+OL,14,W   R`x,#   ",& pp,,#!   fs/##,!        
+OL,15,R  p,#    `pp,.#!             Q   ppp0  
+OL,16,R fqp8,,,#!                   Q x~t 
+OL,17,                              Qh5
+OL,18,                              Q*7 k?!
+OL,19,    At the going down  of the Q |v|wy4 
+OL,20,C    sun, and in the morning  Q #o'! 
+OL,21,A     we will remember them   R   h7    
+OL,22,                              R   >     
+OL,23,                               Aszeliga 
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12105
 SC,0005
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5hg}0n}t   
-OL,3,Wj %  -,$-,$%  -,%           5}3 d+v}0 
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5x2o|t~v= 
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5+9S#+/'Wle
-OL,6,W"###########################!         !
-OL,7,MPart 4 - Electrics                     
-OL,9,BThe C5 was marketed as an "electric    
-OL,10,Bvehicle" so it was fitting to dedicate 
-OL,11,Ba video to the electricals.            
-OL,12,FI take you on a tour of the vehicle    
-OL,13,Felectrics using my "C5 Simulator".     
-OL,14,EI then strip and service the motor,    
-OL,15,Efit a safety wiring loom to make it    
-OL,16,Eeasier to remove the battery. I fit a  
-OL,17,Enew leisure battery and undertake some 
-OL,18,Emodifications to the "pod" to make it  
-OL,19,Eless prone to damage.                  
-OL,20,AThe finished C5 goes for a ride around 
-OL,21,AMK with some fancy aerial filming.     
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,VZ`,0&)0(#$h#$ `0&#$(#d(#d") (#d(#d"!0)0
+OL,2,WZ" (  `  "  (V$(W "0  !0 $ $"T a W$ "T(
+OL,3,WZ&$ $ (V! 1 W1V $W ` V  $ $"0h) a (  a"
+OL,4,WZ!"0(  $"YTh||S|T|Z( "0V"0(T`  ! $ a  0
+OL,5,WZV ` 1 $(YTj?'STZW! $VT` ! 0 " "  0 0
+OL,6,WZT ` 1 $"YTjS|tTZ ! (   $" `  1 a 0 $
+OL,7,T`||||||||||~S"+T||||||||||||||||||||0
+OL,8,T~W`ppppppppS xpWpppp0 ppppppppp0  `pT}
+OL,9,TW?///////Si/W`7#k} k?//////%  jT
+OL,10,TW5Sn,W||||||| z||~u"}|||4 |tppzT
+OL,11,TWuS )Wppx%`?###+     5 ####T
+OL,12,TWo #+3 jS///Wk5  x/! Sc'WT
+OL,13,T+mpppp0W/SxWk0 pppppppp|/Tppppppppp~'
+OL,14,T     /,S"- W//T,,,,,,,,,,|?!TZ     0  
+OL,15,T    YQ{"6Qw";j3j 571w5 Tx?ZT  ! 2 `T b
+OL,16,T    YoW-() .*,*,*$%-%%%Tx'TZ( 2V $ $T $
+OL,17,TY     ##################!ZV0!(  ! " T" 
+OL,18,WZ      2 V! $W$  V  $T`!  QYSRT
+OL,19,WZ     (  $V" " V2T 2  $  QYSRT 
+OL,20,WZ    2  $V( "  $ T0  "  QYSRT  
+OL,21,WZ   $ ( 0"`" (  V(  2  QYSRT   
+OL,22,WZ` ! $` `  `"  `"  0  QYSRT    
+OL,23,WZ! ( ` (  (   (                B       
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12106
 SC,0006
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,1,T,'###+/'Vz7Ux>/######/o|pV#/|tT+o}tRkt0
-OL,2,Vx|//-,,,/#Ux7Qx>////,|pU#/|tV+otT+ouR#o
-OL,3,V7Ux/#######Qz7Wx|||pQ#/}tU+mtV+otT+otp
-OL,4,VUz7Qx~/////-|Wj{|pQ+otU+mtV+mtT+o
-OL,5,Uz7Qz7Wp||||tQo5WovotQ+otU+mtV+mt 
-OL,6,UQjWhj2uQoW*}{}0Q+}pU+}pV#/
-OL,7,U7Q5Wj};tQmW+3Vd (0Q"o}pU##o4
-OL,8,Q`~7Wzj;}0 W*tV)0"$ Q###+}U
-OL,9,Q~7W`2tWq2o}|||||u+=QU
-OL,10,Q7W`~}r?///%~?/l}Q`x'U
-OL,11,QWh'"o7sqpp<,,$"#   z;}Qk}U*
-OL,12,QW"h}"}|pxp Td !0W`~v}Qku 
-OL,13,QuW}5|0T&Wx}Qk5
-OL,14,QW}5SpW#+/o|p~}Q
-OL,15,QW5S#+mtpW"+/////////////'Q
-OL,16,QoW*; QppS #+/|tW#+/o?'! SdW(||0Q(|,|~'
-OL,17,Q"m0  x?//m|ppS#+/|tW#   SS){tWko0QjuU`p
-OL,18,UtQ+'UxtQ#/o|pS #Q  p|0W S+%W5 QU5
-OL,19,U+}pppx?/o||pQ#+/,|||/+tW"dWz;5 QU%
-OL,20,Vtpppppp|p U#//-||tppppptQ+o4W#/'Q h5U 
-OL,21,T,l||pV#///}||tppppppU#/tQot0   `?Uz5 
-OL,22,R|pT#/////,,,,,||ppV#/|pUkuQ+/|||/Ux7Vh
-OL,23,R#+/-,,|||||||ppT#/tV"ouU+/}tpppx/'Vx
-OL,24,U}||||pppppppR#/|pT+}tV#/|tppppppx|/!
+FL,104,150,170,101,8ff,100
+OL,28,@@P|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,1,W?/////////////////////////o 
+OL,2,WQx|||||||||,,,,,l||||||||tW 
+OL,3,WQ5St~t4QW'##+ 
+OL,4,WQ/'##/%S*?0Qo/###/oWQw{W 
+OL,5,WQ?W(t9t  ({6! x~'q,QoWQ5 W 
+OL,6,WQ!W)9;{}W)#o}7`~?y?a&Q*WQ<lW 
+OL,7,WQW;m;l:4o}0`zy5~{?~?>aQWQ5jW 
+OL,8,WQWp)wm;${axm}5ogw7x}1QWQ3#W 
+OL,9,WQWv|l<w.tze?w}p7?owsQWQ5 W 
+OL,10,WQWx/a~6o}|~oz/x}9tQWQ-,W 
+OL,11,WQWczg?ydv{}wyws}o}k<v3QWQ<,W 
+OL,12,WQW#h7~ew?`tkj}y #QWQs{W 
+OL,13,WQtWg>~?~ig~{;tm7to5QxWQ48W 
+OL,14,WQW#x%7%w~%7o~2j5*t#Q{WQ7dW 
+OL,15,WQuW! ' "h}j6 %QpxWQqrW 
+OL,16,WQ?' W`~'`pup"otQ##oWQuzW 
+OL,17,WQWh-l~u`$bw db|mQ"WQ%*W 
+OL,18,WQtW7ya62/cw+g"$+65Q~Wtppx 
+OL,19,WQ+tW) W+='z2o/ W(!Qz'W 
+OL,20,W}Q+ot~tpWk!Qpxt~/!Wx 
+OL,21,W|pQ######/}||?'####!W`x 
+OL,22,W|||||p0Q+!Wpx|||| 
+OL,23,]AGod}o Polski               szeliga    
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12107
 SC,0007
-PS,C000
-FL,123,122,124,101,8ff,120
-OL,8,W <,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4  
-OL,9,W 5         h                        5  
-OL,10,W 5 j###jss{j###j###j##k             5  
-OL,11,W 5 *   *,,,*,,,*   *,,.             5  
-OL,12,W 5Qjh}jh} }0``>/%j5h} }0W5  
-OL,13,W 5Q ~~51{5|?!1"o}051{5|?!W5  
-OL,14,W 5Q kj!*? "o4"||?!j5*?    W5  
-OL,15,W upppppppppppppppppppppppppppppppppp5  
-OL,16,W                                       
-OL,17,     MYesterday's Technology Today      
-OL,23, Thanks to Horsenburger for the artwork 
-OL,24,ARadioMicBSpectrum 48K CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,WZZ
+OL,2,WZBfrank sidebottom'sWZ
+OL,3,WZ?oZ
+OL,4,WZ?##o%j7"Z
+OL,5,WZ!! #}|0j j?.?! "oZ
+OL,6,WZ h ?#!j7  j5 5 |0"Z
+OL,7,WZ5* `4j0j$j5 5*/!`Z
+OL,8,WZup}pxz}00jupp `~Z
+OL,9,WZZ
+OL,10,WZ5 ?+'+ j/o/oZ
+OL,11,WZ    }x5#+# 0j'`k7+o j?#+ j jZ
+OL,12,WZ} h|5`%` 0j %j #`!0b  ( k % jZ
+OL,13,WZ *5j j05j |~ +o ~  +'?,| jZ
+OL,14,WZ0  uz j!z tpz  "}ppu + zZ
+OL,15,WZ||}~|pxZ
+OL,16,WZZ
+OL,17,WZRY x0 `t   `||`4`|<xZWZ
+OL,18,WZRY ! j7`|0 #!~5 #x?ZWZ
+OL,19,WZRY /  *% # x|4#   o!ZWZ
+OL,20,WZRYj5   xt "#h}  `t ZWZ
+OL,21,WZRY~% h? "!`||*!  ~7 ZWZ
+OL,22,WZRY"   !   "##!   "  ZWZ
+OL,23,WZZ
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12108
+SC,0008
+FL,104,150,170,101,8ff,100
+OL,2,G   - - - - -   E L I T E  G- - - - -   
+OL,4,WZ              ppppppppppp             
+OL,5,WZ   `p,,,ssss;/,####! `&  #,8#         
+OL,6,WZ pvq|<,/,,,,,,,,&##c?k##),dr3l0       
+OL,7,WZ"e   3,d0        `<'  e     "#"t      
+OL,8,WZ  )d*24 #)t0   `<'    j       h!5     
+OL,9,WZ    )2    p#-tx'       e     `5 i     
+OL,10,WZ     ",0 *0)d +l0      j0    :  j     
+OL,11,WZ       "d )0 5 p#-t     5   h%   5    
+OL,12,WZ         #d"d5 5#d")t0  *0  7    e    
+OL,13,WZ           )p! 5  i  +t  e z!    *0   
+OL,14,WZ             #d2)p 5  "-t245      5   
+OL,15,WZ               "d0#      +gp0     j   
+OL,16,WZ                 ")d0    p m#+,tp0"4  
+OL,17,WZ                    #,p  ei"m0   "#5  
+OL,18,WZ                       #,p!  )0   :   
+OL,19,WZ                          #,p "4 x!   
+OL,20,WZ                             #,z8!    
+OL,23,G Load New Commander (Y/N)?   Aszeliga  
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12109
+SC,0009
+FL,104,150,170,101,8ff,100
+OL,1,W `|tp                                  
+OL,2,W }j|t0 0                           
+OL,3,W ++jo}j5`t0`                      
+OL,4,W |t#}tjz?zj75-  xhlhlhl            
+OL,5,W j/!uj51-*%j*n*n*n            
+OL,6,W +o'j h!2}%ox*%jhzhzhz            
+OL,7,WZ                             p  v)0   
+OL,8,WZ                          p8v0y7`-1p0 
+OL,9,WZ                       p<f3d|n==ekz j 
+OL,10,WZ                    p,s!b9f=lm#`8e8#! 
+OL,11,WZ                `x,+dpx/+zq&90ia&//?t 
+OL,12,WZ             px># #l<g&w+1d)r,c7,p6=z 
+OL,13,WZ         `pxnqp2,<nqz<&!0+pl! z',,uu& 
+OL,14,WZ      `xve> # hn#3t|+0 )b(!j`&! f0r9  
+OL,15,WZ      ~)osdph't=svy(p$! e.!    "    
+OL,16,RZ      a||tW-t?l'7)z8!05 `,!           
+OL,17,TZ/'R`~}Wp+6gg;a8&")|q             
+OL,18,VZo'R(y?!"o}Wtk~1:-t0 x1"4            
+OL,19,WZ?R`i'   "o}Wj'u  "opb>iTl~|<lp0    
+OL,20,VZ7R~' `p|~?Wnd 5#,xqr7`&V;/o-Tg/-=||
+OL,21,TZdR//#Wpp0 ",pu`p=! T/$~)W'Vkvw
+OL,22,WZ R"####V`x|nT~/mWb$"!"9V*'?,W;lT.m}
+OL,23,VZ o??vovT~}V~}W#d&& T.-,W6Aszeliga
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12110
+SC,0010
+FL,104,150,170,101,8ff,100
+OL,28,@@P|gpCu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,2,M Ma}y Ksi@{` CLAntoine de Saint-Exupery
+OL,3,                L ntoince               
+OL,5,                             SZu}y0     
+OL,6,  S`|t                      SZ~'/}     
+OL,7, S`u                     ZW"$$"%     
+OL,8, S"7                     ZW"0 2      
+OL,9,  S"/'                     WZ`R~~t      
+OL,10,        ZR(0    ZS(00Y     WZ6Rk?u     
+OL,11,        ZR *0   ZS870Y     WZiR/oWj     
+OL,12, ZSi6   ZR !e               ZR |W6     
+OL,13,ZS(!)   ZR   m0     QZ      ZR`o5      
+OL,14,         ZR(0 e     QZ>zxd  ZRj7z5      
+OL,15,         ZR )4"d    SZ 5   ZRe5W     
+OL,16,           ZR")2d   QZ6k&%ZR xj5  YW`~
+OL,17,            ZR )2d   QZ"mWYxwZR/} WYxg
+OL,18,             ZR *24   WYzo3ux/{?~/
+OL,19,              ZR "f$WYtz;wjro?7{{q~
+OL,20,                 W }t;vm;w'?}m?~'{
+OL,21,         ZS"t$Y W  o?;~?}z>o{</{~
+OL,22,         ZS&+!Y W`~0k6?~q{?ot~yy
+OL,23,               W ~wo{swk}t'Fszeliga
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12111
+SC,0011
+FL,104,150,170,101,8ff,100
+OL,1,MC    Great news! It's re-opened!       
+OL,3,V7QpVo?Qp V
+OL,4,V5Qp0V*'Q`pVo
+OL,5,V/ S0VS`~V*o
+OL,6,V?'!  S5V#################Sj V  #o
+OL,7,WZ`vs{sss{sssswss{ss{ssswss{ssswsswsswt 
+OL,8,WZ-.,,,-,,,.,,,.,,,-,,-,,,-,,.,,.,,,-,,-
+OL,9,S6'//+//+/'//+/'//+/'//+/'//+/'//+/'//+m
+OL,10,S5//*/%Wj#7kS%//*Wj#7kS%//*Wj#7kQ`,,0S/j
+OL,11,S5%//*/Wj,-nS//*/Wj,-nS//*/Wj,-nQe"%:S*j
+OL,12,S5//*/%WjppzS%//*WjppzS%//*WjppzQ #f S/j
+OL,13,S5%//*/(,$,,$//*/%,,(,$//*/%,,(,$,,(,$,j
+OL,14,S5 B]MB]MDYe Olde Garden Centre     L\Sj
+OL,15,S%  A   Ales                LDSk  porps 
+OL,16,W]ACask  Ales  \        T]GSkyA]GSzeliga
+OL,17,S4||4|| ,, ,, ,,"##+/###($(,$,,(,$||4||h
+OL,18,S5|h|4|Wj#7k U`,0W7###5U`,0Wj#7kS||h|4|j
+OL,19,S5||4||Wj 5j Uj 5W5   5Uj 5Wj 5jS4||4||j
+OL,20,S5,(,$|Wj##k U"#!W5   5U"#!Wj##kS||(,$|j
+OL,21,S5R46S|W.,,.$S|h|W5   5SS||W.,,.$4R07S|j
+OL,22,S5R"7S||h|4||h||W`upppuSh||h|4||h|R"7S|j
+OL,23,Sup{qppppppppppprssssspppppppppppp{qpz
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12112
+SC,00012
+FL,104,150,170,101,8ff,100
+OL,28,@@@|g@@pC@|p@@OgG^Ls_w}ww]_]_wM@p
+OL,1,W       ?`4 x hQ`|t0      Tm|S4ththT*0  
+OL,2,W      j%*  !  Q~}|0    ToSj4j5Ti  
+OL,3,W     `?      Qh}t  TjSj54ueT5 
+OL,4,W     j5   x}0Q~/|0 Sj55jT5 
+OL,5,W         "'Q`}2+o}Soj55*Q0 
+OL,6,W     ?      Qjt  +o|Sij5oQh5 
+OL,7,W    j5      Q}WiQ+}0S5Qx?` 
+OL,8,W    j!      Q'W`iQ+otpx' * 
+OL,9,W           Q"/7 Wj)Q`~}W6  
+OL,10,W   `          Q+oW   iQ~tW5 
+OL,11,W   j5            Q"+o%W((`Q~'"o4  
+OL,12,W   ~               Q~7Wn/Q*%WaQ?  
+OL,13,Q   |p            Qh?W.8;a|t  `p$QW(  
+OL,14,Q   |t0       Q`%U`pd|||l|t(0 Q5  
+OL,15,Q   "/}||tp  x~'WUg{>-gss+!Q:   
+OL,16,Q     "+o'U ~7~.y~0     
+OL,17,S      0 Q#+/o/!U`do5m?w/'o5     
+OL,18,S    ppT,p0 Q"#! U 66x?~{r./n?      
+OL,19,S  `|g~T*W%To=|dp S0U"/nvm{g>yw{}5      
+OL,20,S `1)/!T*WoTl2-tSxs~}U+o~{w=g$      
+OL,21,Sh?y?tT+WiT7Sx~?/#q0+u U&;??1$!       
+OL,22,S'&' "//-$Tm+S./#(//'T#mS$*,$           
+OL,23,                            Fszeliga 2.5
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12113
+SC,00013
+FL,104,150,170,101,8ff,100
+OL,7,S                   5                   
+OL,8,S(|t    h|4h||||||0 5     `p||$ `x||||0 
+OL,9,S kt  `? j####o} 5  `x~/o7 x'##+/% 
+OL,10,S  o4 ~! j||||' 5 x'!`? zt  
+OL,11,S  "z%  j////t 5j%1  x'  
+OL,12,S   "o%   j    j 5    x'  +?#   
+OL,13,S                   5                   
+OL,15,C    https://valentinorossi.com/en      
+OL,23,                                Cszeliga
+OL,24,AArtists BFun & Games CDigitiser  FIndex
+PN,12114
+SC,00014
+FL,104,150,170,101,8ff,100
+OL,1,Magic Eye - 1982                        
+OL,2,Q9^Rnf^TfeaQ9^Rnf^TfeaQ9^Rnf^TfeaQ9^Rnf^
+OL,3,Q9^RQ9^Rnf^TfeaQ9^Rn^Rnf^TfeaQ9^RnRnf^Tf
+OL,4,Q9^Rnf^Q9^Rnf^TfeaQ9^Rn^RneaQ9^RQ9^Rnf^T
+OL,5,Q9^RQ9^Rnf^TfeaQ9^RnRnTfeQ9^Rnf^TfeaQ9^R
+OL,6,Q9^Rnf^TfeaQ9^Rnn9^RnQ9^Rnf^TfeaQ9^Rn^Rn
+OL,7,Q9^RnQ9^Rnf^TfQ9^Rnf^TfeaQ9^RnRnQ9^Rnf^T
+OL,8,Q9^RnQ9^Rnf^TfeaQ9^RnQ9^Rnf^TfeaQ9^Rn9^R
+OL,9,Q9^Rnf^TfeaQ9^RnQ9^Rnf^TfeaQ9^Rn9^Rnf^Tf
+OL,10,Q9^RQ9^Rnf^TfeaQ9^RnTfeaQ9^RnaQ9^Rn^Rn^R
+OL,11,Q9^Rnf^TfeaQ9^RnaQ9Q9^Rnf^TfeaQ9^RnRn9^R
+OL,12,Q9^RnQ9^Rnf^TfeaQ9^RnQ9^Rnf^TfeaQ9^RnQ9^
+OL,13,Q9^Rnf^TfeaQ9^Rnn^Rnf^TfeaQ9^RnQ9^RnQ9^R
+OL,14,Q9^RQ9^Rnf^TfeaQ9^RnRnf^TfeaQ9^RnQ9^Rnf^
+OL,15,Q9^Rnf^TfeaQ9^RneaQ9^RnQ9^Rnf^TfeaQ9^RnQ
+OL,16,Q9^RQ9^Rnf^TfQ9^Rnf^TfeaQ9^RnaQ9^Q9^Rnf^
+OL,17,Q9^Rnf^TfeaQ9^Rn^Rnf^TfeaQ9^RnRnf^TfeaQ9
+OL,18,Q9^Rnf^TfeaQ9^Rn9^RnQ9^Rnf^TfeaQQ9^Rnf^T
+OL,19,Q9^RQ9^Rnf^TfeaQ9^RneaQ9^RnaQ9^Q9^Rnf^Tf
+OL,20,Q9^RQ9^RnQ9^Rnf^TfeaQ9^RneaQ9^RnfeaQ9^Rn
+OL,21,Q9^Q9^Rnf^TfQ9^Rnf^TfeaQ9^Rnnf^TfeaQ9^Rn
+OL,22,Q9^RnQ9^Rnf^TfeaQ9^RnRnQ9^Rnf^TfeaQ9^Rn^
+OL,23,Q9^Rnf^TfQ9^Rnf^TfeaQ9^RnTfeaQ9Q9^Rnf^Tf
+OL,24,AArtists BFun & Games CDigitiser  FIndex

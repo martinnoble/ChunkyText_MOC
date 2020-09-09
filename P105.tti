@@ -3,7 +3,7 @@ CT,20,T
 PN,10501
 SC,0001
 PS,C000
-FL,102,104,120,101,4ff,100
+FL,102,104,410,101,4ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -23,11 +23,11 @@ OL,19,ENorthBin 2019.
 OL,20,E``````````````````````````````````1/6``
 OL,21,    BCan you beat Bamber's quiz?E152    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,24,AAbout  BTeletext Art CReEnthused FIndex
 PN,10502
 SC,0002
 PS,C000
-FL,102,104,120,101,4ff,100
+FL,102,104,410,101,4ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -47,11 +47,11 @@ OL,19,Binteresting tapestry is revealed.
 OL,20,E``````````````````````````````````2/6``
 OL,21,         B22 year old gossipE143        
 OL,22,D]MGSPECCY AND SINCLAIR C5 OH MY! p120  
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,24,AAbout  BTeletext Art CReEnthused FIndex
 PN,10503
 SC,0003
 PS,C000
-FL,102,104,120,101,4ff,100
+FL,102,104,410,101,4ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -72,11 +72,11 @@ OL,19,Bfailures.
 OL,20,E``````````````````````````````````3/6``
 OL,21,      B22 year old music reviewsE143    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,24,AAbout  BTeletext Art CReEnthused FIndex
 PN,10504
 SC,0004
 PS,C000
-FL,102,104,120,101,4ff,100
+FL,102,104,410,101,4ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -95,12 +95,12 @@ OL,18,Bfrom baked bean salesman, to co-founder
 OL,19,BofEBullfrog,BviaELionhead,BtoE22Cans.  
 OL,20,E``````````````````````````````````4/6``
 OL,21,       BThe ghost of digi pastE170      
-OL,22,D]MGSPECCY AND SINCLAIR C5 OH MY! p120  
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,22,D]MG
+OL,24,AAbout  BTeletext Art CReEnthused FIndex
 PN,10505
 SC,0005
 PS,C000
-FL,102,104,120,101,4ff,100
+FL,102,104,410,101,4ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -117,11 +117,11 @@ OL,16,BJust search for:EMICROBRITS
 OL,20,E``````````````````````````````````5/6``
 OL,21,    BCan you beat Bamber's quiz?E152    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,24,AAbout  BTeletext Art CReEnthused FIndex
 PN,10506
 SC,0006
 PS,C000
-FL,102,104,120,101,8ff,100
+FL,102,104,410,101,8ff,100
 OL,1,B]DFake AdvertGG] D           BOOKS >>> 
 OL,2,V `~|xt                               
 OL,3,V ~i+yk6;4 BHols? Foreign food gave you 
@@ -143,4 +143,4 @@ OL,19,EIRRITATION, ALTERCATIONS, DEPORTATIONS
 OL,21,D-------------------------------------- 
 OL,22,BWe're not worth it! Excellence. Swing! 
 OL,23,D-------------------------------------- 
-OL,24,AAbout BTeletext ArtCRetroWorkshopFIndex
+OL,24,AAbout  BTeletext Art CReEnthused FIndex

@@ -1,83 +1,105 @@
-DE,Retroworkshop - Spectrum
-CT,16,T
+CT,10,T
+PS,C000
 PN,12201
 SC,0001
-PS,C000
-FL,123,121,124,101,8ff,120
-OL,1,Wj#######3###################5          
-OL,2,Wj <,$||4=,$<,$<,4           5A         
-OL,3,Wj %  -,$-,$%  -,%           5A         
-OL,4,WjQh4h7}jw=ju?(3juh7}jw=W5A         
-OL,5,WjQ+/+'"-'*%/*%/(.'*%/"-'*% W5AAA    A  
-OL,6,W"###########################!A         
-OL,7,MSinclair Spectrum Double RestorationM  
-OL,9,BI owned a Spectrum +2 many years agoBB 
-OL,10,Bbut never the original Spectrum. I'd   
-OL,11,Bseen a load of pictures on Twitter     
-OL,12,Bby ZXWife and thought I'd get a couple 
-OL,13,Bof machines to investigate - the       
-OL,14,Boriginal rubber keyed Spectrum, and the
-OL,15,Blater Spectrum Plus.B                  
-OL,16,FI like repairing machines as well as   
-OL,17,Fplaying with them, so took a gamble on 
-OL,18,Ftwo sold as "untested" on eBay. The    
-OL,19,Foriginal Spectrum cost #30 and I paid  
-OL,20,F#33 for the Spectrum Plus.    MM       
-OL,22,Q]MGvisit me onlineCretroworkshop.uk    
-OL,24,ARadioMic BSinclair C5 CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,U]                                      
+OL,2,U]P MULTI CHANNEL TELEVISION            
+OL,3,U]                         P    #c'#!   
+OL,4,U]P A NEW ERA IN ENTERTAINMENT ";7#     
+OL,5,U]                         P  "'#5      
+OL,6,U]                         P     5      
+OL,7,U]                     P`~
+OL,8,U]                    Px
+OL,9,U]                  P`~] Sx?!x?!      
+OL,10,U]                P x]S`rs# rs3        
+OL,11,U]               P`~]Sx?!`~'         
+OL,12,U]              Px
+OL,13,Q]    P         \                       
+OL,14,Q]    W   `||t \W `                     
+OL,15,Q]    W  h}\Wx}0V       R 
+OL,16,Q]    W  j]P-,,]W"o' V       R 
+OL,17,Q]    W   +?!\                        
+OL,18,Q]             \     V       R 
+OL,19,Q]            \     V       R 
+OL,20,R]            \                        
+OL,21,R]            \                        
+OL,22,R]            \                  Wx
+OL,23,R]@ enhanox    \     T     W6#####
+OL,24,R]             \     T     W######
 PN,12202
 SC,0002
-PS,C000
-FL,123,121,124,101,8ff,120
-OL,1,BThe original Spectrum was missing its  
-OL,2,Bcase screws and smelled of loft.       
-OL,3,BNeither machine came with a powersupply
-OL,4,Bso I bought one from tfw8bit.com.      
-OL,5,FBefore powering up an old Spectrum it  
-OL,6,Fis advisable to perform some checks    
-OL,7,Fusing a multi-meter. Detecting failed  
-OL,8,Fcomponents can prevent further failures
-OL,9,Fas the RAM is susceptable to damage. My
-OL,10,Fmachines passed all pre-flight checks. 
-OL,11,EI replaced all the capacitors as the   
-OL,12,ESpectrum doesn't have good ventilation 
-OL,13,Eand these are prone to failure. I also 
-OL,14,Eadded a simple modification to bypass  
-OL,15,Ethe RF modulator, and pass the         
-OL,16,Ehigher quality composite video to the  
-OL,17,Erear video connector. This involved    
-OL,18,Eadding a single capacitor.             
-OL,19,AI used a diagnostic cartridge from     
-OL,20,ARetroleum that performed checks on the 
-OL,21,ARAM, ROM, keyboard and other parts.This
-OL,22,Ahighlighted a faulty speaker on the    
-OL,23,ASpectrum Plus which was then replaced. 
-OL,24,ARadioMic BSinclair C5 CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,2, Txt  
+OL,3, T]Gdigital viewing card      S   ~}  \ 
+OL,4, T]                          S `0"!  \ 
+OL,5, T]                          S o?    \ 
+OL,6, T]                     S h4 xt      \ 
+OL,7, T]                     S  o0+'      \ 
+OL,8, T]                     S  "/|p      \ 
+OL,9, T]               S       xt  #      \ 
+OL,10, T]Ginsert this wayS)2d  `~'+}0       \ 
+OL,11, T]               S&(! x?!  "ot      \ 
+OL,12, T]               S   ~'      +}     \ 
+OL,13, T]               S                \ 
+OL,14, T]               S                \ 
+OL,15, T]W  4            S     ||||       \ 
+OL,16, T]Wf3u6+p%        S              \ 
+OL,17, T]W,&%) 6         S   pp  pp     \ 
+OL,18, T]W    "          S   ####  ####     \ 
+OL,19, T+'  
+OL,21,    SKY DIGITAL VIEWING CARD ISSUE 3    
+OL,22,              2003 - 2009               
+OL,23,                enhanox                 
+OL,24,AArtists BFun & Games CDigitiser  FIndex
 PN,12203
 SC,0003
-PS,C000
-FL,123,121,124,101,8ff,120
-OL,1,BThe keyboard membrane on the original  
-OL,2,BSpectrum was brittle and cracked.The   
-OL,3,Bmembrane on the Plus had also suffered 
-OL,4,Band was blackened and sticky at the    
-OL,5,Bconnector. So both were replaced. The  
-OL,6,BPlus then had an issue with certain    
-OL,7,Bkeys appearing to be stuck, this was   
-OL,8,Bresolved by carefully adjusting the    
-OL,9,Bmembrane position.                     
-OL,10,FFinally both machines were disassembled
-OL,11,Fand given a good scrub with detergent. 
-OL,12,FOnce re-assembled the original Spectrum
-OL,13,Fwas treated to a brand new faceplate   
-OL,14,Fand it looks nearly as good as new.    
-OL,15,EI gave both machines a good workout    
-OL,16,Eincuding loading games from cassette   
-OL,17,Eand SD card, using a DiVMMC Future.    
-OL,18,AThe Spectrum is often remembered for   
-OL,19,Aits terrible keyboard. I typed in      
-OL,20,Athe same BASIC program listing on both 
-OL,21,Amachines. The Plus definately has an   
-OL,22,Aimproved keyboard, although the        
-OL,23,Arubber model was quite useable.        
-OL,24,ARadioMic BSinclair C5 CNews FMain Index
+FL,104,150,170,101,8ff,100
+OL,1,W]P                                    ]
+OL,2,W]Pxt  ]
+OL,3,W] \HQ,I  T(99DenhanoxGPOCKET 2000  W 
+OL,4,W]P]                              W 
+OL,5,W]P]V]P                           P]W] \
+OL,6,W]P]V]@M  ABOUT DEVICE            P]W] \
+OL,7,W]P]V]P                           P]W] \
+OL,8,W]P]V]P -,,,,,,,,,,,,,,,,,,,,,,,  P]W] \
+OL,9,W]P]V]P                           P]W] \
+OL,10,W]P]V]P ~///}@POCKET 2000 SPECS   P]W] \
+OL,11,W]P]V]P bc1 ##################  P]W] \
+OL,12,W]P]V]P *($@ANCIENT CPU         P]W] \
+OL,13,W]P]V]P bc1@BUGGER-ALL MEMORY   P]W] \
+OL,14,W]P]V]P rrq FORGETS EVERYTHING  P]W] \
+OL,15,W]P]V]P +.,-' NO MODERN SOCKETS   P]W] \
+OL,16,W]P]V]P                           P]W] \
+OL,17,W]P]V]P@  INSTALLED OPTIONS       P]W] \
+OL,18,W]P]V]P -,,,,,,,,,,,,,,,,,,,,,,,  P]W] \
+OL,19,W]P]V]P                           P]W] \
+OL,20,W]P]V]P w,{@REALLY ACE BACKLIGHT  P]W] \
+OL,21,W]P]V]P                           P]W] \
+OL,22,W]P]V]P w,{@1-BIT ARCADE GAMES    P]W] \
+OL,23,W]P]V]P                           P]W] \
+OL,24,W]P]V]P w,{@FEELING OF COOLNESS   P]W] \
+PN,12204
+SC,0004
+FL,104,150,170,101,8ff,100
+OL,1,A]@M      EMERGENCY INFORMATION        \
+OL,3,A]@M       THIS IS NOT A DRILL         \
+OL,5,W]@^MX      THIS, HOWEVER, IS          \
+OL,6,W]@^                                    
+OL,7,W]@XSO GO AND DO SOME DIY, LAZY GIT!   \
+OL,8,W]^       PXpppppppppppppppppppppp     \
+OL,9,W]^PX  `|||QX{{{{{{{{{{QXPX?5   \
+OL,10,W]^PX ~|QXQXPX?5   \
+OL,11,W]^PX|QXAXMILLWALL-QXPX?5   \
+OL,12,W]^PX|QXAX-----QUAYQXPX?5   \
+OL,13,W]^PX o|Q/X/////////////Q/X//PX%   \
+OL,14,W]^PX  "///Q|X|||||||||||||Q|XPX|'    \
+OL,15,W]^        Q X+PX?!      \
+OL,16,W]^        Q PX##PXm;'        \
+OL,17,W]^        Q X    PXkj         \
+OL,18,W]^        Q X    PX:zu        \
+OL,19,APRESS REVEAL FOR IMPORTANT INFORMATION 
+OL,21,C]@ THIS PUBLIC SERVICE ANNOUNCEMENT   \
+OL,22,C]@PROVIDED BY ENHANOX VIA CHUNKYTEXT  \
+OL,23,C]@ FOR ATTENDEES OF BLOCKPARTY 2020   \
+OL,24,AArtists BFun & Games CDigitiser  FIndex
