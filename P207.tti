@@ -3,28 +3,28 @@ CT,8,T
 PN,20700
 SC,0000
 PS,8008
-OL,1,W          0pd|y}99=9y}y|8p`            
-OL,2,W       xvn~}{y{y{w~}=yt         
-OL,3,W ``pppvo=?o//?on?yppp00   
-OL,4,Wx/////o~{wvo?o?y{w}?/////t  
-OL,5,Wu"bbb "ogssso};6ig~gsss;?! 111!z  
-OL,6,W"m0 ( )19?///};z}~u?y///ofb& $ `>!  
-OL,7,W  +t   f' ppp"o651bjj?!ppp )90  x'    
-OL,8,W   "m0 `&c#3m0)#& )#&`>c#3)0 `>!     
-OL,9,W     #$t   1       b   x(#       
-OL,10,W      f&o}2 # }800 ``d # a~?)9        
-OL,11,W      99p+t `vdd 88y0 x'pff        
-OL,12,W      b&,,"o}8?od~?!,,)1        
-OL,13,W     (9;sssp+o ?'psssgf$       
-OL,14,W      b,,,d, =! "n ,8,,,1        
-OL,15,W     (9ssq9q g   ; rfrssd        
-OL,16,W      b,,$f$ {9   fw (9(,,9!       
-OL,17,W      8{ssqs 'gg&   )99) srsswd        
-OL,18,W     "f,,,,, 5!h,,4"j ,,,,,9!       
-OL,19,W      (ssssc 5  )r#q&  j 3ssss$        
-OL,20,W     `f,,,8)$"d  j 5  8!(&d,,,90       
-OL,21,W      )ssbbcf0 ##! "## `9311ss&        
-OL,22,W      b,((8),, +}ppp~' ,,&d$$,1        
-OL,23,W     (9scfrsssq0 ### `rsssq93sf$       
-OL,24,W                                       
+OL,1,T  h  h  h W0pd|y}99=9y}y|8p`T 5  5  5  
+OL,2,TppzppzpWxvn~}{y{y{w~}=ytTpuppupp
+OL,3,T W``pppvo=?o//?on?yppp00T 
+OL,4,W x/////o~{wvo?o?y{w}?/////t 
+OL,5,W u"bbb "ogssso};6ig~gsss;?! 111!z 
+OL,6,W "m0 ( )19?///};z}~u?y///ofb& $ `>! 
+OL,7,T  W+t   f' ppp"o651bjj?!ppp )90  x'T  
+OL,8,T,,nW"m0 `&c#3m0)#& )#&`>c#3)0 `>!T=,,
+OL,9,T  j  W+4t   1       b   xh'T  5  
+OL,10,T  j  W`d"o}2 # }800 ``d # a~?!80T  5  
+OL,11,TppzppzW99p+t `vdd 88y0 x'pffTuppupp
+OL,12,T  j  jWb&,,"o}8?od~?!,,)1T5  5  
+OL,13,T  j  W(9;sssp+o ?'psssgf$T  5  
+OL,14,T  j  jWb,,,d, }! "~ ,8,,,1T5  5  
+OL,15,T##k##W(9ssq9q g   ; rfrssdT7##7##
+OL,16,T  j  jWb,,$f$ 9   f (9(,,9!T  5  
+OL,17,T  j  jW8{ssqs &gg&   );;) srsswdT5  5  
+OL,18,T,,n,,W"f,,,,, 5!`,|||,0"j ,,,,,9!T,,=,,
+OL,19,T  j  jW(ssssc 5  )r#q&  j 3ssss$T5  5  
+OL,20,T  j  W`f,,,8)$"d  j 5  8!(&d,,,90T  5  
+OL,21,TppzppzW)ssbbcf0 ##! "## `9311ss&Tuppupp
+OL,22,T  j  jWb,((8),, +}ppp~' ,,&d$$,1T5  5  
+OL,23,T  j  W(9scfrsssq0 ### `rsssq93sf$T  5  
+OL,24,A                                       
 FL,8ff,8ff,8ff,8ff,8ff,100
