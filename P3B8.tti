@@ -5,9 +5,9 @@ PN,3B800
 SC,0000
 RE,0
 FL,127,8ff,8ff,3a0,8ff,101
-OL,2,S8c//4C         GAME OVER         Sho/3d
-OL,3,S55qrjF                           S5(1jj
-OL,4,S"-pp&Q|||||||||Q]CK0  \S|||Q|||||S)rt.!
+OL,2,T8c//4A   PRESS RED FOR INTRO     Sho/3d
+OL,3,T55  jCGAME OVER        IT'S TAILSS5(1jj
+OL,4,T"-pp&Q|||||||||Q]CK O S\||^Q_||||S)rt.!
 OL,5,CRABBIT ON BOTH ENDS =V= DEMON SNAIL GUY
 OL,6,V               444   `                 
 OL,7,V         `x m0555 x`5                
