@@ -1,57 +1,30 @@
 DE,
 CT,8,T
-PS,8014
-PN,3A701
-SC,0001
+PS,8004
+PN,3A700
+SC,0000
 RE,0
-FL,3aa,8ff,8ff,8ff,8ff,101
-OL,2,S8c//4CToss coin & proceed to pageSho/3d
+FL,127,8ff,8ff,3a0,8ff,101
+OL,2,S8c//4C         GAME OVER         Sho/3d
 OL,3,S55qrjF                           S5(1jj
-OL,4,S"-pp&Q||S||||||V]GK0  \S|||Q|||||S)rt.!
+OL,4,S"-pp&S|||||||||Q]CK0  \Q|||||||||S)rt.!
 OL,5,CRABBIT ON BOTH ENDS =V= DEMON SNAIL GUY
-OL,6,V            `    `````                 
-OL,7,V            j5   jjjjj   x             
-OL,8,V            "t0 *jj*"`x~%             
-OL,9,V             "/a~<<~4'1   x         
-OL,10,V            `8x}bsiywh6}x x   `|
-OL,11,V           "{57~o="$h   ~
-OL,12,V           #! "/w|||s+g0 `4  ?/
-OL,13,V             (,/gc(coo' `~0 o5}4
-OL,14,V              ||}|}4`~t*o?a
-OL,15,V               ~|||
-OL,16,V              +%z
-OL,17,V               o7h
-OL,18,V               "5j%//##+o
-OL,19,V                %%%    F  by chip-fork 
-OL,20,W]D"I'm warning you! Don't make me get  
-OL,21,W]Dout of my shell and come over there!"
+OL,6,T]C  *    *     *W    C*      *       * 
+OL,7,T]C    *     *W   C*W    C*       *     
+OL,8,V]C  *    *     *W   0C*      *       * 
+OL,9,V]W                  o4 x               
+OL,10,V]W                   o~!               
+OL,11,V]W                   }}                
+OL,12,R]W                  x~}4               
+OL,13,R]W                  ozu               
+OL,14,R]W               h|p~e               
+OL,15,R]W              p~#+o?/               
+OL,16,R]W             h|||0 j5                
+OL,17,R]W          d`hb;o} j5                
+OL,18,R]W          =k={? *p               
+OL,19,R]W          &"*#!"#    R]Cby chip-fork 
+OL,20,W]DRabbit on both ends VICTORY! he wins 
+OL,21,W]Dwithout a scratch on him.            
 OL,22,W]D                                     
 OL,23,W]D                                     
-OL,24,APress red to toss coin                 
-PN,3A702
-SC,0002
-RE,0
-FL,3ab,8ff,8ff,8ff,8ff,101
-OL,2,S8c//4CToss coin & proceed to pageSho/3d
-OL,3,S55qrjF                           S5(1jj
-OL,4,S"-pp&Q||S||||||V]GK0  \S|||Q|||||S)rt.!
-OL,5,CRABBIT ON BOTH ENDS =V= DEMON SNAIL GUY
-OL,6,V            `    `````                 
-OL,7,V            j5   jjjjj   x             
-OL,8,V            "t0 *jj*"`x~%             
-OL,9,V             "/a~<<~4'1   x         
-OL,10,V            `8x}bsiywh6}x x   `|
-OL,11,V           "{57~o="$h   ~
-OL,12,V           #! "/w|||s+g0 `4  ?/
-OL,13,V             (,/gc(coo' `~0 o5}4
-OL,14,V              ||}|}4`~t*o?a
-OL,15,V               ~|||
-OL,16,V              +%z
-OL,17,V               o7h
-OL,18,V               "5j%//##+o
-OL,19,V                %%%    F  by chip-fork 
-OL,20,W]D"I'm warning you! Don't make me get  
-OL,21,W]Dout of my shell and come over there!"
-OL,22,W]D                                     
-OL,23,W]D                                     
-OL,24,APress red to toss coin                 
+OL,24,APress red for intro Fcyan to play again
