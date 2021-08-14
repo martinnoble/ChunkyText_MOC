@@ -4,80 +4,22 @@ PN,10701
 SC,0001
 RE,0
 FL,102,103,104,101,8ff,100
-OL,1,U5j5up`pp0z:ppp ppp`pp0   W>c###+4  
-OL,2,U5j57bs5k!ws 7jk5   W5%    5  
-OL,3,U}~55j}5j |~ }jj5   W5     5  
-OL,4,E```````````````````````````` W,,,,n5E`
-OL,5,CSATURDAY 24TH OCTOBER        W"#####   
+OL,1,U5j5up`pp0z:ppp ppp`pp0   W?o/5     
+OL,2,U5j57bs5k!ws 7jk5   W}}5?o?o 
+OL,3,U}~55j}5j |~ }jj5   Wg|v%}~ 
+OL,4,E``````````````````````````````W#! )ss& 
+OL,5,CSATURDAY 4TH SEPTEMBER                 
 OL,6,B                                       
-OL,7,G1000CTELETEXT R LIVE                   
-OL,8,C    FWith Dan Farrimond, Carl Attrill, 
-OL,9,F     and guests. Plus Turner Talk.     
-OL,10,F                                       
-OL,11,G1400CTHE AFTERNOON BLOCK               
-OL,12,F     Bellston Does Digi, featuring the 
-OL,13,F     teletext recovery "scene" news.   
-OL,14,F                                       
-OL,15,G1630CPAGES FROM CHUNKYTEXT             
-OL,16,F     Your work. The public decides.    
-OL,17,F                                       
-OL,18,G2000CTELETEXT AFTER DARK               
-OL,19,F     Lewd, shrewd, and/or nude.        
-OL,20,E``````````````````````````````````1/3``
-OL,21,F  www.arbitraryfiles.com/events/bt20/  
-OL,22,D]MCWATCH LIVE - TWITCH.TV/ZXGUESSER    
-OL,24,AAboutBUser GuideCTeletext ArtFMainIndex
-PN,10702
-SC,0002
-RE,0
-FL,102,103,104,101,8ff,100
-OL,1,U5j5up`pp0z:ppp ppp`pp0   W>c###+4  
-OL,2,U5j57bs5k!ws 7jk5   W5%    5  
-OL,3,U}~55j}5j |~ }jj5   W5     5  
-OL,4,E```````````````````````````` W,,,,n5E`
-OL,5,CSUNDAY 25TH OCTOBER          W"#####   
-OL,6,B                                       
-OL,7,G1000CTELETEXT RECOVERY & RESTORATION   
-OL,8,C    FZXGuesser shows how to sort the   
-OL,9,F     signal from the VHS/B-Max noise.  
-OL,10,F                                       
-OL,11,G1400CBROADCAST INTRUSION               
-OL,12,F     Hardware & Software jam session,  
-OL,13,F     as niche as you like.             
-OL,14,F                                       
-OL,15,F                                       
-OL,16,F                                       
-OL,17,F                                       
-OL,18,F                                       
-OL,19,F                                       
-OL,20,E``````````````````````````````````2/3``
-OL,21,F  www.arbitraryfiles.com/events/bt20/  
-OL,22,D]MCWATCH LIVE - TWITCH.TV/ZXGUESSER    
-OL,24,AAboutBUser GuideCTeletext ArtFMainIndex
-PN,10703
-SC,0003
-RE,0
-FL,102,103,104,101,8ff,100
-OL,1,U5j5up`pp0z:ppp ppp`pp0   W>c###+4  
-OL,2,U5j57bs5k!ws 7jk5   W5%    5  
-OL,3,U}~55j}5j |~ }jj5   W5     5  
-OL,4,E```````````````````````````` W,,,,n5E`
-OL,5,CSATURDAY 31ST OCTOBER        W"#####   
-OL,6,B                                       
-OL,7,G1800CSPOOKULELE                        
-OL,8,C    FIt's close (enough) to midnight.  
-OL,9,F     Press reveal, if you dare.        
-OL,10,B   XHSTRINGED CACOPHONYIX              
-OL,11,G2000CDIGITISER HALLOWEANUS SPECIAL     
-OL,12,F     We're off to watch Mr Biffo and   
-OL,13,F     his special guests - from behind  
-OL,14,F     the sofa. Come with us to:        
-OL,15,F                                       
-OL,16,F     www.youtube.com/digitiser         
-OL,17,F                                       
-OL,18,F                                       
-OL,19,F                                       
-OL,20,E``````````````````````````````````3/3``
-OL,21,F  www.arbitraryfiles.com/events/bt20/  
-OL,22,D]MCWATCH LIVE - TWITCH.TV/ZXGUESSER    
+OL,7,G1100-1700CCHUNKY FRINGE         E(HES) 
+OL,8,  FTeletext and retro gubbins           
+OL,10,G1300-1400CTHE ANTIQUE CODE SHOW  E(EH) 
+OL,11,  FRetro gaming panel                   
+OL,13,G1830-1900CWORST OF FOUND FOOTAGE E(EH) 
+OL,14,  FFound Footage retrospective          
+OL,16,G1900-2000CDIGITISER LIVE PART 1  E(EH) 
+OL,17,G2020-2130CDIGITISER LIVE PART 2  E(EH) 
+OL,19,EHES = Hatch End Suite  EH = Elliot Hall
+OL,20,E``````````````````````````````````1/1``
+OL,21,F  www.arbitraryfiles.com/events/cf21/  
+OL,22,D]MGBIFFO LURKS ON digitiser2000.com    
 OL,24,AAboutBUser GuideCTeletext ArtFMainIndex

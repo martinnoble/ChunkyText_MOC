@@ -3,107 +3,55 @@ CT,16,T
 PN,10401
 SC,0001
 PS,C000
-FL,110,111,112,101,8ff,100
+FL,102,103,150,101,8ff,100
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DNIKKI  \                   S #///'!  
-OL,8,CSee p110.  F@GentlemanNikki            
-OL,10,C]DFIDYAN GENIAL  \                     
-OL,15,CSee p111.  F@sontolhead                
-OL,16,C]DDAN FARRIMOND  \                     
-OL,17,GThe current 'scene' surely owes a lot  
-OL,18,Gto Dan's enthusiasm for teletext.
-OL,19,CSee p112.  F@illarterate               
-OL,20,G``````````````````````````````````1/5``
+OL,4,CWeekly Teletext Art challengeS #///'!  
+OL,6, In February 2021, ZXGuesser started the
+OL,7,F_WeeklyTeletextArtGactivity on Twitter 
+OL,8, and Facebook.                          
+OL,10, The goal of this hashtag was to promote
+OL,11, teletext art and encourage everyone to 
+OL,12, have a go by providing a weekly prompt.
+OL,14, Subjects have included "Countryside",  
+OL,15, "Dolphin and/or Microphone", "Circus", 
+OL,16, "Spaceship", "Octopus and/or Suitcase",
+OL,17, and many others.                       
+OL,20,G``````````````````````````````````1/2``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CMA DIGI SHAPED SPACETIME RIFT p170   
-OL,24,ANikki BFidyan CDan FarrimondFMain Index
+OL,24,AAboutBUser guideCFun & GamesFMain Index
 PN,10402
 SC,0002
 PS,C000
-FL,113,114,115,101,8ff,100
-OL,26,@pDIRpoXpo
+FL,110,111,112,101,8ff,100
+OL,26,@zDFLrrNrr
 OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
 OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
 OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DCARLOS  \                  S #///'!  
-OL,5,GSelf described agent provocateur, Carl 
-OL,6,Gcreated the Teletext Facebook group and
-OL,7,Gis one half of the teletextr podcast.  
-OL,8,CSee p113.  F@that other Carl           
-OL,10,C]DCHRIS Y  \                           
-OL,14,CSee p114.  F@awakeinbeds               
-OL,16,C]DHORSENBURGER  \                      
-OL,17,GSteve "Horsenburger" Horsley worked on 
-OL,18,Gteletext creating graphics for adverts.
-OL,19,CSee p115   F@Horsenburger
-OL,20,G``````````````````````````````````2/5``
-OL,21,     CChunkytext editing guideF103      
-OL,22,A]CMRETRO WORKSHOP YOUTUBE SHOW  p400   
-OL,24,ACarlos BChris Y CHorsenburgerFMainIndex
-PN,10403
-SC,0003
-PS,C000
-FL,116,117,118,101,8ff,100
-OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
-OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
-OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DDAVID W  \                 S #///'!  
-OL,5, Lurking instigator. ZX Spectrum nut and
-OL,6, teletext dabbler. Team Chunky Fringe.  
-OL,7,CSee p116. Farbitraryfiles.com          
-OL,9,C]DANDY JENKINSON G\Andy enjoys making  
-OL,10,Gmusic with ZX Spectrums and teletext on
-OL,11,Gold TVs. He's NOT Ceephax Acid Crew but
-OL,12,Gunderstands the confusion, sharing the 
-OL,13,Gsame name.CSee p117  F@andyuglifruit   
-OL,15,C]DBLIPPYPIXEL  \                       
-OL,17,G                                       
-OL,18,G                                       
-OL,19,CSee p118  F@blippypixel                
-OL,20,G``````````````````````````````````3/5``
-OL,21,     CChunkytext editing guideF103      
-OL,22,A]CM     MICROBRITS BOOK  p105          
-OL,24,ADavid W BAndy  CBlippyPixel FMain Index
-PN,10404
-SC,0004
-PS,C000
-FL,119,120,121,101,8ff,100
-OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
-OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
-OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DMARCO V  \                 S #///'!  
-OL,5,G                                       
-OL,6,G                                       
-OL,7,CSee p119.                              
-OL,9,C]DPETE FAGAN  \                        
-OL,10,GCo-editor of TVArk's SPARK teletext    
-OL,11,Gservice, VHS Filmmaker and author of   
-OL,12,G'Teletext Lives!' atFchannel26.uk      
-OL,13,CSee p120.                              
-OL,15,C]DSZELIGA  \                           
-OL,19,CSee p121 F  @MarkSzolkowski            
-OL,20,G``````````````````````````````````4/5``
+OL,4,C]DWIM  \                     S #///'!  
+OL,5, Wim is a web designer working in       
+OL,6, Brussels. Currently writing a book     
+OL,7, about the history of Belgian teletext. 
+OL,8,CSee p110.  F@wimpie3                   
+OL,10,C]DZXGuesser  \                         
+OL,11, Instigator of the _WeeklyTeletextArt   
+OL,12, hashtag, and creator of the zxnet.co.uk
+OL,13, teletext editor.                       
+OL,14,CSee p111.  F@ZXGuesser                 
+OL,16,C]DDan Farrimond  \                     
+OL,17, Teletext art fart.                     
+OL,18, Fanatique telematique.                 
+OL,19,CSee p112.  F@illarterate               
+OL,20,G``````````````````````````````````2/2``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CM         REENTHUSED p410            
-OL,24,AMarco VBPete Fagan CSzeliga FMain Index
-PN,10405
-SC,0005
+OL,24,AWim BZXGuesserCDan FarrimondFMain Index
+PN,10403
+SC,0003
+PS,0000
 FL,122,8ff,8ff,101,8ff,100
-OL,1,S{5|$n=b1|,$n=h<, CTeletext  S`x||p`0  
-OL,2,Sj5 j5j5s{5j5bs CShowcase  S1{]R($\ 
-OL,3,G`````````````````````````````Sj]Q|T/G\`
-OL,4,C]DENHANOX  \                 S #///'!  
-OL,5,GEnthusiast of late C20th televisual    
-OL,6, technology and functional, if crude,   
-OL,7,Gfacsimile of an artistically-capable   
-OL,8, technician.CSee p122  Fsettopbox.org   
-OL,10,C]DRAQUEL MEYERS  \                     
-OL,11, Spanish artist who works in teletext,  
-OL,12, PETSCII, and typewriter art.           
-OL,13,CSee p123.  F@raquelmeyers              
-OL,20,G``````````````````````````````````5/5``
 OL,21,     CChunkytext editing guideF103      
 OL,22,A]CM        BERGERAC 2020  p125         
-OL,24,AEnhanoxBRaquel MeyersC      FMain Index
+

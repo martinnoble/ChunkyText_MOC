@@ -3,27 +3,27 @@ CT,8,T
 PN,10100
 SC,0000
 PS,8008
+FL,102,103,107,170,1ff,100
 OL,1,D]S    #j=|h4|h<|ju<h4|($|l4|x4n=     
 OL,2,D]S    pj5juj5j5bs  s1~o4j5     
 OL,3,A```````````````````````````````````````
 OL,4,CTELETEXT ARTF...104C              F.   
-OL,5,CMICROBRITSF.....105C              F.   
-OL,6,CSUPER PAGE 58F..106C              F.   
-OL,7,CWHAT'S ONF......107C              F.   
-OL,8,CBERGERAQ 2020F..125C              F.   
-OL,9,CASK MOTHERF.....126C              F.   
-OL,10,CSCRIPT FIGHTERF.127C              F.   
-OL,11,CLIVE TWITTERF...130C              F.   
-OL,12,CTEENS MAGAZINEF.140C              F.   
-OL,13,CGAMESF..........150C              F.   
-OL,14,CENVIRONMENTF....160C              F.   
-OL,15,CCOMPUTER GAMESF.170C              F.   
-OL,16,CKIDS MAGAZINEF..190CRETROWORKSHOPF..400
-OL,17,CVIEWER PAGESF...200CRE-ENTHUSEDF....410
+OL,5,CSUPER PAGE 58F..106C              F.   
+OL,6,CWHAT'S ONF......107C              F.   
+OL,7,CBERGERAQ 2020F..125C              F.   
+OL,8,CASK MOTHERF.....126C              F.   
+OL,9,CSCRIPT FIGHTERF.127C              F.   
+OL,10,CLIVE TWITTERF...130C              F.   
+OL,11,CTEENS MAGAZINEF.140C              F.   
+OL,12,CGAMESF..........150C              F.   
+OL,13,CENVIRONMENTF....160C              F.   
+OL,14,CCOMPUTER GAMESF.170C              F.   
+OL,15,CKIDS MAGAZINEF..190C              F.   
+OL,16,CVIEWER PAGESF...200CRETROWORKSHOPF..400
+OL,17,C              F.   CRE-ENTHUSEDF....410
 OL,18,C              F.   CADVENTURE GAMEF.420
 OL,19,C              F.   CTELESOFTWAREF...460
 OL,20,C              F.   CTHE TTX2000SF...461
 OL,21,ACUSER GUIDEF.....103CABOUTF.... 102A 
 OL,22,D]MGADD YOUR OWN PAGES TO THE INDEX p103
 OL,24,AAbout BUser Guide CWhat's on FDigitiser
-FL,102,103,107,170,1ff,100
