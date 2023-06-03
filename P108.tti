@@ -4,7 +4,7 @@ PS,C000
 PN,10801
 SC,0001
 RE,0
-FL,102,104,410,101,8ff,100
+FL,102,109,410,101,8ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -24,11 +24,11 @@ OL,18,Bfifty years of gaming history.
 OL,20,E```````````````````````````````````E1/4
 OL,21,    BCan you beat Bamber's quiz?E152    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout  BTeletext Art CReEnthused FIndex
+OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
 PN,10802
 SC,0002
 RE,0
-FL,102,104,410,101,8ff,100
+FL,102,109,410,101,8ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -48,11 +48,11 @@ OL,18,EMiyamotoBdoing when he created Mario?
 OL,20,E```````````````````````````````````E2/4
 OL,21,         B23 year old gossipE143        
 OL,22,D]MGSPECCY AND SINCLAIR C5 OH MY! p400  
-OL,24,AAbout  BTeletext Art CReEnthused FIndex
+OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
 PN,10803
 SC,0003
 RE,0
-FL,102,104,410,101,8ff,100
+FL,102,109,410,101,8ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -72,11 +72,11 @@ OL,18,Bdigital, paperback and hardback.
 OL,20,E```````````````````````````````````E3/4
 OL,21,      B23 year old music reviewsE144    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout  BTeletext Art CReEnthused FIndex
+OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
 PN,10804
 SC,0004
 RE,0
-FL,102,104,410,101,8ff,100
+FL,102,109,410,101,8ff,100
 OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
 OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
 OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
@@ -93,4 +93,4 @@ OL,15,Bfrom Amazon right now... so buy it!
 OL,20,E```````````````````````````````````E4/4
 OL,21,    BCan you beat Bamber's quiz?E152    
 OL,22,D]MG WEIRD TELESOFTWARE GUBBINS p460    
-OL,24,AAbout  BTeletext Art CReEnthused FIndex
+OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
