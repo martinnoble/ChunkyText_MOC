@@ -1,96 +1,48 @@
-DE,
-CT,16,T
-PS,C000
 PN,10801
+CT,2,C
+PS,C000
 SC,0001
-RE,0
-FL,102,109,410,101,8ff,100
-OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
-OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
-OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
-OL,4,E`````````````````````````````W"  #! "E`
-OL,5,BWhat are theEmost important video games
-OL,6,Bever made?                             
-OL,8,BIt's a tricky question to answer, how  
-OL,9,Bdo you measure importance? Most        
-OL,10,Bpopular, best-reviewed, critically     
-OL,11,Bacclaimed, best selling, infamously    
-OL,12,Bbad, true innovators? How about all of 
-OL,13,Bthe above and more?                    
-OL,15,ES L Perrin's book,F66 OF THE MOST      
-OL,16,FIMPORTANT GAMES EVER! (ACCORDING TO    
-OL,17,FME),Btakes you on a journey of almost  
-OL,18,Bfifty years of gaming history.         
-OL,20,E```````````````````````````````````E1/4
+FL,102,109,120,101,8ff,100
+OL,1,U?`pp0pp`pp0ppp`pp0z0ppp  ^TlhU"uu5 
+OL,2,U=/jk57j#!s{js1k!ws   T*7'U+"  
+OL,3,U5 j~5}j|4~h|5j |~  ^SlhR"uu5 
+OL,4,E``````````````````````````````S*7'R+"E`
+OL,5,EWhat's wrong with Wolfie?              
+OL,7, A retro podcast to the max!!           
+OL,9,FJason, Rich, Chris & SteveGdiscuss     
+OL,10, the films, tv shows, and video         
+OL,11, games from the '80s, '90s & '00s.      
+OL,13,FSpeed, Breaking Bad, RoboCop, and      
+OL,14,FIndiana JonesGare fine examples of     
+OL,15, some of our episodes and this is       
+OL,16, just the start as we are bursting      
+OL,17, with ideas for future episodes.        
+OL,20,E```````````````````````````````````E1/2
 OL,21,    BCan you beat Bamber's quiz?E152    
 OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
+OL,24,AAbout  BPodcasts  CJamie NemethFIndex  
 PN,10802
+CT,2,C
+PS,C000
 SC,0002
-RE,0
-FL,102,109,410,101,8ff,100
-OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
-OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
-OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
-OL,4,E`````````````````````````````W"  #! "E`
-OL,6,BFrom those very early arcade coin-op   
-OL,7,Bmachines and the dawn of the home      
-OL,8,Bmarket, right up to the modern-day.E66 
-OL,9,Evideo gamesBthat are massively         
-OL,10,Bimportant to the gaming industry and   
-OL,11,Bgames that have had some kind of       
-OL,12,Bpersonal impact are explored.          
-OL,14,BEach chapter featuresEbehind the scenes
-OL,15,EinfoBand even insight from the very    
-OL,16,Bpeople who created those games in their
-OL,17,Bown words. Just what wasEShigeru       
-OL,18,EMiyamotoBdoing when he created Mario?  
-OL,20,E```````````````````````````````````E2/4
-OL,21,         B23 year old gossipE143        
-OL,22,D]MGSPECCY AND SINCLAIR C5 OH MY! p400  
-OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
-PN,10803
-SC,0003
-RE,0
-FL,102,109,410,101,8ff,100
-OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
-OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
-OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
-OL,4,E`````````````````````````````W"  #! "E`
-OL,6,BWhat was the first game to be given an 
-OL,7,Bage rating? What was the first game    
-OL,8,Bbased on a movie? What massively       
-OL,9,Bpopular games does S L Perrin not like?
-OL,10,BWhat game taught him that journalists  
-OL,11,Bare full of s**t, while turning him    
-OL,12,Binto a cynical b****d?                 
-OL,14,BAll of those questions and many more   
-OL,15,Bare explored and answered in this book,
-OL,16,Bwith severalEgaming mythsBlooked at and
-OL,17,Bdebunked too. Available on Amazon in   
-OL,18,Bdigital, paperback and hardback.       
-OL,20,E```````````````````````````````````E3/4
-OL,21,      B23 year old music reviewsE144    
-OL,22,D]MG    TELETEXT ART SHOWCASE p104      
-OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
-PN,10804
-SC,0004
-RE,0
-FL,102,109,410,101,8ff,100
-OL,1,Ujo5ppp`pp05p`pp            W`<lt|,t  
-OL,2,Ujn17jk5}wjs  CGaming   Wjf9n,sn  
-OL,3,Uj~5}j~55h|  CHistory  Wjyv{s|{  
-OL,4,E`````````````````````````````W"  #! "E`
-OL,6,BTaking a look at some of theEbehind the
-OL,7,Escenes storiesBof how the games were   
-OL,8,Bmade, along with plenty of interesting 
-OL,9,Btitbits and tantalising trivia thrown  
-OL,10,Bin, along with insight from those who  
-OL,11,Bmade the games too.                    
-OL,13,E66 OF THE MOST IMPORTANT GAMES EVER!   
-OL,14,E(ACCORDING TO ME)Bis available to buy  
-OL,15,Bfrom Amazon right now... so buy it!    
-OL,20,E```````````````````````````````````E4/4
-OL,21,    BCan you beat Bamber's quiz?E152    
-OL,22,D]MG WEIRD TELESOFTWARE GUBBINS p460    
-OL,24,AAbout  BPodcasts  CReEnthused  FIndex  
+FL,102,109,120,101,8ff,100
+OL,1,U?`pp0pp`pp0ppp`pp0z0ppp  ^TlhU"uu5 
+OL,2,U=/jk57j#!s{js1k!ws   T*7'U+"  
+OL,3,U5 j~5}j|4~h|5j |~  ^SlhR"uu5 
+OL,4,E``````````````````````````````S*7'R+"E`
+OL,5,EWhat's wrong with Wolfie?              
+OL,7, We have been very fortunate to         
+OL,8, have welcomed an array of special      
+OL,9, guests to the show including:FMr       
+OL,10,FBiffo, Dominik Diamond, Rik            
+OL,11,FHenderson, Retro FaithGplus many       
+OL,12, more.                                  
+OL,14, Check out our website at               
+OL,15,Fthewolfiepod.com,Gfind us on the       
+OL,16, socialsF@thewolfiepod,Gor come say     
+OL,17, hello in our discord, via the link     
+OL,18, below.                                 
+OL,20,E```````````````````````````````````E2/2
+OL,21,       BOut of date old gossipE143      
+OL,22,D]MG  https://discord.gg/Es8ey8Fqe3     
+OL,24,AAbout  BPodcasts  CJamie NemethFIndex  
