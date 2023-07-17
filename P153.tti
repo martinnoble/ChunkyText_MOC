@@ -1,9 +1,8 @@
-DE,1998-02-16 recovery
-CT,16,T
+DE,1997-07-28 recovery. Missing subpage 9
 PS,C008
 PN,15301
 SC,0001
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
@@ -16,439 +15,467 @@ OL,9,FCalendar,Gshould send details to John
 OL,10,GHenderson as follows:                  
 OL,11,G                                       
 OL,12,F24 Eastermains, Kirkintilloch,         
-OL,13,FGlasgow G66 2UT. Fax:C0141-578-3945    
-OL,14,Fe-mail:Cjhe1@cableol.co.uk             
+OL,13,FGlasgow G66 2UT. Fax: 0141-578-5016    
+OL,14,Fe-mail: jhe1@cableol.co.uk             
 OL,15,F                                       
 OL,16,GOrganisersGcan also send results and   
 OL,17,Ggames to the above contact addresses   
 OL,18,Gfrom their tournaments.                
 OL,19,G                                       
-OL,20,G``````````````````````````````````1/19`
+OL,20,G``````````````````````````````````1/21`
 OL,21,FTotal EntertainmentC400FBig ScreenC460 
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15302
 SC,0002
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
 OL,5,G```FCHESS CALENDARG``````````````````` 
-OL,7,FFebruary                               
-OL,9,  C13-15FGreenwood Congress (Scot)      
-OL,10,        GStephen TaylorC01294 213124    
-OL,11,     C14FHull Rapidplay                 
-OL,12,        GColin HailstoneC01482 805374   
-OL,13, C 14-15FWestminster Congress           
-OL,14,        GJohn SargentC0181 270 9196     
-OL,15,     C14FGolders Green Rapidplay        
-OL,16,        GAdam RaoofC0181 202 0982       
-OL,17, C 14-15FNational Girls Ch (W.Midlands) 
-OL,18,        GTim TidmanC0121 429 1290       
-OL,20,G``````````````````````````````````2/19 
+OL,7,F2-25 August                            
+OL,9,FBritish Championships, Hove, (4-16)    
+OL,10,GIncludes:FChampionship, Major Open,    
+OL,11,FJunior, Veterans, 5-day, weekend and   
+OL,12,Frapidplay events.GBCFCTel: 01424 442500
+OL,14,FBirmingham Spectrum Congress (2-3)     
+OL,15, Norman WentCTel: 01708 551617          
+OL,16,FWestminster Rapidplay (9)              
+OL,17,GJohn SargentCTel: 0181 270 9196        
+OL,20,G``````````````````````````````````2/21 
 OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15303
 SC,0003
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
 OL,5,G```FCHESS CALENDARG``````````````````` 
-OL,7,   C15FKing's Head Rapidplay            
-OL,8,      GW SuttillC0171 229 9750          
-OL,9,   C15FNorth Essex Rapidplay            
-OL,10,      GR SharmanC01206 231025           
-OL,11,   C15FBrynmawr Chess Club Simultaneous 
-OL,12,      FBritish No.1 GM Mickey Adams     
-OL,13,      Fat The Lever Hall, Ebbw Vale     
-OL,14,      Fat 3.30pm, spectators free.      
-OL,15,      GAlan ColesC01495 308959          
-OL,16,C20-22FGeest plc Congress (Spalding)    
-OL,17,      GFrancis BowersC01406 370166      
-OL,18,C20-22FPortsmouth Congress              
-OL,19,      GP McEvoyC01705 388341            
-OL,20,G``````````````````````````````````3/19 
+OL,7,F9-25 August                            
+OL,9,FKensington Rapidplay (17)              
+OL,10,GDoug AgbleCTel: 0171 594 9456          
+OL,11,FMind Sports Olympiad, London. (18-24) C
+OL,12,CTel: 0171 485 9146 Fax: 0171 482 0672  
+OL,13,FMarymass Congress, Scotland (22-24)    
+OL,14,GSteve ClarkCTel: 01294 278638          
+OL,15,FChorley Congress (23-25)               
+OL,16,GG JonesCTel: 01942 604262              
+OL,17,FHereford Congress (23-25)              
+OL,18,GW DaviesCTel: 01432 264434             
+OL,20,G``````````````````````````````````3/21 
 OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15304
 SC,0004
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FCHESS CALENDARG``````````````````` 
-OL,7,C20-22FBunratty Festival (Ireland)      
-OL,8,      GGerry GrahamCLimerick 61 327946  
-OL,9,   C21FGrendel Rapidplay (Bristol)      
-OL,10,      GJames KnowlesC0117 9422846       
-OL,11,C22-28FJersey Festival                  
-OL,12,      GChannel HotelsC01534 619700      
-OL,13,FExcellent Package. Prices including    
-OL,14,FFlight, Accommodation, Breakfast &     
-OL,15,FDinner and Entry Fee from around #290! 
-OL,16,FOpen, Holiday Major & Minor with total 
-OL,17,Fprize fund of #7,000. Leigh Grand Prix 
-OL,18,Fevent.  Book now!                      
-OL,20,G``````````````````````````````````4/19 
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,GEngland'sFHarriet Hunt,G18, from       
+OL,8,GOxford, with a superb score ofC10\/13, 
+OL,9,Ghas won the Womens World Junior        
+OL,10,Gchampionships, held in Zagan, Poland.  
+OL,12,GRoundsC8-13Gproved to be the decisive  
+OL,13,Gturning point forFHarrietGin the       
+OL,14,Gtournament - she scored a staggering   
+OL,15,C5\/6!                                  
+OL,17,GScotland'sFHeather LangGhad a final    
+OL,18,Gscore ofC5/13.                         
+OL,20,G``````````````````````````````````4/21`
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15305
+SC,0005
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FH Hunt (ENG) - T Vasilevich (UKR), (12)
+OL,8,F1Ge4 c5F2GNf3 d6F3Gd4 cd4F4GNd4 Nf6F5  
+OL,9,GNc3 e6F6GBe2 Be7F7G00 00F8Gf4 Nc6F9GBe3
+OL,10,GBd7F10GKh1 Nd4F11GBd4 Bc6F12GBf3 Nd7F13
+OL,11,GBe3 Qc7F14GQe2 a6F15Ga4 b6F16GBg4 Nf6  
+OL,12,F17Gf5 Ne4F18Gfe6 Nc3F19Gef7+ Rf7F20Gbc3
+OL,13,GBd5F21GRf7 Bf7F22GBd4 Kh8F23GRb1 Bc4F24
+OL,14,GQe4 d5F25GQe6 Bc5F26GRe1 Rf8F27GBf3 Bd4
+OL,15,F28Gcd4 Qd8F29GRe5 g6F30Gh3 Qc7F31Gh4   
+OL,16,GQc8F32Gh5 Qe6F33GRe6 gh5F34GRb6 h4F35  
+OL,17,GKh2 Kg7F36GRd6 Rc8F37GKh3 Bf1F38GRd5   
+OL,18,GRc2F39GKh4 Rc4F40Ga5 Bd3F41GKg5 h6+F42 
+OL,19,GKf4 Ra4F43GRd7+ Kf6F44GRd6+ Kg7C>>>>   
+OL,20,G``````````````````````````````````5/21`
+OL,21,F     BamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15306
+SC,0006
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,F45GKe5 Ra5+F46Gd5 Ra1F47GRd7+ Kg6F48Gd6
+OL,8,GRe1+F49GKd4 Bf5F50GRa7 Kf6F51GRa6 Ke6  
+OL,9,F52GRa5 Bb1F53GRd5 Kd7F54GBg4+ Kd8F55   
+OL,10,GKc3 Ba2F56GRd2 Be6F57GBf3 Kd7F58GBd1   
+OL,11,GRe4F59GBe2 Re3+F60GKb4 Rb3+F61GKa5 Ra3+
+OL,12,F62GKb6 Ra2F63GBb5+ Kd8F64GRa2 Ba2F65   
+OL,13,GKc5 Be6F66GBe2 Kd7F67GBh5 Bf5F68GKd5   
+OL,14,GBd3F69GKe5 Bf1F70GBg4+ Kd8F71Gg3 Bd3F72
+OL,15,GKf6 Be4F73GBf5 Bf3F74Gg4 h5F75Gg5 h4F76
+OL,16,Gg6 Bd5F77GKg5 Bg8F78GKh4 Bf7F79GKg5 Bc4
+OL,17,F80GKf6 Bb3F81GBe6C1:0                  
+OL,20,G``````````````````````````````````6/21`
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15307
+SC,0007
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FA Zatonskih (UKR) - H Hunt (ENG), (13) 
+OL,8,F1Ge4 c5F2Gd3 Nc6F3Gg3 g6F4GBg2 Bg7F5Gf4
+OL,9,Gd6F6GNf3 e5F7G00 Nge7F8Gc3 00F9Ga4 b6  
+OL,10,F10Gf5 f6F11Gg4 Kh8F12GNa3 Rb8F13GQe1   
+OL,11,GBa6F14GNb5 Na5F15GBe3 d5F16Gb4 cb4F17  
+OL,12,Gcb4 Nac6F18GQh4 gf5F19Gef5 Qd7F20GBh3  
+OL,13,GBc8F21GRac1 a6F22GNa3 Nb4F23GRc8 Nc8F24
+OL,14,Gg5 Nd3F25Gg6 h6F26GNg5 Nf4F27GNf7+ Rf7 
+OL,15,F28Ggf7 Nd6F29GBf4 ef4F30GQf4 Rc8F31GRd1
+OL,16,GNf7F32GBg2 Qe7F33GBd5 Ng5F34GQg3 Qe2F35
+OL,17,GBb3 Bf8F36GNc4 Rc4F37GBc4 Qd1+F38GBf1  
+OL,18,GBc5+C0:1                               
+OL,20,G``````````````````````````````````7/21`
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15308
+SC,0008
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FH Lang (SCO) - N Nikolova (BUL), (13)  
+OL,8,F1Ge4 c5F2GNc3 Nc6F3Gg3 g6F4GBg2 Bg7F5  
+OL,9,Gd3 d6F6GNge2 e6F7GBe3 Nd4F8GQd2 Ne7F9  
+OL,10,GBh6 Bh6F10GQh6 Nc2+F11GKd2 Na1F12GRa1  
+OL,11,GBd7F13GRc1 Qb6F14GRc2 Nc6F15Ga3 Nd4F16 
+OL,12,GNd4 cd4F17GNd1 Rc8F18GRc8+ Bc8F19GQg7  
+OL,13,GRf8F20GQh7 Bd7F21Gh4 Ba4F22Ge5 Qb3F23  
+OL,14,GBf3 de5F24GBe2 Qc2+F25GKe1 e4F26Gde4   
+OL,15,GQe4F27Gh5 Bb5C0:1                      
+OL,20,G``````````````````````````````````8/21`
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15310
+SC,0010
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FT Shaked (USA) - A Morozevich (RUS) 12 
+OL,8,F1Gd4 d5F2Gc4 c6F3GNc3 e5F4Ge3 e4F5GQb3 
+OL,9,GNf6F6GBd2 Be7F7GNh3 b6F8Gcd5 cd5F9GNf4 
+OL,10,GBb7F10GBb5+ Kf8F11GBe2 g6F12Gf3 Nc6F13 
+OL,11,Gfe4 Na5F14GQd1 de4F15G00 Kg7F16GRc1 Rc8
+OL,12,F17GNb5 a6F18GNa3 Rc1F19GQc1 b5F20GQe1  
+OL,13,GNc6F21GBd1 Qd6F22GBb3 Nb4F23GNb1 Nbd5  
+OL,14,F24GNc3 Nb6F25Ga3 Rc8F26GQe2 Nc4F27GBe1 
+OL,15,GQd7F28Gh3 Ne8F29Ga4 Ned6F30Gab5 ab5F31 
+OL,16,GNcd5 Bd8F32Gg4 Kg8F33GNc3 Bc6F34GNa2   
+OL,17,GNa5F35GBc2 b4F36GNb4 Bb5F37GQf2 Bf1F38 
+OL,18,GQf1 Nac4F39GNfd5 f5F40Ggf5 Qf5F41GQf5  
+OL,19,Ggf5F42GBc3 Bh4F43GBa4 Kh8F44GNc2 h6    
+OL,20,G``````````````````````````````````10/21
+OL,21,F      BamboozleC152  FBridgeC154       
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15311
+SC,0011
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,6,F45GKf1 Rb8F46Gb3 Nb6F47GNb6 Rb6F48Gd5+ 
+OL,7,GKh7F49GBd4 Rb7F50GBc5 Bg3F51GNd4 Rf7F52
+OL,8,GKe2 f4F53Gef4 Bf4F54Gb4 Bg3F55GNe6 Rf5 
+OL,9,F56GBc6 Nc4F57Gd6 Nd6F58GBd6 Bd6F59GBe4 
+OL,10,GBb4F60GBf5+ Kh8F61GKf3 h5F62GKg3 Be1+  
+OL,11,F63GKf4 h4F64GKg5 Kg8F65GKg6 Bf2F66GBe4 
+OL,12,GBe1F67GBc6 Bf2F68GBe8 Be1F69GBf7+ Kh8  
+OL,13,F70GNd4 Bf2F71GNf5 Be1F72GBc4 Bf2F73GKf7
+OL,14,GBe1F74GBd3 Bf2F75GNe7 Bc5F76GNg6+ Kh7  
+OL,15,F77GNh4+ Kh8F78GKg6 Kg8F79GNf5 Bf2F80Gh4
+OL,16,GBh4F81GNh4 Kf8F82GKf6 Kg8F83GNf3 Kf8F84
+OL,17,GNe5 Kg8F85GNf7 Kf8F86GBh7 Ke8F87GNe5   
+OL,18,GKd8F88GKe6 Kc7F89GNd7 Kc6F90GBd3 Kc7F91
+OL,19,GBe4 Kd8F92GKd6 Ke8F93GBd5 Kd8F94GBf7   
+OL,20,GKc8F95GNc5C1:0                    11/21
+OL,21, `````````````````````````````````````` 
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15312
+SC,0012
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FJ Rowson (SCO) - J Delemarre (NED) (12)
+OL,8,F1Ge4 c6F2Gd4 d5F3Ge5 Bf5F4GNf3 e6F5Ga3 
+OL,9,GNd7F6GNbd2 Bg6F7GBe2 Nh6F8G00 Be7F9Gb4 
+OL,10,Ga5F10Gb5 a4F11Gc4 dc4F12Gbc6 bc6F13GNc4
+OL,11,GNb6F14GBh6 gh6F15GNb6 Qb6F16GQd2 00F17 
+OL,12,GQh6 Qb2F18GBc4 Rfb8F19Gh4 Qc2F20GRac1  
+OL,13,GQf5F21GRc3 Rb6F22GBd3 Qh5F23GQc1 Rb3F24
+OL,14,GBg6 hg6F25GRb3 ab3F26GQc6 Ra3F27GQe8+  
+OL,15,GBf8F28GNg5 Ra7F29GQb8 Rd7F30GNe4C1:0   
+OL,20,G``````````````````````````````````12/21
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15313
+SC,0013
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FWORLD JUNIOR CHAMPIONSHIPSG````````
+OL,7,FM Savic (YUG) - R Bates (ENG), (12)    
+OL,8,F1Ge4 c5F2Gc3 e6F3Gd4 d5F4Ge5 Nc6F5GNf3 
+OL,9,GBd7F6GBe2 Nge7F7G00 Ng6F8GRe1 Be7F9Gg3 
+OL,10,G00F10Gh4 f6F11Gh5 Nh8F12GBf4 Be8F13Gef6
+OL,11,GBf6F14GNe5 cd4F15Gcd4 Qb6F16GBg4 Nd4F17
+OL,12,GNc3 Nf7F18GQd3 Ne5F19GBe5 Be5F20GRe5   
+OL,13,GBd7F21GRd1 Nc6F22GRe2 Rf7F23GKg2 d4F24 
+OL,14,GQc4 Ne5F25GRe5 dc3F26GRd7 Qf2+F27GKh3  
+OL,15,GRd7F28GQe6+ Qf7F29GQd7 Qf1+F30GKh4 Rf8 
+OL,16,F31GQd5+ Kh8F32GRf5 Rf5F33GBf5 g5+F34   
+OL,17,Ghg6 hg6F35GQe5+ Kh7F36GQe7+ Kg8F37GQe8+
+OL,18,C1:0                                    
+OL,20,G``````````````````````````````````13/21
+OL,21,     FBamboozleC152  FBridgeC154        
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15314
+SC,0014
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,GAge and guile defeated youth and       
+OL,8,Ginnocence as theFVeteransGbeat the     
+OL,9,FLadiesGby a score ofC27-23,Gin the     
+OL,10,GHostdance Tournament in Copenhagen.    
+OL,12,GTheFVeteransGhave now equalised the    
+OL,13,Gscores in this novel annual match -    
+OL,14,Gnamed after dances from the host       
+OL,15,Gcountries - toC3-3,Gthough they now    
+OL,16,Ghold a slender over-all score ofC183\- 
+OL,17,C182\.                                  
+OL,20,G``````````````````````````````````14/21
 OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15305
-SC,0005
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,GCologne played host to a charity       
-OL,8,Gfestival, with the proceeds going to   
-OL,9,GImpuls, a foundation dedicated to      
-OL,10,Gresearch into muscular dystrophy.      
-OL,12,FThe main attraction was the strongest  
-OL,13,Fever rapidplay event ever held in      
-OL,14,FGerman with 245 players.  The field    
-OL,15,Fincluded 35 GMs, 43 IMs and one        
-OL,16,Fcomputer programme!  No, not Deeper    
-OL,17,FBlue, but something just as            
-OL,18,Ffrightening, Fritz5, which retails     
-OL,19,Fcommercially at around #89.99.         
-OL,20,G``````````````````````````````````5/19`
-OL,21,F       BamboozleC152  FBridgeC154      
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15306
-SC,0006
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,GRunning on a Pentium P233, Fritz5 took 
-OL,8,Gthe third place spot with 10/13,       
-OL,9,Gdefeating experienced GMs such as      
-OL,10,GGulko, Kasinijanov and Beim in the     
-OL,11,Gprocess. Fritz5 score at the festival  
-OL,12,Gallowed it to turn in a 2700 Elo       
-OL,13,Gperformance (rapid).                   
-OL,15,FHowever, all was not lost for mankind. 
-OL,16,FEqual first place was shared, on       
-OL,17,F10\/13, between GMs Igor Khenkin, from 
-OL,18,FIsrael, and Joel Benjamin, USA.        
-OL,20, ``````````````````````````````````6/19`
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15307
-SC,0007
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,F Final Standings                       
-OL,9, F1-2GGM J BenjaminF(USA)G& GM I Khenkin
-OL,10,     F(Isr)C10\/13                      
-OL,11, F3-4GFritz5F(Ger)G& GM A MilesF(Eng)C10
-OL,12,F5-10GGM R DautovF(Ger),GGM A Chernin   
-OL,13,     F(Hun),GGM P LekoF(Hun),GGM C Lutz 
-OL,14,     F(Ger),GIM V BaklanF(Ukr)G& GM E   
-OL,15,      LobronF(Ger)C9\.                  
-OL,17,                   F                    
-OL,20,G``````````````````````````````````7/19`
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15308
-SC,0008
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,FFritz5 - Beim,V (5)                    
-OL,8,F1Gd4 f5F2GBg5 d5F3GNc3 c6F4Ge3 Nd7F5   
-OL,9,GBd3 Ndf6F6Gf3 e6F7GNge2 Bd6F8Ge4 fe4F9 
-OL,10,Gfe4 de4F10GNe4 Be7F11G00 Ne4F12GBe7 Qe7
-OL,11,F13GBe4 Nf6F14GQd3 00F15GRae1 Bd7F16GBf3
-OL,12,GRad8F17GNg3 Bc8F18GQc4 Kh8F19Gc3 Rfe8  
-OL,13,F20Gb4 Qd6F21GQe2 Qc7F22GNe4 Ne4F23GBe4 
-OL,14,Gg6F24GQf2 e5F25Gde5 Be6F26Ga4 Bc4F27   
-OL,15,GBg6 Rf8F28GQf8+ Rf8F29GRf8+ Kg7F30GRf4 
-OL,16,C1-0                                    
-OL,20,G``````````````````````````````````8/19`
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15309
-SC,0009
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,FFritz5 - Kasinijanov,R (9)             
-OL,8,F1Gd4 Nf6F2Gc4 e6F3GNf3 d5F4GNc3 c6F5Ge3
-OL,9,GNbd7F6GBd3 dc4F7GBc4 b5F8GBd3 Bb7F9G00 
-OL,10,Ga6F10Ge4 c5F11Gd5 e5F12Gb3 Bd6F13GRe1  
-OL,11,G00F14GBf1 Nb6F15GQc2 Rc8F16Ga4 b4F17   
-OL,12,GNd1 c4F18Gbc4 a5F19GNe3 g6F20GNd2 Ba6  
-OL,13,F21GNb3 Nbd7F22GBd3 Qb6F23GRd1 Nc5F24   
-OL,14,GNc5 Bc5F25GRb1 h5F26GQb3 Ne8F27GBd2 Nd6
-OL,15,F28GRbc1 Rc7F29Gg4 h4F30GRc2 Bd4F31Gh3  
-OL,16,GNb7F32GRa2 Nc5F33GQb1 Nd3F34GQd3 Rfc8  
-OL,17,F35GRc2 b3F36GRb1 Qf6F37GQb3 Rc4F38GRcc1
-OL,18,GQf3F39Gd6 Rc1+F40GRc1 Rc1+F41GBc1 Be3  
-OL,19,F42GBe3 Qh3F43GQd1 Bb7F44Gd7 Be4C>>>    
-OL,20,G``````````````````````````````````9/19`
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15310
-SC,0010
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,7,F45Gd8Q+ Kh7F46Gf3 Bf3F47GQh4+ Qh4F48   
-OL,8,GQf3 Qe1+F49GKg2 Kg7F50GBg5 f5F51GQb7+  
-OL,9,GKg8F52GQc8+ Kf7F53GQd7+ Kg8F54GQe6+C1-0
-OL,17,                   F                    
-OL,20,G``````````````````````````````````10/19
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15311
-SC,0011
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FIMPULS RAPIDPLAYG``````````````````
-OL,6,FFritz5 - Bezold,M (13)                 
-OL,7,F1Gd4 d6F2Ge4 g6F3GNc3 Bg7F4GNf3 a6F5Ga4
-OL,8,Gb6F6GBc4 e6F7G00 Ne7F8GBe3 Bb7F9GQd2 h6
-OL,9,F10GBb3 Nd7F11GNe1 c5F12GRd1 Qc7F13GBa2 
-OL,10,GRd8F14Gd5 e5F15Gf4 ef4F16GBf4 g5F17GBg3
-OL,11,GNg6F18GNf3 Nde5F19GQf2 00F20GNe5 Ne5F21
-OL,12,GQe2 Bc8F22GBe5 Be5F23GBc4 Qa7F24GQh5   
-OL,13,GKg7F25GKh1 Rde8F26GRde1 Qd7F27GBd3 Re7 
-OL,14,F28GQe2 Qa7F29GNd1 Rfe8F30Gc3 a5F31GNe3 
-OL,15,GRf8F32GQf3 Qc7F33GNf5+ Bf5F34Gef5 Bf6  
-OL,16,F35GBb5 Ra8F36Gb3 Ra7F37GRe6!! Qd8B     
-OL,17,B(37..fe6 38 fe6 Rf7 39 ef7 Qf7 40 Be8! 
-OL,18,BQf8 41 Qf5 wins)F38GQh5 Re6F39Gfe6 Rf7 
-OL,19,F40GBd3 Ra8F41GQg4 fe6F42GQe4 Qf7F43Gde6
-OL,20,C1-0                               11/19
-OL,21,G```````````````````````````````````````
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15312
-SC,0012
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FBANKTON ALLEGROG```````````````````
-OL,7,GIM Stephen Mannion, with a commanding  
-OL,8,Gperformance, scoring 6/6, picked up his
-OL,9,Gthird successive Bankton Allegro title.
-OL,11,FIn the junior team tournament,         
-OL,12,Fdefending champions, Holy Cross High   
-OL,13,FSchool and Buckstone A prevailed again 
-OL,14,Fto take this years Secondary and       
-OL,15,FPrimaryevents.                         
-OL,17,FThe sponsors of both events were: West 
-OL,18,FLothian Council, SB Decorators, Jewel  
-OL,19,Fand Esk Valley Collage and UNISON.     
-OL,20,G``````````````````````````````````12/19
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15313
-SC,0013
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FBANKTON ALLEGROG```````````````````
-OL,7,FAdult Allegro                          
-OL,9,F1GIM S MannionF(Crowwood)C6/6;F2-4GA   
-OL,10,GWengF(W Dragons),GA BurnettF(Kirkcaldy)
-OL,11,G& D GreensmithF(Edin CS)C5;F5GD        
-OL,12,GRobertsonF(Edinburgh)C4\.              
-OL,14,FJunior Team Tournament Secondary       
-OL,16,F1GHoly Cross High AC18\;F2GAirdrie YMCA
-OL,17,C16\;F3GPerth HighC16;F4GQuarryhill     
-OL,18,GJuniorC15\;F5GEastwood High AC15.      
-OL,20,G``````````````````````````````````13/19
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
-PN,15314
-SC,0014
-FL,12b,151,153,154,1ff,150
-OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
-OL,2,W5 jk5wjs1wsVW~/5W||4V
-OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
-OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FBANKTON ALLEGROG```````````````````
-OL,7,FPrimary Team Tournament                
-OL,9,F1GBuckstone AC19\;F2GHoly Cross AC19;F3
-OL,10,GQuarryhill JuniorC16;F4GBuckstone B    
-OL,11,C15\;F5GQuarryhill Junior CC15.         
-OL,17,                   F                    
-OL,20,G``````````````````````````````````14/19
-OL,21,     FBamboozleC152  FBridgeC154        
-OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
-OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15315
 SC,0015
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FBANKTON ALLEGROG```````````````````
-OL,7,FWeng,A - Mannion,S (6)                 
-OL,8,F1Ge4 e5F2GNf3 Nc6F3GBc4 Bc5F4Gd3 Nf6F5 
-OL,9,GNc3 h6F6GBe3 Bb6F7GQd2 d6F8Ga3 Bg4F9Gh3
-OL,10,GBf3F10Ggf3 Nd4F11GBd4 Bd4F12G000 c6F13 
-OL,11,Gf4 b5F14GBa2 a5F15Gfe5 de5F16Gf4 b4F17 
-OL,12,GNb1 Qb6F18GRhe1 ef4F19GQf4 ba3F20Gba3  
-OL,13,GQb2+F21GKd2 Be5F22GQf5 g6F23GQf2 Qa2F24
-OL,14,Gd4 Bd4F25GQd4 Rd8F26GQd8+ Kd8F27GKc1+  
-OL,15,GKc7F28GRf1 Rb8F29GRf6 Rb1+F30GKd2 Rd1+ 
-OL,16,F31GKd1 Qa1+C0-1                        
-OL,17,                   F                    
-OL,20,G``````````````````````````````````15/19
-OL,21,     FBamboozleC152  FBridgeC154        
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,GTop female scorer - for the second year
+OL,8,Grunning - wasFWGM Ketevan Arakhamia,   
+OL,9,Gfrom Georgia, now residing in          
+OL,10,GEdinburgh, who had to defeatFBoris     
+OL,11,FSpasskyGin the last round to gain her  
+OL,12,Gsecond fullFGM normG- her first was    
+OL,13,Gobtained at last year's event, the     
+OL,14,FFoxtrot tournamentGin London - but     
+OL,15,Gfailed.                                
+OL,17,GIronically, it turned out to be        
+OL,18,FSpassky'sGonly win of the tournament!  
+OL,20,G``````````````````````````````````15/21
+OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15316
 SC,0016
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FCREWE CONGRESSG````````````````````
-OL,7,FOPENG                                  
-OL,8,G                                       
-OL,9,F1GIM A CherniaevF(Russia)C4/5;F2-5GGM  
-OL,10,GN DaviesF(Barbican),GD Hulmes          
-OL,11,F(Stockport),GN RutterF(Newport         
-OL,12,FShropshire)G& L WebbF(ISH,London)C3\.  
-OL,13,G                                       
-OL,14,FMAJOR                                  
-OL,15,G                                       
-OL,16,F1-5GDJ BullF(Wallasey),GCP Hankey      
-OL,17,F(Pavilion),GA LongsonF(3Cs),GMA        
-OL,18,GWhiteheadF(Rochdale)G& WG Williams     
-OL,19,F(Llandudno RAOB)C4/5                   
-OL,20,G``````````````````````````````````16/19
-OL,21,     FBamboozleC152  FBridgeC154        
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,FVeterans:C27                           
+OL,9,F1GL PortischF(HUN)C6/10;F2GB Spassky   
+OL,10,F(RUS)C4\;F3GV HortF(CZE)C5\;F4GV       
+OL,11,GSmyslovF(RUS)C6;F5GM TaimanovF(RUS)C4\ 
+OL,13,FLadies:C23                             
+OL,15,F1GP CramlingF(SWE)C5/10;F2GN Ioseliani 
+OL,16,F(GEO)C3\;F3GZhu ChenF(CHN)C4;F4GXie Jun
+OL,17,F(CHN)C5;F5GK ArakhamiaF(GEO)C5\.       
+OL,20,G``````````````````````````````````16/21
+OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15317
 SC,0017
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FCREWE CONGRESSG````````````````````
-OL,7,FINTERMEDIATE                           
-OL,8,F                                       
-OL,9,F1-2GSM ChadawayF(Handsworth Wood)G& S  
-OL,10,GMontgomeryF(Chorlton)C4\/5;F3-6GK      
-OL,11,GFrancisF(Mercia),GT Greenaway          
-OL,12,F(Reading),GA LeggeF(Wallasey)G& J      
-OL,13,GNemcekF(Chester YMCA)C4.               
-OL,15,FMINOR                                  
-OL,16,G                                       
-OL,17,F1GP BrineF(Wallasey)C5/5;F2GM Murphy   
-OL,18,F(Ashton-U-Lyne)C4\;F3-4GP Bamford      
-OL,19,F(E.Cheshire)G& D EvansF(Holmes Ch)C4.  
-OL,20,G``````````````````````````````````17/19
-OL,21,     FBamboozleC152  FBridgeC154        
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,FV Smyslov - Xie Jun, (9)               
+OL,8,F1Ge4 e5F2GNf3 Nc6F3GNc3 Nf6F4GBb5 Bb4F5
+OL,9,G00 00F6Gd3 d6F7GBg5 Bc3F8Gbc3 Qe7F9GRe1
+OL,10,GNd8F10Gd4 Ne6F11GBc1 c5F12Ga4 Rd8F13   
+OL,11,GBf1 Nc7F14Gh3 Bd7F15Gg3 b5F16GNh4 ba4  
+OL,12,F17GNf5 Bf5F18Gef5 Ncd5F19GRa3 Qc7F20   
+OL,13,Gde5 de5F21GQe2 Rab8F22GBg5 h6F23GBf6   
+OL,14,GNf6F24GQe5 Qe5F25GRe5 Rd2F26GRa4 Rc2F27
+OL,15,GRc5 Rbb2F28GRc8+ Kh7F29GRa7 Rf2F30GRf7 
+OL,16,Gh5F31GRff8 Kh6F32Gh4 Rf5F33GBd3C1:0    
+OL,20,G``````````````````````````````````17/21
+OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15318
 SC,0018
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FCREWE CONGRESSG````````````````````
-OL,7,FCheshire & N.Wales indiv titlesG       
-OL,8,G                                       
-OL,9,FCounty ChG- S Edwards;FMajorG- W       
-OL,10,GWilliams;FIntermediateG- J Nemcek;F    
-OL,11,FMinorG- Sandra Blackburn.              
-OL,12,G                                       
-OL,13,FManweb Team Trophy                     
-OL,14,F                                       
-OL,15,GWallasey Chess ClubF                   
-OL,17,                   F                    
-OL,20,G``````````````````````````````````18/19
-OL,21,     FBamboozleC152  FBridgeC154        
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,FK Arakhamia  - B Spassky, (10)         
+OL,8,F1Ge4 e5F2GNf3 Nc6F3GBb5 a6F4GBa4 Nf6F5 
+OL,9,G00 Be7F6GRe1 b5F7GBb3 00F8Gc3 d6F9Gh3  
+OL,10,GBb7F10Gd4 Re8F11GNbd2 Bf8F12Ga4 Qd7F13 
+OL,11,GBc2 g6F14Gd5 Ne7F15Gb3 Bg7F16Gc4 c6F17 
+OL,12,GBa3 Nh5F18GBd3 ba4F19Gba4 c5F20GRb1    
+OL,13,GReb8F21GRb3 Bc8F22GQc2 Rb3F23GQb3 Ra7  
+OL,14,F24GQb6 Rb7F25GQa5 h6F26GRb1 Rb1+F27GNb1
+OL,15,GNf4F28GBf1 g5F29GNbd2 Neg6F30GNh2 h5F31
+OL,16,GBc1 Bf6F32GQb6 Kg7F33GQb8 Qa4F34GQc8   
+OL,17,GQd1F35GQa6 Qc1F36GQa5 Ne2+F37GKh1 Qe1  
+OL,18,F38GNhf3 Qf2F39GBe2 Qe2F40GQb6 Nf4C0:1  
+OL,20,G``````````````````````````````````18/21
+OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
 PN,15319
 SC,0019
-FL,12b,151,153,154,1ff,150
+FL,154,160,110,170,1ff,150
 OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
 OL,2,W5 jk5wjs1wsVW~/5W||4V
 OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
 OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
-OL,5,G```FCREWE CONGRESSG````````````````````
-OL,7,FRutter,N - Lilley,G  Open (5)          
-OL,8,F1Ge4 d6F2Gd4 Nf6F3GNc3 g6F4Gf4 Bg7F5   
-OL,9,GNf3 00F6Ge5 Nfd7F7Gh4 c5F8Gh5 cd4F9Ghg6
-OL,10,Gdc3F10GRh7 Nb6F11GQd3 Nc6F12GNg5 f6F13 
-OL,11,Ge6 fg5F14GQh3 Rf4F15GRh8+ Bh8F16GQh7+  
-OL,12,C1-0                                    
-OL,14, A happy occurance of deja vu for Nick  
-OL,15, Rutter in the Open.  In an earlier     
-OL,16, round he won in similar fashion with   
-OL,17,Gthe same attack - only in 15 moves!    
-OL,20,G``````````````````````````````````19/19
-OL,21,     FBamboozleC152  FBridgeC154        
+OL,5,G```FLADIES vs VETERANSG````````````````
+OL,7,FXie Jun - V Hort, (10)                 
+OL,8,F1Ge4 c6F2Gd4 d5F3Ge5 Bf5F4GNf3 e6F5GBe2
+OL,9,GNe7F6G00 Bg6F7Gc3 Nf5F8GNbd2 c5F9Gg4   
+OL,10,GNh4F10GNh4 Qh4F11Gf4 h5F12Gg5 Nc6F13   
+OL,11,GRf2 cd4F14GNf3 Qg4+F15GRg2 Qf5F16GNd4  
+OL,12,GBc5F17GBe3 Bd4F18Gcd4 Qe4F19GQd2 Rc8F20
+OL,13,GRf1 Bf5F21GRgf2 g6F22GRc1 Ne7F23GBb5+  
+OL,14,GKf8F24GQb4 Rc1+F25GBc1 a5F26GQd6 Kg7F27
+OL,15,GQe7 Rc8F28GBd2 Rc2F29GQf6+ Kg8F30GQd8+ 
+OL,16,GKg7F31GQa5 Rb2F32GBf1 h4F33GQa3 Rb1F34 
+OL,17,GQc3 Rd1F35Gh3 Qb1F36GQb3 Qb3F37Gab3 Bh3
+OL,18,F38GBb4 Bf5C1:0                         
+OL,20,G``````````````````````````````````19/21
+OL,21,F    EntertainmentC400 FCinemaC460      
 OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
 OL,23,D]CL    CHESS AND BRIDGE LIMITED        
-OL,24,AQuestion 1  B10-to-1  CChess  FBridge  
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15320
+SC,0020
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FBRITISH CHAMPIONSHIPSG`````````````
+OL,7,GThanks to an increased prize fund of   
+OL,8,C#25,000G- and a first prize ofC#10,000 
+OL,9,G- there is a top class entry for the   
+OL,10,FSmith & Williamson British ChGfromC4-16
+OL,11,CAugustGat Hove Town Hall.              
+OL,13,GA bumper entry is expected and top     
+OL,14,Gplayers playing so far include:FGMs    
+OL,15,FAdams, Speelman, Sadler, Miles, Hebden,
+OL,16,FEmms, McDonald, Gallagher and Kosten.  
+OL,17,GThere will also be a lively and        
+OL,18,Gentertaining daily commentary from the 
+OL,19,Gever-popular London GM,FJulian Hodgson.
+OL,20,G``````````````````````````````````20/21
+OL,21,F    EntertainmentC400 FCinemaC460      
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
+PN,15321
+SC,0021
+FL,154,160,110,170,1ff,150
+OL,1,W?/jp0ppp`pp0ppp      W   8~}0j~~~W   
+OL,2,W5 jk5wjs1wsVW~/5W||4V
+OL,3,W}|jj5}|h|5|~T|||||||tWh! 5T|||
+OL,4,T,,,,,,,,,,,,,,,,,,////////W|||4h|||T///
+OL,5,G```FBRITISH CHAMPIONSHIPSG`````````````
+OL,8,GEntries for all tournament levels are  
+OL,9,Gstill being accepted via theFBCF       
+OL,10,Foffice,CTel: 01424 442500.             
+OL,12,FTeletext ChessGwill have daily coverage
+OL,13,Gof the event, with the top board clash 
+OL,14,GbroadcastClive from 2.15pm dailyGduring
+OL,15,Gthe championships.                     
+OL,20,G``````````````````````````````````21/21
+OL,21,F    EntertainmentC400 FCinemaC460      
+OL,22,D]CLTELETEXT CHESS BY JOHN HENDERSON    
+OL,23,D]CL    CHESS AND BRIDGE LIMITED        
+OL,24,ABridge  BGo Green  CTV  FDigitiser     
