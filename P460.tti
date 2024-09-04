@@ -2,7 +2,7 @@ DE,
 PS,8000
 PN,46000
 SC,0000
-FL,101,400,410,461,4ff,100
+FL,101,170,410,461,4ff,100
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
 OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
@@ -25,5 +25,5 @@ OL,19,BP473 ` HTV logo - Giles Booth
 OL,20,B```````````````````````````````````````
 OL,21,      FMore about the TTX2000SBp461     
 OL,22,B]MD THE STORY OF SUPER PAGE 58 p106    
-OL,24,AIndexBRetroWorkshopCReEnthusedFTTX2000S
+OL,24,AIndex BDigitiser CRe-Enthused FTTX2000S
 
