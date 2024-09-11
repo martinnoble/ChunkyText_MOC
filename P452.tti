@@ -16,14 +16,14 @@ OL,9,BThe PATCH2 program is provided for BBC
 OL,10,BMicro users running the TFS ROM.       
 OL,12,BRefer to the Acorn Teletext System user
 OL,13,Bguide for downloading instructions.    
-OL,15,BOnce downloaded type *DISC or *TAPE and
+OL,15,BOnce downloaded typeG*DISCBorG*TAPEBand
 OL,16,BRUN. The screen will be corrupted for a
 OL,17,Bmoment, and TSOFT will be created on   
 OL,18,Bdisc or tape.                          
-OL,20,BTo use TSOFT, type *RUN TSOFT, then use
-OL,21,B*LOAD or CHAIN to download telesoftware
+OL,20,BTo use TSOFT, typeG*RUN TSOFTBthen use 
+OL,21,G*LOADBorGCHAINBto download telesoftware
 OL,22,Bfrom the selected page number.         
-OL,23,B```````````````````````````````````1/2`
+OL,23,B```````````````````````````````````1/4`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
 PN,45202
 SC,0002
@@ -34,7 +34,7 @@ OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j
 OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
 OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
 OL,5,B```````````````````````````````````````
-OL,6,BProgram information:         BTest     
+OL,6,BProgram information:         BTEST     
 OL,7,                           B(ZXGuesser) 
 OL,8,B```````````````````````````````````````
 OL,9,BProbably the most boring telesoftware  
@@ -44,6 +44,54 @@ OL,14,BIt would be quicker to type it in by
 OL,15,Byourself than to download it!          
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download  
-OL,22,Bthis exciting peice of software...     
-OL,23,B```````````````````````````````````2/2`
+OL,22,Bthis exciting piece of software...     
+OL,23,B```````````````````````````````````2/4`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
+PN,45303
+SC,0003
+RE,0
+FL,450,460,106,101,8ff,450
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
+OL,5,B```````````````````````````````````````
+OL,6,BProgram information:         BMONITOR  
+OL,7,                           B(ZXGuesser) 
+OL,8,B```````````````````````````````````````
+OL,9,BA teletext signal monitor utility for  
+OL,10,Bthe Acorn Teletext Adapter.            
+OL,12,BDisplays a live view of the packet data
+OL,13,Breceived by the adapter on either field
+OL,14,Bof the television signal.              
+OL,16,BThis program does not use any ROM calls
+OL,17,Bso is compatible with both TFS and ATS.
+OL,20,B```````````````````````````````````````
+OL,21,BTFS users must use PATCH2 to download. 
+OL,22,BSave withG*SAVE MONITOR 2DC0 2FF7      
+OL,23,B```````````````````````````````````3/4`
+OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
+PN,45404
+SC,0004
+RE,0
+FL,450,460,106,101,8ff,450
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
+OL,5,B```````````````````````````````````````
+OL,6,BProgram information:         BDATACST  
+OL,7,                           B(ZXGuesser) 
+OL,8,B```````````````````````````````````````
+OL,9,BA demonstration datacast reception tool
+OL,10,Bwhich displays all messages received on
+OL,11,Ba particular datachannel and address.  
+OL,13,BThis program calls the ATS ROM, however
+OL,14,Bit includes a patching routine to make 
+OL,15,Bthe necessary changes for TFS users.   
+OL,20,B```````````````````````````````````````
+OL,21,BTFS users must use PATCH2 to download. 
+OL,22,BSave withG*SAVE DATACST 2400 2852 2840 
+OL,23,B```````````````````````````````````4/4`
+OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
+

@@ -12,7 +12,9 @@ OL,5,B```````````````````````````````````````
 OL,6,BPrograms currently available:          
 OL,7,B```````````````````````````````````````
 OL,8,BPATCH2    The TFS upgrade..........P454
-OL,9,BTest      What it says on the tin..P455
+OL,9,BTEST      What it says on the tin..P455
+OL,10,BMONITOR   Teletext signal monitor..P456
+OL,11,BDATACST   Simple Datacast decoder..P456
 OL,15,B```````````````````````````````````````
 OL,16,BIf you're interested in developing and 
 OL,17,Btesting telesoftware programs for the  
