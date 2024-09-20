@@ -1,0 +1,29 @@
+DE,The Ceetrix
+PN,23200
+SC,0000
+PS,8008
+OL,1,B C C C  C  C C  C   C  C  C   C      C 
+OL,2,B E RZ   E 
+OL,3,B E RZ   ///      u `   E 
+OL,4,B F RZ j pp # 5  j j j j   F 
+OL,5,B A RZ    p ## 5 %z? *, ,n   A 
+OL,6,B X RZ   |||5 4j}|| j j   X 
+OL,7,B   RZ     
+OL,8,B 5                                5  5 
+OL,9,B 0 0 0C 0 50 0F 0 5 0  5  0E  0  50  0 
+OL,10,B   5  E   0   A 5 05   0 5 E     0     
+OL,11,B T T TE T  T TX 0  0T  T 0TF  T   T  T 
+OL,12,B E E EF E TE E  E T E  T  EA  E  CE  E 
+OL,13,B L L LA L EL L5 T ETL  E TLX  L  EL  L 
+OL,14,B E E EX E LE E0 E LEE  L EE   E  EE  E 
+OL,15,B T T T  T ET T  L CLT  E LT5  T  FT  T 
+OL,16,B E E E5 E TE ET E EEE  T EE0  E  AE CE 
+OL,17,B X X X0 X EX XE T ETX  E TX   X  XC EX 
+OL,18,B T T C  C XT CL E FET  X ETT  C  XE ET 
+OL,19,B   X ET E C  EE X AX   T X C  E  5E F  
+OL,20,B C T EE E E  ET T XT C E T E  E  0F AC 
+OL,21,B E E FL F E  FE      E X   E  F   A XE 
+OL,22,B E L AE A F  AX   5  E T   F  A  TX  E 
+OL,23,B F E XT X A  XT   0  F X   A  X  E  5F 
+OL,24,B A T  E   X          A     X     L5 0A 
+FL,8ff,8ff,8ff,8ff,8ff,100
