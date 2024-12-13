@@ -35,17 +35,17 @@ OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j
 OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
 OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
 OL,5,B```````````````````````````````````````
-OL,6,BProgram information:         BTEST     
-OL,7,                           B(ZXGuesser) 
+OL,6,BProgram information:         BBUBBLES  
+OL,7,                      B(P.Vince/I.Trill)
 OL,8,B```````````````````````````````````````
-OL,9,BProbably the most boring telesoftware  
-OL,10,Bprogram ever created for the BBC micro.
-OL,12,BThe classic BASIC Hello World program. 
-OL,14,BIt would be quicker to type it in by   
-OL,15,Byourself than to download it!          
+OL,9,BA festive program originally broadcast 
+OL,10,Bby BBC Telesoftware for Christmas 1985.
+OL,12,BThis program has been lightly modified 
+OL,13,Bby ZXGuesser to bring seasons greetings
+OL,14,Bfrom ChunkyText.                       
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download  
-OL,22,Bthis exciting piece of software...     
+OL,22,BandGSAVE "BUBBLES"Bor justGRUN         
 OL,23,B```````````````````````````````````2/4`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
 PN,45303
