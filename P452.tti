@@ -67,6 +67,7 @@ OL,13,Breceived by the adapter on either field
 OL,14,Bof the television signal.              
 OL,16,BThis program does not use any ROM calls
 OL,17,Bso is compatible with both TFS and ATS.
+OL,19,BDoesAnotBwork in current BeebEm release
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download. 
 OL,22,BSave withG*SAVE MONITOR 2DC0 2FF7      
