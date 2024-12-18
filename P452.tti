@@ -3,14 +3,13 @@ PS,C000
 CT,2,C
 PN,45201
 SC,0001
-RE,0
 FL,450,460,106,101,8ff,450
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
 OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
 OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
 OL,5,B```````````````````````````````````````
-OL,6,BProgram information           BPATCH2  
+OL,6,BProgram information:          BPATCH2  
 OL,7,                              B(Acorn)  
 OL,8,B```````````````````````````````````````
 OL,9,BThe PATCH2 program is provided for BBC 
@@ -24,11 +23,34 @@ OL,18,Bdisc or tape.
 OL,20,BTo use TSOFT, typeG*RUN TSOFTBthen use 
 OL,21,G*LOADBorGCHAINBto download telesoftware
 OL,22,Bfrom the selected page number.         
-OL,23,B```````````````````````````````````1/4`
+OL,23,B```````````````````````````````````1/6`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
 PN,45202
 SC,0002
-RE,0
+FL,450,460,106,101,8ff,450
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
+OL,5,B```````````````````````````````````````
+OL,6,BProgram information:          BPATCH2  
+OL,7,                              B(Acorn)  
+OL,8,B```````````````````````````````````````
+OL,9,BTo download programs on a system with  
+OL,10,Bthe TFS ROM, run TSOFT and useG*PAGEBto
+OL,11,Bselect the page number for the desired 
+OL,12,Bfile. e.g.G*PAGE 455                   
+OL,14,BFiles can now be downloaded withGLOAD  
+OL,15,BorGCHAINBandG*LOADBcommands.           
+OL,17,BTo save the file, switch filing system 
+OL,18,BwithG*DISCBand eitherGSAVEBfor a BASIC 
+OL,19,Bprogram, orG*SAVEBthe downloaded file  
+OL,20,Bin memory.                             
+OL,22,BSee following pages for save details.  
+OL,23,B```````````````````````````````````2/6`
+OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
+PN,45202
+SC,0002
 FL,450,460,106,101,8ff,450
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
@@ -46,11 +68,10 @@ OL,14,Bfrom ChunkyText.
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download  
 OL,22,BandGSAVE "BUBBLES"Bor justGRUN         
-OL,23,B```````````````````````````````````2/4`
+OL,23,B```````````````````````````````````3/6`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
-PN,45303
+PN,45203
 SC,0003
-RE,0
 FL,450,460,106,101,8ff,450
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
@@ -63,19 +84,18 @@ OL,8,B```````````````````````````````````````
 OL,9,BA teletext signal monitor utility for  
 OL,10,Bthe Acorn Teletext Adapter.            
 OL,12,BDisplays a live view of the packet data
-OL,13,Breceived by the adapter on either field
-OL,14,Bof the television signal.              
-OL,16,BThis program does not use any ROM calls
-OL,17,Bso is compatible with both TFS and ATS.
-OL,19,BDoesAnotBwork in current BeebEm release
-OL,20,B```````````````````````````````````````
-OL,21,BTFS users must use PATCH2 to download. 
-OL,22,BSave withG*SAVE MONITOR 2DC0 2FF7      
-OL,23,B```````````````````````````````````3/4`
+OL,13,Breceived by the adapter.               
+OL,15,BThis program does not use any ROM calls
+OL,16,Bso is compatible with both TFS and ATS.
+OL,18,BDoesAnotBwork in current BeebEm release
+OL,19,B```````````````````````````````````````
+OL,20,BTFS users must use PATCH2 to download. 
+OL,21,BSave with:G*SAVE MONITOR 2DC0 2FF7     
+OL,22,           G*SAVE MoniTxt 3000 3E3B 0 0 
+OL,23,B```````````````````````````````````4/6`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
-PN,45404
+PN,45204
 SC,0004
-RE,0
 FL,450,460,106,101,8ff,450
 OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
 OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
@@ -95,7 +115,30 @@ OL,17,BThis program does not use any ROM calls
 OL,18,Bso is compatible with both TFS and ATS.
 OL,20,B```````````````````````````````````````
 OL,21,BTFS users must use PATCH2 to download. 
-OL,22,BSave withG*SAVE DATACST 2400 2A00      
-OL,23,B```````````````````````````````````4/4`
+OL,22,BSave with:G*SAVE DATACST 2400 2A00     
+OL,23,B```````````````````````````````````5/6`
 OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
-
+PN,45206
+SC,0006
+FL,450,460,106,101,8ff,450
+OL,1,Rpp0pp00  pp0ppp`pp0pp0pp00  ` pp pp0`pp
+OL,2,R 5 5  5  5  5 *j *55   5 5  j 5j 5 5j  
+OL,3,R  #!  #!3#j  5#!   5jj7#5#kj7#
+OL,4,R / /,$/,$/,$-,/*,,%/   / /,-.*% %/ **-,
+OL,5,B```````````````````````````````````````
+OL,6,BText documents:                        
+OL,7,B```````````````````````````````````````
+OL,8,BThe telesofware service can be used to 
+OL,9,Bbroadcast text documents, which you can
+OL,10,Bdownload to your micro and keep on disc
+OL,11,Bfor later reference, or print out.     
+OL,13,BThis enables the transmission of much  
+OL,14,Blonger articles than would be practical
+OL,15,Bto display via rotating subpages on the
+OL,16,Bmain ChunkyText service.               
+OL,18,BOnce downloaded to your micro, a text  
+OL,19,Bfile can be read inGMODE 3Busing a word
+OL,20,Bprocessor program or theG*TYPEBcommand.
+OL,21,B```````````````````````````````````6/6`
+OL,22,B]MDCURRENTLY AVAILABLE PROGRAMS p451   
+OL,24,ABBC indexBZX SpectrumCSuperPage58FIndex
