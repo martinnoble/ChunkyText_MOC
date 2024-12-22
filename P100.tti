@@ -1,6 +1,6 @@
 DE,Chunkytext Main Page
 CT,7,T
-PS,C010
+PS,8010
 PN,10001
 SC,0001
 FL,102,103,170,101,45a,101
@@ -12,7 +12,7 @@ OL,6,A```````````````````````````````````````
 OL,7,A      CA T   C H R I S T M A SA      
 OL,8,A```````````````````````````````````````
 OL,9,M   NEW OLD PAGES FROM CHRISTMAS 1997   
-OL,10, T                                      
+OL,11,C                                       
 OL,12,CRECOVERYFA heap of pages W7###########k
 OL,13,Frecovered from old video W5 SHfsss9IW j
 OL,14,Ftape to be enjoyed again W5;tpppppppxgj
@@ -36,7 +36,7 @@ OL,6,A```````````````````````````````````````
 OL,7,A      CA T   C H R I S T M A SA      
 OL,8,A```````````````````````````````````````
 OL,9,M  LATEST TELESOFTWARE FOR YOUR MICRO!  
-OL,10, T                                      
+OL,11,C                                       
 OL,12,CTELESOFTWAREFDownload newW7###########k
 OL,13,Fsoftware from Chunkytext W5 j###s###5 j
 OL,14,Fto make the most of your W5 j   W  5 j
@@ -60,8 +60,7 @@ OL,6,A```````````````````````````````````````
 OL,7,A      CA T   C H R I S T M A SA      
 OL,8,A```````````````````````````````````````
 OL,9,M CAN YOU BEAT BAMBER'S CHRISTMAS QUIZ? 
-OL,10, T                                      
-OL,11,                            Wp,,,,,pp   
+OL,11,C                           Wp,,,,,pp   
 OL,12,CQUIZZESFPlay a Christmas  W6!  Sp~0Wi k
 OL,13,Fedition of Bamboozle      S`'{w+W"5*
 OL,14,Ffrom December 1997.       Sjzjo5u4ht 
