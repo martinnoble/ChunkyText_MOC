@@ -1,28 +1,26 @@
-DE,1997-07-28 recovery
+DE,1997-12-22 recovery
 PS,8000
 PN,19100
 SC,0000
-FL,192,195,196,197,1ff,190
-OL,1,S]DCan you tell Turner if this face     
-OL,2,C]Dis happy or sad?                     
-OL,3,W|||||||||||||||||||||||||||||||||||||||
-OL,4,S          px||||p0          G]DPRESS   
-OL,5,S       `x}p        W]DREVEAL  
-OL,6,S      x}0      W]DFOR THE 
-OL,7,S     ~w|~}|{4     G]DANSWER! 
-OL,8,S    j?y|vo?y|vo     W]QX       
-OL,9,S    5?oj5?oj5    W]QX       
-OL,10,S    };-f~6};-f~5    W]QX       
-OL,11,S    :5    W'#   #/
-OL,12,S    /y5     U`||W"
-OL,13,S    j      U8.-"/}Wj
-OL,14,S     o?####+%      WxtU5 
-OL,15,S      +`x|||pj?!       W{wU5 
-OL,16,S       "+?#         WU/o5 
-OL,17,S          #+////#!           U/' ?Wj
-OL,18,Q       X  (3hiji             U*dp 
-OL,19,Q       X  `:jkj:            Ux}2/?g
+OL,1,S]DCan you tell Turner which plug he    
+OL,2,C]Dneeds for his tree lights?           
+OL,3,W,,,,,,,,,,,,,,,,,,,,,,,,,,,,,||||||||||
+OL,4,R}0    W W   p,p           G]DPRESS   
+OL,5,R7|vot   W W h#   #d         W]DREVEAL  
+OL,6,R5uS    W W`% 8#)0j    p h<|W]DFOR THE 
+OL,7,R5}0    W 8! 6 `&  e A::sjmoG]DANSWER! 
+OL,8,Ruo}0   WW)0 e 5`&d"d u=$*..W]QX~#     
+OL,9,R};}     W"4 #,!  i #      W]QX      
+OL,10,R|;}    Wh!  %    5  p h<|W]QX/,     
+OL,11,Rg|v/z}0  W5 p,3,p 8!B::sjmoW'#   #/
+OL,12,R?utV     W"d  5  #   u=$*.. U`||W"
+OL,13,R5}0     W*0i 5    8#       U8.-"/}Wj
+OL,14,Rv/}0    W i*0"d  6   p h<| WxtU5 
+OL,15,R|so0   W`& "4 #,q C::sjmo W{wU5 
+OL,16,R};t  W5  8!  : ) u=$*.. WU/o5 
+OL,17,R?y||s/z}0W5 6   :   #       U/' ?Wj
+OL,18,W j   Q   W5 ",p:            U*dp 
+OL,19,W  )ppppppp&                 Ux}2/?g
 OL,20,G```````````````````````````````````````
 OL,21,    FSee your picture on TeletextC192   
 OL,22,E]GGMWHAT ELSE IS TURNER UP TO? p196    
-OL,24,AFrame It BPen Pals CTurner FWrite it   

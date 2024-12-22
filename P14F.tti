@@ -1,28 +1,28 @@
-DE,1997-07-28 recovery
+DE,1997-12-22 recovery
 PS,8010
 PN,14F00
 SC,0000
-FL,12b,12b,150,12b,1ff,450
-OL,1, ]DWell done!AHow many did you get right
-OL,2,G]Afirst time?DCheck your rating below. 
+FL,14b,14b,150,14b,1ff,450
+OL,1, ]DWell done!ANo ratings today. Just    
+OL,2,G]Apress reveal for a festive message.  
 OL,3,V    pp0      W4     S 0W(0   Q W"o'    
 OL,4,V  hk}    S` }$x||3o0W%    QW##     
 OL,5,V  j5   S"5zjjzj!             
-OL,6,V  o||%    Sh~?/k7/o}4              
-OL,7,V  "/?' T`|S!ltsx<"T}t0          
-OL,8,T        TxS+~|r3#cq|}'Tt         
-OL,9,A```````T~?jtS#/o?/'TpukuA```````
-OL,10,       Tj?cq3///W/$ (/Ts3/'p3o}Q      
-OL,11,T      Tx?S|~cz|T~5      
-OL,12,T      T+//////%S///,$//T////////!      
+OL,6,V  o||%    Sh~k7?}4              
+OL,7,V  "/?' Q`|S!otsx?"Q}t0          
+OL,8,T        QxS+~|r3#cq|}'Qt         
+OL,9,A```````Q~?jtS#/o?/'QpukuA```````
+OL,10,       Qj?cq3///W/$ (/Qs3/'p3o}Q      
+OL,11,T      Qx?S|~cz|Q~5      
+OL,12,T      Q+//////%S///,$//Q////////!      
 OL,13, Q///////////////////////////////////// 
 OL,14,W`<,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l0
-OL,15,WjhC12...FAce! Dynamic! First Class!W 45
-OL,16,WjjC10-11FAlmost. Great performance. W55
-OL,17,WjjC 7-9 FGood effort. Shows promise.W55
-OL,18,WjjC 5-7 FNot the best attempt is it?W55
-OL,19,WjjC 3-5 FHave another go tomorrow.  W55
-OL,20,Wj*C 0-2 FWere you REALLY trying?    W%5
+OL,15,WjhC                                 W45
+OL,16,WjjCX MERRY CHRISTMAS AND A HAPPY    W55
+OL,17,WjjCX     NEW YEAR TO YOU ALL        W55
+OL,18,WjjC                                 W55
+OL,19,WjjCXLove from all the Bamboozle crewW55
+OL,20,Wj*C                                 W%5
 OL,21,W"-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.!
 OL,22,A```````````````````````````````````````
 OL,23,D]   GPressCYELLOWGfor Fun and Games    

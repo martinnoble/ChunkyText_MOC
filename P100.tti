@@ -1,40 +1,17 @@
 DE,Chunkytext Main Page
+CT,7,T
 PS,C010
 PN,10001
 SC,0001
-FL,102,103,170,101,45A,101
-OL,2,D]Sh||4|4        h|      |4        h|   
-OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
-OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
-OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
+FL,102,103,170,101,45a,101
+OL,2,T]Sh||4|4W!H`I (Sh|WH(I`S|4W$H"I $Sh|   
+OL,3,T]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
+OL,4,T]Sj  5jj55jk5/- 5j.%{1j   
+OL,5,T]Wz}}~}}~~}|}~}}}~0  
 OL,6,A```````````````````````````````````````
-OL,7,A    C A T  T E L E T E X T  5 0  A   
+OL,7,A      CA T   C H R I S T M A SA      
 OL,8,A```````````````````````````````````````
-OL,9,M  TELETEXT50 ` SEPTEMBER 21st & 22nd!  
-OL,10, T                                      
-OL,12,CBLOCK PARTYFJoin us this W7###sssss###k
-OL,13,FSeptember at The Centre  W5  h54  j   j
-OL,14,Ffor Computing History in W5  5$  j   j
-OL,15,FCambridge. For Ceefax's  W5 h2-l|,&   j
-OL,16,F50th birthday!           W5 *7<=m   j
-OL,17,CAbout Chunkytext    G102 W5 Z"o}0Yj
-OL,18,CTeletext 50 ScheduleG107 Wupppppppppppz
-OL,19,A```````````````````````````````````````
-OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \   
-OL,21,A```````````````````````````````````````
-OL,22,D]GM YOUR ARTWORK ON CHUNKYTEXT p103    
-OL,24,AAbout  BUser guide   CDigitiser  FIndex
-PN,10002
-SC,0002
-FL,102,103,170,101,45A,101
-OL,2,D]Sh||4|4        h|      |4        h|   
-OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
-OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
-OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
-OL,6,A```````````````````````````````````````
-OL,7,A    C A T  T E L E T E X T  5 0  A   
-OL,8,A```````````````````````````````````````
-OL,9,MNEW OLD PAGES - FRESH FROM FEBRUARY '98
+OL,9,M   NEW OLD PAGES FROM CHRISTMAS 1997   
 OL,10, T                                      
 OL,12,CRECOVERYFA heap of pages W7###########k
 OL,13,Frecovered from old video W5 SHfsss9IW j
@@ -48,16 +25,15 @@ OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \
 OL,21,A```````````````````````````````````````
 OL,22,D]GMWHAT THE HECK IS CHUNKYTEXT? p102   
 OL,24,AAbout  BUser guide   CDigitiser  FIndex
-PN,10003
-SC,0003
-RE,0
+PN,10002
+SC,0002
 FL,102,103,170,101,45a,101
-OL,2,D]Sh||4|4        h|      |4        h|   
-OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
-OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
-OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
+OL,2,T]Sh||4|4W!H`I (Sh|WH(I`S|4W$H"I $Sh|   
+OL,3,T]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
+OL,4,T]Sj  5jj55jk5/- 5j.%{1j   
+OL,5,T]Wz}}~}}~~}|}~}}}~0  
 OL,6,A```````````````````````````````````````
-OL,7,A    C A T  T E L E T E X T  5 0  A   
+OL,7,A      CA T   C H R I S T M A SA      
 OL,8,A```````````````````````````````````````
 OL,9,M  LATEST TELESOFTWARE FOR YOUR MICRO!  
 OL,10, T                                      
@@ -68,6 +44,31 @@ OL,15,Fmicro!                   W5 j (`,0  5 j
 OL,16,F                         W5 *ppr,!  5 j
 OL,17,CBBC Micro index     G450 W5 j///    5Yj
 OL,18,CZX Spectrum index   G460 Wuprsssssssqpz
+OL,19,A```````````````````````````````````````
+OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \   
+OL,21,A```````````````````````````````````````
+OL,22,D]GMJOIN THE TELETEXT COMMUNITY p131    
+OL,24,AAbout  BUser guide   CDigitiser  FIndex
+PN,10003
+SC,0003
+FL,102,103,170,101,45a,101
+OL,2,T]Sh||4|4W!H`I (Sh|WH(I`S|4W$H"I $Sh|   
+OL,3,T]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
+OL,4,T]Sj  5jj55jk5/- 5j.%{1j   
+OL,5,T]Wz}}~}}~~}|}~}}}~0  
+OL,6,A```````````````````````````````````````
+OL,7,A      CA T   C H R I S T M A SA      
+OL,8,A```````````````````````````````````````
+OL,9,M CAN YOU BEAT BAMBER'S CHRISTMAS QUIZ? 
+OL,10, T                                      
+OL,11,                            Wp,,,,,pp   
+OL,12,CQUIZZESFPlay a Christmas  W6!  Sp~0Wi k
+OL,13,Fedition of Bamboozle      S`'{w+W"5*
+OL,14,Ffrom December 1997.       Sjzjo5u4ht 
+OL,15,F                          Sb?'~7/w)w> 
+OL,16,F                          S?(}rsx="}wW 
+OL,17,CTen to One (Sport)  G151  Sm}tsssx}?jWj
+OL,18,CBamboozle (General) G152   S+/}|/a'W.
 OL,19,A```````````````````````````````````````
 OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \   
 OL,21,A```````````````````````````````````````

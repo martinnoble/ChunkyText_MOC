@@ -1,22 +1,21 @@
-DE,1997-07-28 recovery
+DE,1997-12-22 recovery
 PS,8010
 PN,13A00
 SC,0000
-RE,0
 FL,13c,13b,13c,13c,1ff,150
-OL,1,                            W6!  Sp~0Wi 
-OL,2, ]DQuestion 5.AChaucer's \   S<|~3oW"5
-OL,3, ]ACanterbury Tales:DWhich\ Sjzjojz4ht
-OL,4,G]Done comes first?      \  Sb?'~7/w)w>
-OL,5,                W+mtp       S?(}rsx="}w 
-OL,6,                            Sm}tsssx}?j 
-OL,7,                             S+/}|/a'T
-OL,8,                          Tz}Wlp  px,T~
+OL,1,                         \  W6!  Sp~0Wi 
+OL,2, ]DQuestion 5. Who was the\  S<|~3oW"5
+OL,3, ]Dfirst British monarch \  Sjzjojz4ht
+OL,4,G]Dto broadcast a        \  Sb?'~7/w)w>
+OL,5,G]DChristmas radio message?\S?(}rsx="}w 
+OL,6,                W+mtp    \  Sm}tsssx}?j 
+OL,7,                             S+/}|/a'Q
+OL,8,                          Qz}Wlp  px,Q~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GThe Cook's Tale               
-OL,13, M  B]D \GThe Knight's Tale             
-OL,16, M  C]D \GThe Parson's Tale             
-OL,19, M  F]D \GThe Summoner's Tale           
+OL,10, M  A]G \GEdward VIII                   
+OL,13, M  B]D \GGeorge V                      
+OL,16, M  C]D \GGeorge VI                     
+OL,19, M  F]D \GElizabeth II                  
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A      B      C      F      
