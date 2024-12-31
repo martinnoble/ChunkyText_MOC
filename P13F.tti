@@ -1,21 +1,23 @@
-DE,1997-12-22 recovery
+DE,1998-02-16 recovery
+CT,8,T
 PS,8010
 PN,13F00
 SC,0000
+RE,0
 FL,14a,14a,14a,14b,1ff,150
 OL,1,                         \  W6!  Sp~0Wi 
-OL,2, ]DQuestion 9. Who landed\   S<|~3oW"5
-OL,3, ]Dat Plymouth Rock in   \  Sjzjojz4ht
-OL,4,G]Dthe USA on Christmas  \  Sb?'~7/w)w>
-OL,5,G]DDay in 1620?          \  S?(}rsx="}w 
-OL,6,                W+mtp    \  Sm}tsssx}?j 
-OL,7,                             S+/}|/a'Q
-OL,8,                          Qz}Wlp  px,Q~
+OL,2, ]DQuestion 9.           \   S<|~3oW"5
+OL,3, ]DWhich country lies    \  Sjzjojz4ht
+OL,4,G]Dbetween Zimbabwe and  \  Sb?'~7/w)w>
+OL,5,G]Dthe sea?              \  S?(}rsx="}w 
+OL,6,G               W+mtp    \  Sm}tsssx}?j 
+OL,7,                             S+/}|/a'T
+OL,8,                          Tz}Wlp  px,T~
 OL,9,AA``````````````````````````````````````
-OL,10, M  A]G \GSir Walter Raleigh            
-OL,13, M  B]D \GVasco da Gama                 
-OL,16, M  C]D \GCaptain Cook                  
-OL,19, M  F]D \GThe Pilgrim Fathers           
+OL,10,M  A]G \GRwanda                         
+OL,13,M  B]D \GUganda                         
+OL,16,M  C]D \GKenya                          
+OL,19,M  F]D \GMozambique                     
 OL,22,\  D]GPress the colour of your choice.\ 
 OL,23,AA``````````````````````````````````````
 OL,24,A      B      C      F      
