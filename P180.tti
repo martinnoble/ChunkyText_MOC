@@ -4,32 +4,6 @@ CT,2,C
 PN,18001
 SC,0001
 FL,104,130,131,121,8ff,100
-OL,1,Q'3o'3o#?c{#s7c+?c+7k#] ##############
-OL,2,Q 5j 5j }4j ~5h"5j 7h"]G]D TUESDAY QA]
-OL,3,Q/,-.-,/,-,/,,-,./,.-.,///,,,,,,,,,,,,,/
-OL,4,                    G                   
-OL,5,F19.00GRecent But DecentCRevisiting the 
-OL,6,      Cfreshest tracks from the noisebox
-OL,7,      CA listG                  X23.12.X
-OL,8,F20.00GMiddle-Aged Teenage Angst But    
-OL,9,      GWith Snow On The LogoCAlternative
-OL,10,      C/Indie festively tinged Christmas
-OL,11,      Cnoises with Ben Baker            
-OL,12,F21.00GOff The ChartCThe eighties chart 
-OL,13,      Cshow with the hits, nearly hits, 
-OL,14,      Cand "what in the name of Santa's 
-OL,15,      Carse was that???"                
-OL,16,F23.00GOff The Chart TooCa bonus hour of
-OL,17,      Chits from this week in 1983      
-OL,18,F00.00GNoisebox at Night                
-OL,19,                               E@FRepeat
-OL,20,X06.30X  Ftomorrow's programmes followH>
-OL,21,A]D  Christmas on noiseboxradio.com     
-OL,22,M]D FOR A CALL TO CHEAPER CARPETS  p182 
-OL,24,ATeletext ArtBBlueSkyCDiscordFCuban Boys
-PN,18003
-SC,0003
-FL,104,130,131,121,8ff,100
 OL,1,Q'3o'3o#?c{#s7c+?c+7k#]G]DCHRISTMASQA]#
 OL,2,Q 5j 5j }4j ~5h"5j 7h"]G]D   EVE   QA] 
 OL,3,Q/,-.-,/,-,/,,-,./,.-.,//,,,,,,,,,,,,,//
@@ -53,8 +27,8 @@ OL,20,X19.00X     Fevening programmes followH>
 OL,21,A]D  Christmas on noiseboxradio.com     
 OL,22,D]MGPOLYVINYL FLOORING SUPERSAVERS p185 
 OL,24,ATeletext ArtBBlueSkyCDiscordFCuban Boys
-PN,18003
-SC,0003
+PN,18002
+SC,0002
 FL,104,130,131,121,8ff,100
 OL,1,Q'3o'3o#?c{#s7c+?c+7k#]G]DCHRISTMASQA]#
 OL,2,Q 5j 5j }4j ~5h"5j 7h"]G]D   EVE   QA] 
@@ -74,7 +48,7 @@ OL,15,      CChart Christmas Poll. Who will be
 OL,16,      Ccrowned the victor this year?    
 OL,17,F23.00GNoisebox at Night                
 OL,19,                               E@FRepeat
-OL,20,X06.30X     Ftoday's programmes followH>
+OL,20,X06.30X     Fmorning programmes followH>
 OL,21,A]D  Christmas on noiseboxradio.com     
 OL,22,M]D FOR A CALL TO CHEAPER CARPETS  p182 
 OL,24,ATeletext ArtBBlueSkyCDiscordFCuban Boys
