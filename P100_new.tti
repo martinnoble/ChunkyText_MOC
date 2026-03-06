@@ -1,15 +1,18 @@
 DE,Chunkytext Main Page
-CT,7,T
-PS,8010
+DS,inserter
+SP,C:\users\martin\Documents\cf\P100_new.tti
 PN,10001
 SC,0001
-FL,102,103,170,101,45a,101
+PS,8010
+CT,7,T
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        wxTED Header mpp        %H:%M.%S
 OL,2,D]Sh||4|4        h|      |4        h|   
 OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
 OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
 OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
 OL,6,A```````````````````````````````````````
-OL,7,A     CK E E P  I T  B L O C K YA     
+OL,7,A     CI have edited this! WOW! A     
 OL,8,A```````````````````````````````````````
 OL,9,M   RESTORED PAGES FROM OCTOBER 1997    
 OL,12,CRECOVERYFA heap of pages W7###########k
@@ -24,15 +27,18 @@ OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \
 OL,21,A```````````````````````````````````````
 OL,22,D]GMWHAT THE HECK IS CHUNKYTEXT? p102   
 OL,24,AAbout  BUser guide   CDigitiser  FIndex
+FL,102,103,170,101,45a,101
 PN,10002
 SC,0002
-FL,102,103,170,101,45a,101
+PS,8000
+CT,8,T
+OL,0,        wxTED Header mpp        %H:%M.%S
 OL,2,D]Sh||4|4        h|      |4        h|   
 OL,3,D]Sj  }|h|h4|||jx$|4|h}h||4|4|4~4  
 OL,4,D]Sj  5jj55jk5/- 5j.%{1j   
 OL,5,T]S*//%/%/*//%/%/*/*%/// /%*//%/%/%*/   
 OL,6,A```````````````````````````````````````
-OL,7,A     CK E E P  I T  B L O C K YA     
+OL,7,A     CIt's a great thing - YAY!A     
 OL,8,A```````````````````````````````````````
 OL,9,M  LATEST TELESOFTWARE FOR YOUR MICRO!  
 OL,12,CTELESOFTWAREFDownload newW7###########k
@@ -47,3 +53,4 @@ OL,20,   D]FFULLCCHUNKYTEXTFCONTENTSG101  \
 OL,21,A```````````````````````````````````````
 OL,22,D]GMJOIN THE TELETEXT COMMUNITY p131    
 OL,24,AAbout  BUser guide   CDigitiser  FIndex
+FL,102,103,170,101,45a,101
