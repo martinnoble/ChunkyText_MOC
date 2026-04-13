@@ -11,5 +11,6 @@ OL,6,~c 2.4 kV]~u~X]`(#~\U~[W~|``*MONITOR~[M/
 OL,7,C~b 567 V]-`h]-`h~\V~[U~|``*MoniTxt~\T~c
 OL,8, 3.6 kVRRRR~\V~[W~|``+DATACST~[M/C~c 1.5
 OL,9, kV]$~X]$~X~\W~[U~|``+DataTxt~\T~c 7.6 k
-OL,10,VRRRR~\W~[***|c                         
+OL,10,VRRRR~\W~[W~|``)TESTING~]Q~a 1 kV]~u~X]`
+OL,11,(#~\X~[***|c                            
 OL,27,@JEA@@@OOOGOKOOOGOKOOOGOKOOOGOKOOOGOKO@@
